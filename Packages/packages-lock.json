@@ -141,6 +141,12 @@
       "dependencies": {},
       "hash": "b5c2335720146358ae35a3ca25807140da33713d"
     },
+    "handwriting": {
+      "version": "file:vr-handwriting-upm",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "org.vitrivr.unityinterface.cineastapi": {
       "version": "https://github.com/vitrivr/CineastUnityInterface.git#v0.0.1",
       "depth": 0,

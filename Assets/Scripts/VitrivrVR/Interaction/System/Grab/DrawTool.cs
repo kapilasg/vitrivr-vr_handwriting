@@ -59,11 +59,7 @@ namespace VitrivrVR.Interaction.System.Grab
           _currentLine.positionCount++;
           _currentLine.SetPosition(numPositions, position);
         }
-
-        if (_currentLine.positionCount == 50)
-        {
-          Destroy(_currentLine);
-        }
+        
       }
     }
 
