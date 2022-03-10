@@ -1,0 +1,11 @@
+{
+  "name": "handwriting",
+  "version": "0.0.1",
+  "displayName": "VR-Handwriting",
+  "description": "Virtual Reality Handwriting Unity Package Manager package for writing and recognizing characters.",
+  "unity": "2021.2",
+  "author": {
+    "name": "Kapilas Gnanarajah",
+    "email": "kapilas.gnanarajah@stud.unibas.ch"
+  }
+}
