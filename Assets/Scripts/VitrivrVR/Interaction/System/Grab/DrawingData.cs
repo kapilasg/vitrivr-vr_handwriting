@@ -114,6 +114,7 @@ namespace VitrivrVR.Interaction.System.Grab
             var decomp = a.Svd(true);
             var v = decomp.VT.Transpose(); // returns 3x3 matrix where the first 2 colums are "Richtungvektoren" and the 3. is normal vector to plane.
             var normal = v.Column(2);
+            //  r = v.Column(0),  s = v.Column(1) => direction vectors
             return new Vector3(normal[0], normal[1], normal[2]);
         }
 
