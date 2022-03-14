@@ -67,28 +67,8 @@ namespace VitrivrVR.Interaction.System.Grab
 
         private void FindPlane()
         {
-            // make a matrix out of all points which is a vector list
-            var A = Matrix<float>.Build;
-            int n = _points.Count; 
-            float[,] vectorArray = new float[n,3];
-            Vector3 center = new Vector3(0, 0, 0);
-            for (int i = 0; i < n; i++)
-            {
-                vectorArray[i, 0] = _points[i].x; 
-                vectorArray[i, 1] = _points[i].y; 
-                vectorArray[i, 2] = _points[i].z;
-                center.x += _points[i].x; 
-                center.y += _points[i].y; 
-                center.z += _points[i].z;
-            }
-            center /= n;
-            _supportVector = center;
-            var a = A.DenseOfArray(vectorArray);
-            var decomp = a.Svd(true);
-            var v = decomp.VT.Transpose(); 
-            // returns 3x3 matrix where the first 2 colums are "Richtungvektoren" and the 3. is normal vector to plane.
-            var normal = v.Column(2);
-            _normalVector = new Vector3(normal[0], normal[1], normal[2]);
+            _supportVector = CalcSupportVector();
+            _normalVector = CalcNormalVector();
             plane.SetNormalAndPosition(_normalVector, _supportVector);
         }
 
@@ -105,6 +85,48 @@ namespace VitrivrVR.Interaction.System.Grab
             // TODO convert 3D vectors to 2D vectors
             return result;
         }
+
+        private Vector3 CalcSupportVector()
+        {
+            Vector3 center = new Vector3(0, 0, 0);
+            for (int i = 0; i < _points.Count; i++)
+            {
+                center.x += _points[i].x; 
+                center.y += _points[i].y; 
+                center.z += _points[i].z;
+            }
+            center /= n;
+            return center;
+        }
+
+        private Vector3 CalcNormalVector()
+        {
+            // make a matrix out of all points which is a vector list
+            var A = Matrix<float>.Build;
+            float[,] vectorArray = new float[_points.Count,3];
+            for (int i = 0; i < _points.Count; i++)
+            {
+                vectorArray[i, 0] = _points[i].x; 
+                vectorArray[i, 1] = _points[i].y; 
+                vectorArray[i, 2] = _points[i].z;
+            }
+            var a = A.DenseOfArray(vectorArray);
+            var decomp = a.Svd(true);
+            var v = decomp.VT.Transpose(); // returns 3x3 matrix where the first 2 colums are "Richtungvektoren" and the 3. is normal vector to plane.
+            var normal = v.Column(2);
+            return new Vector3(normal[0], normal[1], normal[2]);
+        }
+
+        public Vector3 GetSupportVector()
+        {
+            return _supportVector;
+        }
+
+        public Vector3 getNormalVector()
+        {
+            return _normalVector;
+        }
+        
         // TODO use GIZMOS to test what you wrote so far!!!
 
         // TODO get character recognition method
