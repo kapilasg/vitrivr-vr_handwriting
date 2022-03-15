@@ -107,6 +107,9 @@ namespace VitrivrVR.Interaction.System.Grab
         Gizmos.DrawWireCube(collectData.GetSupportVector(), new Vector3(0.1f, 0.1f, 0.1f));
         Gizmos.DrawLine(collectData.GetSupportVector(), collectData.GetNormalVector());
         Gizmos.DrawLine(new Vector3(0.0f, 0.0f, 0.0f), collectData.GetNormalVector());
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawLine(collectData.GetSupportVector(), collectData.GetDirectVector1());
+        Gizmos.DrawLine(collectData.GetSupportVector(), collectData.GetDirectVector2());
     }
   }
 }
