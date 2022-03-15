@@ -12,6 +12,8 @@ namespace VitrivrVR.Interaction.System.Grab
         private List<Vector3> _points; // contains from every line first, last and middle point OR random number of points
         private Vector3 _supportVector;
         private Vector3 _normalVector;
+        private Vector3 _directVector1;
+        private Vector3 _directVector2;
         private Plane _plane;
         
         public DrawingData()
@@ -67,7 +69,16 @@ namespace VitrivrVR.Interaction.System.Grab
         private void FindPlane()
         {
             _supportVector = CalcSupportVector();
-            _normalVector = CalcNormalVector();
+            
+            var v = CalcDecomp();
+            var dirVec1 = v.Column(0); // => direction vectors
+            var dirVec2 = v.Column(1);
+            var normalVec = v.Column(2);
+
+            _directVector1 = new Vector3(dirVec1[0], dirVec1[1], dirVec1[2]);
+            _directVector2 = new Vector3(dirVec2[0], dirVec2[1], dirVec2[2]);
+            _normalVector = new Vector3(normalVec[0], normalVec[1], normalVec[2]);
+            
             _plane.SetNormalAndPosition(_normalVector, _supportVector);
         }
 
@@ -98,7 +109,7 @@ namespace VitrivrVR.Interaction.System.Grab
             return center;
         }
 
-        private Vector3 CalcNormalVector()
+        private Matrix<float> CalcDecomp()
         {
             // make a matrix out of all points which is a vector list
             var A = Matrix<float>.Build;
@@ -112,9 +123,8 @@ namespace VitrivrVR.Interaction.System.Grab
             var a = A.DenseOfArray(vectorArray);
             var decomp = a.Svd(true);
             var v = decomp.VT.Transpose(); // returns 3x3 matrix where the first 2 colums are "Richtungvektoren" and the 3. is normal vector to plane.
-            var normal = v.Column(2);
-            //  r = v.Column(0),  s = v.Column(1) => direction vectors
-            return new Vector3(normal[0], normal[1], normal[2]);
+
+            return v;
         }
 
         public Vector3 GetSupportVector()
@@ -125,6 +135,16 @@ namespace VitrivrVR.Interaction.System.Grab
         public Vector3 GetNormalVector()
         {
             return _normalVector;
+        }
+
+        public Vector3 GetDirectVector1()
+        {
+            return _directVector1;
+        }
+
+        public Vector3 GetDirectVector2()
+        {
+            return _directVector2;
         }
 
         public Plane GetPlane()
