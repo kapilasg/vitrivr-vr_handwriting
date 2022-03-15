@@ -32,6 +32,14 @@ namespace VitrivrVR.Interaction.System.Grab
             _drawnLines[n - 1] = line;
         }
 
+        // Removes all lines in _drawnLines
+        public void RemoveAllLines()
+        {
+            int n = _drawnLines.Count;
+            _drawnLines.RemoveRange(0, n);
+            _drawnLines = null;
+        }
+
         private void SetPoints()
         {
             int numberOfPoints = 0;
