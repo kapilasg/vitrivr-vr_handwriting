@@ -26,6 +26,12 @@ namespace VitrivrVR.Interaction.System.Grab
             _drawnLines.Add(line);
         }
 
+        public void UpdateLine(LineRenderer line)
+        {
+            int n = _drawnLines.Count;
+            _drawnLines[n - 1] = line;
+        }
+
         private void SetPoints()
         {
             int numberOfPoints = 0;
@@ -43,10 +49,15 @@ namespace VitrivrVR.Interaction.System.Grab
                 }
                 else
                 {
+                    for (int i = 0; i < numberOfPoints; i++)
+                    {
+                        _points.Add(line.GetPosition(i));
+                    }
+                    /*
                     _points.Add(line.GetPosition(0));
                     _points.Add(line.GetPosition(numberOfPoints / 2));
                     _points.Add(line.GetPosition(numberOfPoints - 1));
-                    // or add all points
+                    */
                 }
             }
         }

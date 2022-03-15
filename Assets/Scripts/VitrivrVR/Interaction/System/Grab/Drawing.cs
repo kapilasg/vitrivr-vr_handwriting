@@ -5,7 +5,6 @@ namespace VitrivrVR.Interaction.System.Grab
 {
   public class Drawing : Grabable
   {
-    public DrawingData collectData;
     public Material lineMaterial;
     public float lineWidth = 0.01f;
     public float maxSegmentDistance = 0.02f;
@@ -14,6 +13,7 @@ namespace VitrivrVR.Interaction.System.Grab
     private LineRenderer _currentLine;
     private LineRenderer _lineGameObject;
     private float _sqrMaxSegmentDistance;
+    private DrawingData _collectData;
 
     private new void Awake()
     {
@@ -26,7 +26,7 @@ namespace VitrivrVR.Interaction.System.Grab
       _lineGameObject.widthMultiplier = lineWidth;
       _lineGameObject.numCapVertices = 4;
       _lineGameObject.numCornerVertices = 4;
-      collectData = new DrawingData();
+      _collectData = new DrawingData();
     }
 
     private new void Update()
@@ -38,6 +38,7 @@ namespace VitrivrVR.Interaction.System.Grab
       var numPositions = _currentLine.positionCount;
       var position = transform.position;
       _currentLine.SetPosition(numPositions - 1, position);
+      _collectData.UpdateLine(_currentLine);
       // If the last position was far enough away, create new point
       var lastPosition = _currentLine.GetPosition(numPositions - 2);
       if ((lastPosition - position).sqrMagnitude > _sqrMaxSegmentDistance)
@@ -50,32 +51,36 @@ namespace VitrivrVR.Interaction.System.Grab
           if (angle < minCornerAngle)
           {
             _currentLine.SetPosition(numPositions - 2, position);
+            _collectData.UpdateLine(_currentLine);
           }
           else
           {
             _currentLine.positionCount++;
             _currentLine.SetPosition(numPositions, position);
+            _collectData.UpdateLine(_currentLine);
           }
         }
         else
         {
           _currentLine.positionCount++;
           _currentLine.SetPosition(numPositions, position);
+          _collectData.UpdateLine(_currentLine);
         }
+        
+        // TODO HOW TO FIND END OF LETTER ??
+        
+        
+        
 
-        if (_currentLine.positionCount == 50)
-        {
-          Destroy(_currentLine);
-        }
+        // if (_currentLine.positionCount == 50)
+        // {
+        //   Destroy(_currentLine);
+        // }
       }
     }
 
     private void OnDisable()
     {
-      if (_currentLine)
-      {
-        collectData.AddLine(_currentLine);
-      }
       _currentLine = null;
     }
 
@@ -87,7 +92,7 @@ namespace VitrivrVR.Interaction.System.Grab
         var position = transform.position;
         _currentLine.SetPosition(0, position);
         _currentLine.SetPosition(1, position);
-        // collectData.addLine(_currentLine);
+        _collectData.AddLine(_currentLine);
       }
       else
       {
@@ -97,19 +102,19 @@ namespace VitrivrVR.Interaction.System.Grab
 
 	private void OnDrawGizmos()
     {
-        if (collectData.GetNumberOfPoints() == 0)
+        if (_collectData.GetNumberOfPoints() == 0)
         {
             return;
         }
         
         Gizmos.color = Color.green;
         Gizmos.matrix = transform.localToWorldMatrix;
-        Gizmos.DrawWireCube(collectData.GetSupportVector(), new Vector3(0.1f, 0.1f, 0.1f));
-        Gizmos.DrawLine(collectData.GetSupportVector(), collectData.GetNormalVector());
-        Gizmos.DrawLine(new Vector3(0.0f, 0.0f, 0.0f), collectData.GetNormalVector());
+        Gizmos.DrawWireCube(_collectData.GetSupportVector(), new Vector3(0.1f, 0.1f, 0.1f));
+        Gizmos.DrawLine(_collectData.GetSupportVector(), _collectData.GetNormalVector());
+        Gizmos.DrawLine(new Vector3(0.0f, 0.0f, 0.0f), _collectData.GetNormalVector());
         Gizmos.color = Color.yellow;
-        Gizmos.DrawLine(collectData.GetSupportVector(), collectData.GetDirectVector1());
-        Gizmos.DrawLine(collectData.GetSupportVector(), collectData.GetDirectVector2());
+        Gizmos.DrawLine(_collectData.GetSupportVector(), _collectData.GetDirectVector1());
+        Gizmos.DrawLine(_collectData.GetSupportVector(), _collectData.GetDirectVector2());
     }
   }
 }
