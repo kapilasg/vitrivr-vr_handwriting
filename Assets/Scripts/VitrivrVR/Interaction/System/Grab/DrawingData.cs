@@ -21,18 +21,20 @@ namespace VitrivrVR.Interaction.System.Grab
             _drawnLines = new List<LineRenderer>();
         }
 
+        // Adds LineRenderer Object to the List _drawnLines.
         public void AddLine(LineRenderer line)
         {
             _drawnLines.Add(line);
         }
 
+        // Updates the last added line in _drawnLines with the new Line.
         public void UpdateLine(LineRenderer line)
         {
             int n = _drawnLines.Count;
             _drawnLines[n - 1] = line;
         }
 
-        // Removes all lines in _drawnLines
+        // Removes all lines in _drawnLines.
         public void RemoveAllLines()
         {
             int n = _drawnLines.Count;
@@ -140,31 +142,37 @@ namespace VitrivrVR.Interaction.System.Grab
             return v;
         }
 
+        // This method returns the supportVector (Focus point).
         public Vector3 GetSupportVector()
         {
             return _supportVector;
         }
 
+        // This method returns the normal vector to create the plane.
         public Vector3 GetNormalVector()
         {
             return _normalVector;
         }
 
+        // This method returns a directional vector (can be used with GetDirectVector2() to span a plane).
         public Vector3 GetDirectVector1()
         {
             return _directVector1;
         }
 
+        // This method returns a directional vector (can be used with GetDirectVector1() to span a plane).
         public Vector3 GetDirectVector2()
         {
             return _directVector2;
         }
 
+        // This method returns a Plane Object with smallest distance to all points.
         public Plane GetPlane()
         {
             return _plane;
         }
 
+        // This method returns the number of points collected so far.
         public int GetNumberOfPoints()
         {
             return _points.Count;
