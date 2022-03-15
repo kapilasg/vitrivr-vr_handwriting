@@ -58,12 +58,8 @@ namespace VitrivrVR.Interaction.System.Grab
             {
                 return;
             }
-            else
-            {
-                // TODO Regressionsebene durch Punktwolke
-                // https://www.matheboard.de/archive/550004/thread.html
-                FindPlane();
-            }
+
+            FindPlane();
         }
 
         private void FindPlane()
@@ -89,9 +85,7 @@ namespace VitrivrVR.Interaction.System.Grab
             var factor = Vector3.Dot((v - _supportVector), _normalVector);
             var div = Vector3.Dot(_normalVector, _normalVector);
             result = v - (factor / div)*_normalVector; 
-            // TODO find better source 
-            // source:https://studyflix.de/mathematik/orthogonale-projektion-1468
-            
+
             // TODO convert 3D vectors to 2D vectors
             return result;
         }
