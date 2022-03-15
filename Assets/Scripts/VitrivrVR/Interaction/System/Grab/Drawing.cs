@@ -97,13 +97,14 @@ namespace VitrivrVR.Interaction.System.Grab
 
 	private void OnDrawGizmos()
     {
-        if (!collectData)
+        if (collectData.GetNumberOfPoints() == 0)
         {
             return;
         }
+        
         Gizmos.color = Color.green;
         Gizmos.matrix = transform.localToWorldMatrix;
-        Gizmos.DrawWireCube(collectData.GetSupportVector(), new Vector3(0.1, 0.1, 0.1));
+        Gizmos.DrawWireCube(collectData.GetSupportVector(), new Vector3(0.1f, 0.1f, 0.1f));
         Gizmos.DrawLine(collectData.GetSupportVector(), collectData.GetNormalVector());
     }
   }

@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-using System.Numerics;
 using MathNet.Numerics.LinearAlgebra;
 using UnityEngine;
 using Plane = UnityEngine.Plane;
@@ -13,7 +12,7 @@ namespace VitrivrVR.Interaction.System.Grab
         private List<Vector3> _points; // contains from every line first, last and middle point OR random number of points
         private Vector3 _supportVector;
         private Vector3 _normalVector;
-        public Plane plane;
+        private Plane _plane;
         
         public DrawingData()
         {
@@ -69,13 +68,13 @@ namespace VitrivrVR.Interaction.System.Grab
         {
             _supportVector = CalcSupportVector();
             _normalVector = CalcNormalVector();
-            plane.SetNormalAndPosition(_normalVector, _supportVector);
+            _plane.SetNormalAndPosition(_normalVector, _supportVector);
         }
 
         private Vector3 ProjectToPlane(Vector3 v)
         {
             Vector3 result;
-            var distance = plane.GetDistanceToPoint(v);
+            var distance = _plane.GetDistanceToPoint(v);
             var factor = Vector3.Dot((v - _supportVector), _normalVector);
             var div = Vector3.Dot(_normalVector, _normalVector);
             result = v - (factor / div)*_normalVector; 
@@ -95,7 +94,7 @@ namespace VitrivrVR.Interaction.System.Grab
                 center.y += _points[i].y; 
                 center.z += _points[i].z;
             }
-            center /= n;
+            center /= _points.Count;
             return center;
         }
 
@@ -123,9 +122,19 @@ namespace VitrivrVR.Interaction.System.Grab
             return _supportVector;
         }
 
-        public Vector3 getNormalVector()
+        public Vector3 GetNormalVector()
         {
             return _normalVector;
+        }
+
+        public Plane GetPlane()
+        {
+            return _plane;
+        }
+
+        public int GetNumberOfPoints()
+        {
+            return _points.Count;
         }
         
         // TODO use GIZMOS to test what you wrote so far!!!
