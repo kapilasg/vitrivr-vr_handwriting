@@ -142,9 +142,9 @@
       "hash": "b5c2335720146358ae35a3ca25807140da33713d"
     },
     "handwriting": {
-      "version": "file:vr-handwriting-upm",
+      "version": "file:C:/Users/student/Documents/UnityProjects/vr-handwriting-upm",
       "depth": 0,
-      "source": "embedded",
+      "source": "local",
       "dependencies": {}
     },
     "org.vitrivr.unityinterface.cineastapi": {
