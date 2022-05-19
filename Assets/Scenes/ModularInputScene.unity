@@ -2262,6 +2262,51 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1072688649
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1072688651}
+  - component: {fileID: 1072688650}
+  m_Layer: 0
+  m_Name: Evaluation
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1072688650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1072688649}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5cb189b635d4019a936fa30945fe3cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  participantID: A
+--- !u!4 &1072688651
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1072688649}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.5, z: 2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 20
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1083301797 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3603498185390360075, guid: f2f36bb0a1c3743b996ebbfb2f795c26,
@@ -6471,6 +6516,11 @@ PrefabInstance:
       objectReference: {fileID: 1560951215}
     - target: {fileID: 6926442452880329504, guid: 3bce3c402858a35448ed82138f3513bf,
         type: 3}
+      propertyPath: evalLog
+      value: 
+      objectReference: {fileID: 1072688650}
+    - target: {fileID: 6926442452880329504, guid: 3bce3c402858a35448ed82138f3513bf,
+        type: 3}
       propertyPath: collectData
       value: 
       objectReference: {fileID: 1560951215}
@@ -6840,6 +6890,11 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -0.09978866
       objectReference: {fileID: 0}
+    - target: {fileID: 9024188728493279309, guid: 97a0b8daecfb1854988e2d3693e1a89e,
+        type: 3}
+      propertyPath: evalLog
+      value: 
+      objectReference: {fileID: 1072688650}
     - target: {fileID: 9024188728493279309, guid: 97a0b8daecfb1854988e2d3693e1a89e,
         type: 3}
       propertyPath: dataConverter
