@@ -1,0 +1,602 @@
+Found: p 
+Top five: p, l, h, f, b 
+
+(Backspace) 
+
+h
+(Corrected / byClick: ) h 
+
+Found: s 
+Top five: s, u, n, c 
+
+h
+(Backspace) 
+
+Found: s 
+Top five: s, o, c 
+
+h
+(Backspace) 
+
+Found: e 
+Top five: e, b, a 
+
+Found: l 
+Top five: l, r, f, b, a 
+
+Found: h 
+Top five: h, k, i, b, a 
+
+hel
+(Backspace) 
+
+Found: r 
+Top five: r, l, f, b, a 
+
+hel
+(Backspace) 
+
+hell
+(Corrected / byClick: ) l 
+
+Found: o 
+Top five: o, c 
+
+hello 
+(Space) 
+
+Found: w 
+Top five: w 
+
+Found: o 
+Top five: o, c 
+
+Found: r 
+Top five: r, n, h, e, b 
+
+Found: l 
+Top five: l, i, t, x, u 
+
+Found: d 
+Top five: d, a, x, u, v 
+
+Found: m 
+Top five: m 
+
+Found: u 
+Top five: u, a 
+
+m
+(Backspace) 
+
+ma
+(Corrected / byClick: ) a 
+
+Found: y 
+Top five: y, p, h, r, v 
+
+ma
+(Backspace) 
+
+Found: k 
+Top five: k, a 
+
+Found: e 
+Top five: e, d, b, a 
+
+make 
+(Space) 
+
+Found: n 
+Top five: n, k, a 
+
+make 
+(Backspace) 
+
+Found: d 
+Top five: d, b, a 
+
+make 
+(Backspace) 
+
+Found: m 
+Top five: m 
+
+make 
+(Backspace) 
+
+Found: u 
+Top five: u, a 
+
+Found: p 
+Top five: p, h, b, a 
+
+make up 
+(Space) 
+
+Found: a 
+Top five: a 
+
+make up a 
+(Space) 
+
+Found: f 
+Top five: f, d, b, a 
+
+Found: e 
+Top five: e, s, c 
+
+Found: m 
+Top five: m 
+
+make up a fe
+(Backspace) 
+
+Found: w 
+Top five: w 
+
+make up a few 
+(Space) 
+
+Found: m 
+Top five: m, w, e 
+
+Found: e 
+Top five: e, o, c 
+
+make up a few m
+(Backspace) 
+
+make up a few mo
+(Corrected / byClick: ) o 
+
+Found: r 
+Top five: r, l, e, d, b 
+
+Found: e 
+Top five: e, y, g, a 
+
+make up a few more 
+(Space) 
+
+Found: p 
+Top five: p, h, r, b, a 
+
+Found: f 
+Top five: f, a, k 
+
+make up a few more p
+(Backspace) 
+
+Found: h 
+Top five: h, l, b, a 
+
+Found: r 
+Top five: r, l, b, a 
+
+Found: a 
+Top five: a, u 
+
+Found: s 
+Top five: s, c, o 
+
+Found: e 
+Top five: e, c 
+
+Found: f 
+Top five: f, e, a, k 
+
+make up a few more phrase
+(Backspace) 
+
+Found: s 
+Top five: s, u, e, c 
+
+Found: m 
+Top five: m 
+
+Found: a 
+Top five: a, u 
+
+Found: r 
+Top five: r, n, h, e, d 
+
+Found: y 
+Top five: y, x, r, q, g 
+
+Found: h 
+Top five: h, l, k, f, b 
+
+mary
+(Backspace) 
+
+mary 
+(Space) 
+
+mary h
+(Corrected / byClick: ) h 
+
+Found: a 
+Top five: a, u 
+
+Found: d 
+Top five: d, h, f, k, a 
+
+mary had 
+(Space) 
+
+Found: m 
+Top five: m, a 
+
+mary had 
+(Backspace) 
+
+Found: a 
+Top five: a, u 
+
+mary had a 
+(Space) 
+
+Found: l 
+Top five: l, h, f, b, a 
+
+Found: k 
+Top five: k, f, e, a 
+
+mary had a l
+(Backspace) 
+
+Found: i 
+Top five: i, d, n, f, e 
+
+Found: t 
+Top five: t, f, e, b, a 
+
+Found: t 
+Top five: t, f, e, d, b 
+
+Found: l 
+Top five: l, b, a 
+
+Found: s 
+Top five: s, d, y, a 
+
+mary had a littl
+(Backspace) 
+
+Found: e 
+Top five: e, u, c, s 
+
+mary had a little 
+(Space) 
+
+Found: l 
+Top five: l, h, f, b, a 
+
+Found: a 
+Top five: a, u 
+
+Found: m 
+Top five: m 
+
+Found: p 
+Top five: p, h, e, b, a 
+
+mary had a little lam
+(Backspace) 
+
+mary had a little lamb
+(Corrected / byClick: ) b 
+
+Found: i 
+Top five: i, v, x, t, l 
+
+i 
+(Space) 
+
+Found: e 
+Top five: e, s, c, o 
+
+i 
+(Backspace) 
+
+i c
+(Corrected / byClick: ) c 
+
+Found: a 
+Top five: a 
+
+Found: n 
+Top five: n, h, r, l, b 
+
+i can 
+(Space) 
+
+Found: z 
+Top five: z, j, d, x, g 
+
+i can 
+(Backspace) 
+
+Found: e 
+Top five: e, z, w 
+
+i can 
+(Backspace) 
+
+Found: s 
+Top five: s, c 
+
+Found: e 
+Top five: e, c 
+
+i can see
+(Corrected / byClick: ) e 
+
+i can see 
+(Space) 
+
+Found: t 
+Top five: t, f, a 
+
+Found: h 
+Top five: h, k, a 
+
+Found: e 
+Top five: e, c 
+
+i can see the 
+(Space) 
+
+Found: r 
+Top five: r, n, l, h, e 
+
+Found: i 
+Top five: i, u, a 
+
+Found: n 
+Top five: n, k, r, l, h 
+
+Found: q 
+Top five: q, g, a 
+
+i can see the rin
+(Backspace) 
+
+i can see the ring
+(Corrected / byClick: ) g 
+
+Found: h 
+Top five: h, f, e, a 
+
+i can see the ring
+(Backspace) 
+
+Found: s 
+Top five: s, c 
+
+i can see the rings 
+(Space) 
+
+Found: o 
+Top five: o, c 
+
+Found: n 
+Top five: n, r, l, h, f 
+
+i can see the rings on 
+(Space) 
+
+Found: s 
+Top five: s, c 
+
+Found: a 
+Top five: a, u 
+
+Found: t 
+Top five: t, f, a 
+
+Found: n 
+Top five: n, a 
+
+i can see the rings on sat
+(Backspace) 
+
+Found: u 
+Top five: u, a, p, e 
+
+Found: r 
+Top five: r, n, l, h, e 
+
+Found: r 
+Top five: r, d, h, e, b 
+
+i can see the rings on satur
+(Backspace) 
+
+Found: n 
+Top five: n, h, l, r, e 
+
+Found: e 
+Top five: e, a, k 
+
+
+(Backspace) 
+
+Found: t 
+Top five: t, l, f, b, a 
+
+Found: i 
+Top five: i, y, v, t, q 
+
+Found: m 
+Top five: m, w 
+
+Found: e 
+Top five: e, u, c, s 
+
+time 
+(Space) 
+
+Found: t 
+Top five: t, f, e, a 
+
+Found: o 
+Top five: o, c 
+
+time to 
+(Space) 
+
+Found: j 
+Top five: j, q, g, e, a 
+
+time to 
+(Backspace) 
+
+time to g
+(Corrected / byClick: ) g 
+
+Found: o 
+Top five: o, c 
+
+time to go 
+(Space) 
+
+Found: s 
+Top five: s, c 
+
+Found: h 
+Top five: h, b, a 
+
+Found: o 
+Top five: o, c 
+
+Found: p 
+Top five: p, k, h, b, a 
+
+time to go shopp
+(Corrected / byClick: ) p 
+
+Found: i 
+Top five: i, t, e, b, a 
+
+Found: n 
+Top five: n, r, d, h, e 
+
+Found: j 
+Top five: j, y, v, r, n 
+
+time to go shoppin
+(Backspace) 
+
+Found: q 
+Top five: q, g, a 
+
+time to go shoppin
+(Backspace) 
+
+time to go shopping
+(Corrected / byClick: ) g 
+
+Found: t 
+Top five: t, f, a 
+
+Found: l 
+Top five: l, i, r, d, b 
+
+t
+(Backspace) 
+
+ti
+(Corrected / byClick: ) i 
+
+Found: c 
+Top five: c 
+
+Found: e 
+Top five: e, z, w 
+
+tic
+(Backspace) 
+
+Found: k 
+Top five: k, a 
+
+Found: e 
+Top five: e, c, u, s 
+
+Found: t 
+Top five: t, f, a 
+
+Found: s 
+Top five: s, c 
+
+tickets 
+(Space) 
+
+Found: a 
+Top five: a, g 
+
+Found: r 
+Top five: r, n, h, e, d 
+
+Found: e 
+Top five: e, c 
+
+tickets are 
+(Space) 
+
+Found: v 
+Top five: v, r, n, l, d 
+
+Found: k 
+Top five: k, e, b, m, a 
+
+tickets are v
+(Backspace) 
+
+tickets are ve
+(Corrected / byClick: ) e 
+
+Found: r 
+Top five: r, d, n, h, e 
+
+Found: d 
+Top five: d, e, a, k 
+
+tickets are ver
+(Backspace) 
+
+Found: y 
+Top five: y, r, g, e, b 
+
+tickets are very 
+(Space) 
+
+Found: e 
+Top five: e, d, b, a 
+
+Found: x 
+Top five: x, v, e, d, a 
+
+Found: p 
+Top five: p, n, h, b, a 
+
+Found: e 
+Top five: e, c 
+
+Found: n 
+Top five: n, k, r, b, a 
+
+Found: s 
+Top five: s, c 
+
+Found: i 
+Top five: i, y, v, a 
+
+Found: v 
+Top five: v, r, d, b, a 
+
+Found: e 
+Top five: e, p, y, b, a 
+

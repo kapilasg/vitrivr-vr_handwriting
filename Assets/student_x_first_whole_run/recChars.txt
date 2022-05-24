@@ -1,0 +1,536 @@
+Found: h 
+Top five: h, l, b, a 
+
+Found: e 
+Top five: e, s, o, c 
+
+Found: l 
+Top five: l, h, f, b, a 
+
+Found: l 
+Top five: l, r, b, a 
+
+Found: s 
+Top five: s, o, c 
+
+(Backspace) 
+
+(Corrected / byClick: ) o 
+
+(Space) 
+
+Found: w 
+Top five: w 
+
+Found: o 
+Top five: o, c 
+
+Found: r 
+Top five: r, n, h, e, d 
+
+Found: l 
+Top five: l, f, b, a 
+
+Found: u 
+Top five: u, d, a 
+
+(Backspace) 
+
+(Corrected / byClick: ) d 
+
+Found: t 
+Top five: t, f, d, a 
+
+Found: h 
+Top five: h, k, a 
+
+Found: e 
+Top five: e, d, a 
+
+(Space) 
+
+Found: s 
+Top five: s, c 
+
+Found: u 
+Top five: u, d, a 
+
+Found: n 
+Top five: n, r, l, h, b 
+
+(Space) 
+
+Found: r 
+Top five: r, l, d, b, a 
+
+Found: i 
+Top five: i, r, u, p, n 
+
+Found: s 
+Top five: s, c 
+
+Found: e 
+Top five: e, u, c, s 
+
+Found: d 
+Top five: d, e, b, a 
+
+(Backspace) 
+
+Found: e 
+Top five: e, y, g, b, a 
+
+(Backspace) 
+
+Found: s 
+Top five: s, c 
+
+Found: i 
+Top five: i, r, v, x, l 
+
+(Backspace) 
+
+(Space) 
+
+(Corrected / byClick: ) i 
+
+Found: n 
+Top five: n, h, r, x, d 
+
+(Space) 
+
+Found: t 
+Top five: t, f, b, a 
+
+Found: n 
+Top five: n, h, k, a 
+
+(Backspace) 
+
+(Corrected / byClick: ) h 
+
+Found: e 
+Top five: e, c, u 
+
+(Space) 
+
+Found: e 
+Top five: e, c, s 
+
+Found: a 
+Top five: a, u 
+
+Found: s 
+Top five: s, o, c 
+
+Found: f 
+Top five: f, d, b, a 
+
+(Backspace) 
+
+Found: t 
+Top five: t, f, e, b, a 
+
+Found: j 
+Top five: j, k, f, a 
+
+Found: u 
+Top five: u, d, b, a 
+
+Found: e 
+Top five: e, p, r, y, j 
+
+Found: s 
+Top five: s, o, c 
+
+(Backspace) 
+
+(Backspace) 
+
+(Corrected / byClick: ) s 
+
+Found: t 
+Top five: t, f, b, a 
+
+(Space) 
+
+Found: l 
+Top five: l, p, h, f, b 
+
+Found: i 
+Top five: i, n, e, b, a 
+
+Found: k 
+Top five: k, a 
+
+Found: e 
+Top five: e, c, u 
+
+(Space) 
+
+Found: i 
+Top five: i, p, h, f, l 
+
+Found: t 
+Top five: t, f, d, b, a 
+
+(Space) 
+
+Found: s 
+Top five: s, c 
+
+Found: a 
+Top five: a 
+
+Found: y 
+Top five: y, x, r, g, e 
+
+Found: s 
+Top five: s, r, f, l, b 
+
+(Space) 
+
+Found: o 
+Top five: o, c 
+
+Found: n 
+Top five: n, r, l, h, b 
+
+(Space) 
+
+Found: t 
+Top five: t, v, f, e, d 
+
+Found: x 
+Top five: x, p, e, a 
+
+(Backspace) 
+
+Found: h 
+Top five: h, k, a 
+
+Found: e 
+Top five: e, c, u, s 
+
+(Space) 
+
+Found: c 
+Top five: c 
+
+Found: a 
+Top five: a, u, g 
+
+Found: n 
+Top five: n, h, k, a 
+
+Found: q 
+Top five: q, g, f, a 
+
+(Backspace) 
+
+(Corrected / byClick: ) g 
+
+Found: i 
+Top five: i, p, h, d, b 
+
+Found: v 
+Top five: v, r, l, b, a 
+
+Found: e 
+Top five: e, p, y, a 
+
+(Space) 
+
+Found: m 
+Top five: m 
+
+Found: e 
+Top five: e, r, n, d, h 
+
+(Space) 
+
+Found: o 
+Top five: o, c 
+
+Found: n 
+Top five: n, l, r, e, b 
+
+Found: e 
+Top five: e, c, u 
+
+(Space) 
+
+Found: n 
+Top five: n, h, g, e, d 
+
+(Backspace) 
+
+Found: s 
+Top five: s, u, e, c 
+
+Found: p 
+Top five: p, r, b, a 
+
+Found: o 
+Top five: o, c 
+
+(Corrected / byClick: ) o 
+
+Found: n 
+Top five: n, h, r, l, e 
+
+Found: f 
+Top five: f, d, b, a 
+
+Found: u 
+Top five: u, n, k, a 
+
+Found: r 
+Top five: r, y, l, f, b 
+
+(Backspace) 
+
+(Corrected / byClick: ) l 
+
+(Space) 
+
+Found: o 
+Top five: o, c 
+
+Found: f 
+Top five: f, d, b, a 
+
+(Space) 
+
+Found: c 
+Top five: c 
+
+Found: e 
+Top five: e, o, s, c 
+
+(Backspace) 
+
+(Corrected / byClick: ) o 
+
+Found: f 
+Top five: f, d, a 
+
+Found: d 
+Top five: d, h, f, e, a 
+
+(Backspace) 
+
+(Corrected / byClick: ) f 
+
+(Corrected / byClick: ) e 
+
+(Corrected / byClick: ) e 
+
+Found: f 
+Top five: f, d, b, a 
+
+Found: i 
+Top five: i, e, a 
+
+Found: n 
+Top five: n, h, l, r, e 
+
+Found: d 
+Top five: d, a, u 
+
+(Space) 
+
+Found: a 
+Top five: a, u 
+
+(Space) 
+
+Found: n 
+Top five: n, h, r, l, d 
+
+Found: e 
+Top five: e, c 
+
+Found: a 
+Top five: a, u 
+
+Found: r 
+Top five: r, n, h, e, d 
+
+Found: h 
+Top five: h, b, p, l, e 
+
+(Backspace) 
+
+(Corrected / byClick: ) b 
+
+Found: y 
+Top five: y, v, r, g, e 
+
+(Space) 
+
+Found: p 
+Top five: p, h, b, a 
+
+Found: y 
+Top five: y, e, d, b, a 
+
+(Backspace) 
+
+Found: a 
+Top five: a, y, u, g 
+
+Found: n 
+Top five: n, h, k, a 
+
+(Backspace) 
+
+Found: r 
+Top five: r, n, l, e, d 
+
+Found: h 
+Top five: h, k, a 
+
+(Backspace) 
+
+(Corrected / byClick: ) k 
+
+Found: i 
+Top five: i, e, b, a 
+
+Found: n 
+Top five: n, h, r, x, e 
+
+Found: q 
+Top five: q, g, a 
+
+(Backspace) 
+
+(Corrected / byClick: ) g 
+
+Found: s 
+Top five: s, c 
+
+(Space) 
+
+(Backspace) 
+
+(Backspace) 
+
+(Space) 
+
+(Corrected / byClick: ) s 
+
+Found: b 
+Top five: b, j, f, k, a 
+
+(Backspace) 
+
+Found: p 
+Top five: p, n, h, b, a 
+
+Found: o 
+Top five: o, c 
+
+Found: t 
+Top five: t, f, b, a 
+
+Found: j 
+Top five: j, g, e, a 
+
+(Backspace) 
+
+(Corrected / byClick: ) g 
+
+Found: e 
+Top five: e, c 
+
+Found: t 
+Top five: t, f, l, b, a 
+
+(Space) 
+
+Found: r 
+Top five: r, v, l, e, d 
+
+Found: v 
+Top five: v, j, n, l, h 
+
+(Backspace) 
+
+Found: i 
+Top five: i, l, h, b, a 
+
+Found: d 
+Top five: d, b, a 
+
+(Space) 
+
+Found: e 
+Top five: e, o, c 
+
+(Backspace) 
+
+(Corrected / byClick: ) o 
+
+Found: f 
+Top five: f, d, b, a 
+
+(Space) 
+
+Found: t 
+Top five: t, f, e, a 
+
+Found: h 
+Top five: h, k, a 
+
+Found: a 
+Top five: a, y, u 
+
+Found: p 
+Top five: p, r, j, e, d 
+
+(Backspace) 
+
+Found: t 
+Top five: t, f, b, a 
+
+(Space) 
+
+Found: i 
+Top five: i, r, l, h, f 
+
+Found: m 
+Top five: m 
+
+(Corrected / byClick: ) m 
+
+Found: e 
+Top five: e, c 
+
+Found: a 
+Top five: a, k 
+
+(Backspace) 
+
+Found: d 
+Top five: d, x, b, a 
+
+Found: i 
+Top five: i, y, t, r, f 
+
+Found: a 
+Top five: a 
+
+Found: t 
+Top five: t, f, b, a 
+
+Found: e 
+Top five: e, d, b, a 
+
+Found: l 
+Top five: l, h, b, a 
+
+Found: y 
+Top five: y, r, e, d, b 
+

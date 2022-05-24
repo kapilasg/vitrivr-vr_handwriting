@@ -1,0 +1,33 @@
+hello world 38.94992 80.78664 41.83672
+ correct: False
+
+Start Evaluation 80.78664 89.47023 8.683594
+ correct: False
+
+the sun rises in the east 89.47023 191.6682 102.198
+ correct: False
+
+Pause 191.6682 204.7197 13.05145
+ correct: False
+
+just like it says on the can 204.7197 299.7852 95.06548
+ correct: False
+
+Pause 299.7852 320.4782 20.69302
+ correct: False
+
+give me one spoonful of coffee 320.4782 421.2441 100.7659
+ correct: False
+
+Pause 421.2441 430.0735 8.829407
+ correct: False
+
+find a nearby parking spot 430.0735 545.3148 115.2412
+ correct: False
+
+Pause 545.3148 556.4161 11.10132
+ correct: False
+
+get rid of that immediately 556.4161 672.5839 116.1678
+ correct: False
+

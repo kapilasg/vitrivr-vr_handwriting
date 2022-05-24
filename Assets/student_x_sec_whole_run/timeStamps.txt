@@ -1,0 +1,33 @@
+hello world 40.41822 99.63186 59.21364
+Text:hello world correct: True
+
+Start Evaluation 99.63186 107.0329 7.401062
+No Text correct: False
+
+make up a few more phrases 107.0329 233.4923 126.4594
+Text:make up a few more phrases correct: True
+
+Pause 233.4923 241.3165 7.824158
+No Text correct: False
+
+mary had a little lamb 241.3165 338.8943 97.57784
+Text:mary had a little lamb correct: True
+
+Pause 338.8943 353.1993 14.30496
+No Text correct: False
+
+i can see the rings on saturn 353.1993 466.1158 112.9165
+Text:i can see the rings on saturn correct: True
+
+Pause 466.1158 525.3765 59.26074
+No Text correct: False
+
+time to go shopping 525.3765 599.8984 74.52191
+Text:time to go shopping correct: True
+
+Pause 599.8984 603.1971 3.298645
+No Text correct: False
+
+tickets are very expensive 603.1971 692.4258 89.22876
+Text:tickets are very expensive correct: True
+
