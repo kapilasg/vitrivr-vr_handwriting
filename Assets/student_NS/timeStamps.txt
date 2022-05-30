@@ -1,0 +1,165 @@
+hello world
+Text:hello world correct: True
+start: 125.1693, firstLetter: 131.4588, endTime: 249.136
+phrase time: 117.6772
+WPM: 1.52960830861458
+ER: 0% with |T| = 11, INF =0
+KSPC: 3% 
+EKS ER: 100% 
+Total ER: 50% 
+#Space: 1, #Backspace: 11
+#ByClick: 4, #RecChars: 17
+#InputStream: 33
+#Display Length: 11
+#Transcribed Length: 11
+
+Start Evaluation
+No Text correct: False
+start: 249.136, firstLetter: 0, endTime: 266.8608
+phrase time: 266.8608
+WPM: 0.269803604416676
+ER: 250% with |T| = 2, INF =5
+KSPC: 0% 
+EKS ER: 31.25% 
+Total ER: 83.33334% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 16
+#Transcribed Length: 2
+
+the most beautiful sunset
+Text:the most beautiful sunset correct: True
+start: 266.8608, firstLetter: 278.3332, endTime: 385.6821
+phrase time: 107.3489
+WPM: 3.24176656409697
+ER: 0% with |T| = 25, INF =0
+KSPC: 1.8% 
+EKS ER: 36% 
+Total ER: 26.47059% 
+#Space: 3, #Backspace: 9
+#ByClick: 6, #RecChars: 27
+#InputStream: 45
+#Display Length: 25
+#Transcribed Length: 25
+
+Pause
+No Text correct: False
+start: 385.6821, firstLetter: 0, endTime: 412.9615
+phrase time: 412.9615
+WPM: 0.174350411889044
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0% 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+consequences of a wrong turn
+Text:consequences of a wrong turn correct: True
+start: 412.9615, firstLetter: 420.0694, endTime: 713.1992
+phrase time: 293.1298
+WPM: 1.30999977304145
+ER: 0% with |T| = 28, INF =0
+KSPC: 3.714286% 
+EKS ER: 132.1429% 
+Total ER: 56.92308% 
+#Space: 5, #Backspace: 37
+#ByClick: 5, #RecChars: 57
+#InputStream: 104
+#Display Length: 28
+#Transcribed Length: 28
+
+Pause
+No Text correct: False
+start: 713.1992, firstLetter: 0, endTime: 733.2389
+phrase time: 733.2389
+WPM: 0.098194464075324
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0% 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+a feeling of complete exasperation
+Text:a feeling of complete exasperation correct: True
+start: 733.2389, firstLetter: 742.3694, endTime: 1022.562
+phrase time: 280.1923
+WPM: 1.62745394463118
+ER: 0% with |T| = 34, INF = 0
+KSPC: 3.441176% 
+EKS ER: 120.5882% 
+Total ER: 54.66667% 
+#Space: 4, #Backspace: 41
+#ByClick: 11, #RecChars: 61
+#InputStream: 117
+#Display Length: 34
+#Transcribed Length: 34
+
+Pause
+No Text correct: False
+start: 1022.562, firstLetter: 0, endTime: 1031.45
+phrase time: 1031.45
+WPM: 0.0698046555136037
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0% 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+a good response to the question
+Text:a good response to the question correct: True
+start: 1031.45, firstLetter: 1042.285, endTime: 1234.498
+phrase time: 192.2128
+WPM: 2.18507856246035
+ER: 0% with |T| = 31, INF =0
+KSPC: 2.774194% 
+EKS ER: 87.09677% 
+Total ER: 46.55172% 
+#Space: 5, #Backspace: 27
+#ByClick: 7, #RecChars: 47
+#InputStream: 86
+#Display Length: 31
+#Transcribed Length: 31
+
+Pause
+No Text correct: False
+start: 1234.498, firstLetter: 0, endTime: 1241.888
+phrase time: 1241.888
+WPM: 0.05797622835453
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0% 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+people blow their horn a lot
+Text:people blow their horn a lot correct: True
+start: 1241.888, firstLetter: 1249.174, endTime: 1390.635
+phrase time: 141.4603
+WPM: 2.71454200439576
+ER: 0% with |T| = 28, INF =0
+KSPC: 2.321429% 
+EKS ER: 64.28571% 
+Total ER: 39.13044% 
+#Space: 5, #Backspace: 18
+#ByClick: 6, #RecChars: 36
+#InputStream: 65
+#Display Length: 28
+#Transcribed Length: 28
+

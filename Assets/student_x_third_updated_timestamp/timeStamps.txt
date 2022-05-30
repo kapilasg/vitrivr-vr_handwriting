@@ -1,0 +1,165 @@
+hello world
+Text:hello world correct: True
+start: 110.7019, firstLetter: 115.455, endTime: 175.2843
+phrase time: 59.82932
+WPM: 3.00855820408932
+ER: -500% with |T| = 11, INF =0
+KSPC: 2
+EKS ER: 0% 
+Total ER: 0% 
+#Space: 1, #Backspace: 6
+#ByClick: 3, #RecChars: 13
+#InputStream: 23
+#Display Length: 11
+#Transcribed Length: 11
+
+Start Evaluation
+No Text correct: False
+start: 175.2843, firstLetter: 0, endTime: 198.1628
+phrase time: 198.1628
+WPM: 0.363337626668069
+ER: -500% with |T| = 2, INF =5
+KSPC: 0
+EKS ER: 0% 
+Total ER: 0% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 16
+#Transcribed Length: 2
+
+they watched the entire movie
+Text:they watched the entire movie correct: True
+start: 198.1628, firstLetter: 206.303, endTime: 343.8169
+phrase time: 137.5139
+WPM: 2.87970887176157
+ER: -500% with |T| = 29, INF =0
+KSPC: 1
+EKS ER: 0% 
+Total ER: 0% 
+#Space: 4, #Backspace: 8
+#ByClick: 4, #RecChars: 30
+#InputStream: 46
+#Display Length: 29
+#Transcribed Length: 29
+
+Pause
+No Text correct: False
+start: 343.8169, firstLetter: 0, endTime: 348.3391
+phrase time: 348.3391
+WPM: 0.206695117920146
+ER: -500% with |T| = 2, INF =-5
+KSPC: 0
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+a good joke deserves a good laugh
+Text:a good joke deserves a good laugh correct: True
+start: 348.3391, firstLetter: 359.8338, endTime: 582.0225
+phrase time: 222.1887
+WPM: 1.99830180650758
+ER: -500% with |T| = 33, INF =0
+KSPC: 2
+EKS ER: 0% 
+Total ER: 0% 
+#Space: 6, #Backspace: 20
+#ByClick: 7, #RecChars: 40
+#InputStream: 73
+#Display Length: 33
+#Transcribed Length: 33
+
+Pause
+No Text correct: False
+start: 582.0225, firstLetter: 0, endTime: 595.1943
+phrase time: 595.1943
+WPM: 0.120968905508732
+ER: -500% with |T| = 2, INF =-5
+KSPC: 0
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+put garbage in an abandoned mine
+Text:put garbage in an abandoned mine correct: True
+start: 595.1943, firstLetter: 607.0554, endTime: 823.653
+phrase time: 216.5976
+WPM: 1.99448197738067
+ER: -500% with |T| = 32, INF =0
+KSPC: 2
+EKS ER: 0% 
+Total ER: 0% 
+#Space: 5, #Backspace: 16
+#ByClick: 9, #RecChars: 34
+#InputStream: 64
+#Display Length: 32
+#Transcribed Length: 32
+
+Pause
+No Text correct: False
+start: 823.653, firstLetter: 0, endTime: 851.6674
+phrase time: 851.6674
+WPM: 0.0845400487525977
+ER: -500% with |T| = 2, INF =-5
+KSPC: 0
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+my favorite place to visit
+Text:my favorite place to visit correct: True
+start: 851.6674, firstLetter: 857.6646, endTime: 943.0003
+phrase time: 85.33569
+WPM: 4.21863332713462
+ER: -500% with |T| = 26, INF =0
+KSPC: 1
+EKS ER: 0% 
+Total ER: 0% 
+#Space: 4, #Backspace: 4
+#ByClick: 3, #RecChars: 23
+#InputStream: 34
+#Display Length: 26
+#Transcribed Length: 26
+
+Pause
+No Text correct: False
+start: 943.0003, firstLetter: 0, endTime: 953.5435
+phrase time: 953.5435
+WPM: 0.0755078280496327
+ER: -500% with |T| = 2, INF =-5
+KSPC: 0
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+your presentation was inspiring
+Text:your presentation was inspiring correct: True
+start: 953.5435, firstLetter: 964.0278, endTime: 1085.673
+phrase time: 121.6455
+WPM: 3.45265524023602
+ER: -500% with |T| = 31, INF =0
+KSPC: 1
+EKS ER: 0% 
+Total ER: 0% 
+#Space: 3, #Backspace: 8
+#ByClick: 2, #RecChars: 34
+#InputStream: 47
+#Display Length: 31
+#Transcribed Length: 31
+

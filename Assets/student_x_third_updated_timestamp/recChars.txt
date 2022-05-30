@@ -1,0 +1,1057 @@
+d
+Found: d 
+Top five: d, n, a 
+
+dp
+Found: p 
+Top five: p, h, b, a 
+
+dph
+Found: h 
+Top five: h, n, p, b, a 
+
+dphd
+Found: d 
+Top five: d, n, m, i, h 
+
+dph
+(Backspace) 
+
+dphn
+(Corrected / byClick: ) n 
+
+h
+Found: h 
+Top five: h, n, k, b, a 
+
+he
+Found: e 
+Top five: e, c, u, s 
+
+hel
+Found: l 
+Top five: l, b, a 
+
+helr
+Found: r 
+Top five: r, l, b, a 
+
+hel
+(Backspace) 
+
+hell
+(Corrected / byClick: ) l 
+
+hella
+Found: a 
+Top five: a, u, t, p, l 
+
+hell
+(Backspace) 
+
+helle
+Found: e 
+Top five: e, o, c 
+
+hell
+(Backspace) 
+
+hello
+(Corrected / byClick: ) o 
+
+hello 
+(Space) 
+
+hello w
+Found: w 
+Top five: w 
+
+hello wo
+Found: o 
+Top five: o, c 
+
+hello wor
+Found: r 
+Top five: r, l, d, b, a 
+
+hello woro
+Found: o 
+Top five: o, c 
+
+hello wor
+(Backspace) 
+
+hello wory
+Found: y 
+Top five: y, l, e, b, a 
+
+hello wor
+(Backspace) 
+
+hello worl
+(Corrected / byClick: ) l 
+
+hello worlm
+Found: m 
+Top five: m, w 
+
+hello worl
+(Backspace) 
+
+hello world
+Found: d 
+Top five: d, n, e, a 
+
+t
+Found: t 
+Top five: t, h, f, b, a 
+
+th
+Found: h 
+Top five: h, n, k, a 
+
+the
+Found: e 
+Top five: e, d, b, a 
+
+they
+Found: y 
+Top five: y, x, e, d, b 
+
+they 
+(Space) 
+
+they w
+Found: w 
+Top five: w 
+
+they wu
+Found: u 
+Top five: u, a 
+
+they w
+(Backspace) 
+
+they wa
+(Corrected / byClick: ) a 
+
+they wat
+Found: t 
+Top five: t, f, b, a 
+
+they wats
+Found: s 
+Top five: s, c 
+
+they wat
+(Backspace) 
+
+they watc
+(Corrected / byClick: ) c 
+
+they watcn
+Found: n 
+Top five: n, h, k, a 
+
+they watc
+(Backspace) 
+
+they watch
+(Corrected / byClick: ) h 
+
+they watche
+Found: e 
+Top five: e, g, d, a 
+
+they watchew
+Found: w 
+Top five: w, m, e, z 
+
+they watche
+(Backspace) 
+
+they watchen
+Found: n 
+Top five: n, e, a 
+
+they watche
+(Backspace) 
+
+they watched
+Found: d 
+Top five: d, n, a, k 
+
+they watched 
+(Space) 
+
+they watched t
+Found: t 
+Top five: t, f, x, p, l 
+
+they watched th
+Found: h 
+Top five: h, k, a 
+
+they watched the
+Found: e 
+Top five: e, d, b, a 
+
+they watched the 
+(Space) 
+
+they watched the u
+Found: u 
+Top five: u, t, l, v, r 
+
+they watched the 
+(Backspace) 
+
+they watched the e
+Found: e 
+Top five: e, d, a 
+
+they watched the er
+Found: r 
+Top five: r, n, k, d, h 
+
+they watched the e
+(Backspace) 
+
+they watched the en
+(Corrected / byClick: ) n 
+
+they watched the ent
+Found: t 
+Top five: t, f, e, b, a 
+
+they watched the ent
+Found:   
+Top five:  
+
+they watched the entz
+Found: z 
+Top five: z, p, g, j, h 
+
+they watched the ent
+(Backspace) 
+
+they watched the enti
+Found: i 
+Top five: i, t, e, b, a 
+
+they watched the entir
+Found: r 
+Top five: r, n, l, h, b 
+
+they watched the entire
+Found: e 
+Top five: e, c 
+
+they watched the entire 
+(Space) 
+
+they watched the entire m
+Found: m 
+Top five: m, k, a 
+
+they watched the entire mo
+Found: o 
+Top five: o, c 
+
+they watched the entire mov
+Found: v 
+Top five: v, r, l, b, a 
+
+they watched the entire movi
+Found: i 
+Top five: i, y, v, a 
+
+they watched the entire movie
+Found: e 
+Top five: e, y, g, a 
+
+a
+Found: a 
+Top five: a, u, d 
+
+a 
+(Space) 
+
+a s
+Found: s 
+Top five: s, g, n, k, h 
+
+a 
+(Backspace) 
+
+a g
+(Corrected / byClick: ) g 
+
+a go
+Found: o 
+Top five: o, c 
+
+a goo
+Found: o 
+Top five: o, c 
+
+a good
+Found: d 
+Top five: d, x, b, a 
+
+a good 
+(Space) 
+
+a good x
+Found: x 
+Top five: x, v, p, e, d 
+
+a good 
+(Backspace) 
+
+a good x
+Found: x 
+Top five: x, p, n, h, f 
+
+a good xj
+Found: j 
+Top five: j, i, d, l, f 
+
+a good x
+(Backspace) 
+
+a good 
+(Backspace) 
+
+a good j
+(Corrected / byClick: ) j 
+
+a good jh
+Found: h 
+Top five: h, n, k, a 
+
+a good j
+(Backspace) 
+
+a good je
+Found: e 
+Top five: e, o, c 
+
+a good j
+(Backspace) 
+
+a good jo
+(Corrected / byClick: ) o 
+
+a good jok
+Found: k 
+Top five: k, a 
+
+a good joke
+Found: e 
+Top five: e, d, b, a 
+
+a good joke 
+(Space) 
+
+a good joke n
+Found: n 
+Top five: n, a 
+
+a good joke 
+(Backspace) 
+
+a good joke d
+Found: d 
+Top five: d, b, a 
+
+a good joke da
+Found: a 
+Top five: a 
+
+a good joke d
+(Backspace) 
+
+a good joke df
+Found: f 
+Top five: f, b, k, a 
+
+a good joke d
+(Backspace) 
+
+a good joke dp
+Found: p 
+Top five: p, d, g, f, b 
+
+a good joke d
+(Backspace) 
+
+a good joke dq
+Found: q 
+Top five: q, t, l, f, a 
+
+a good joke d
+(Backspace) 
+
+a good joke dr
+Found: r 
+Top five: r, b, e, a 
+
+a good joke d
+(Backspace) 
+
+a good joke de
+(Corrected / byClick: ) e 
+
+a good joke dem
+Found: m 
+Top five: m 
+
+a good joke de
+(Backspace) 
+
+a good joke des
+Found: s 
+Top five: s, c 
+
+a good joke dese
+Found: e 
+Top five: e, o, c 
+
+a good joke deser
+Found: r 
+Top five: r, d, n, h, e 
+
+a good joke deserv
+Found: v 
+Top five: v, d, b, a 
+
+a good joke deserve
+Found: e 
+Top five: e, y, d, b, a 
+
+a good joke deservex
+Found: x 
+Top five: x, p, n, l, h 
+
+a good joke deserve
+(Backspace) 
+
+a good joke deserves
+Found: s 
+Top five: s, o, c 
+
+a good joke deserves 
+(Space) 
+
+a good joke deserves a
+Found: a 
+Top five: a, q, u 
+
+a good joke deserves a 
+(Space) 
+
+a good joke deserves a g
+Found: g 
+Top five: g, j, q, e, a 
+
+a good joke deserves a go
+Found: o 
+Top five: o, c 
+
+a good joke deserves a goo
+(Corrected / byClick: ) o 
+
+a good joke deserves a goon
+Found: n 
+Top five: n, a, k 
+
+a good joke deserves a goo
+(Backspace) 
+
+a good joke deserves a good
+Found: d 
+Top five: d, u, a 
+
+a good joke deserves a good 
+(Space) 
+
+a good joke deserves a good l
+Found: l 
+Top five: l, b, p, a 
+
+a good joke deserves a good la
+Found: a 
+Top five: a, u 
+
+a good joke deserves a good lan
+Found: n 
+Top five: n, h, a, k 
+
+a good joke deserves a good la
+(Backspace) 
+
+a good joke deserves a good lan
+Found: n 
+Top five: n, h, f, a, k 
+
+a good joke deserves a good la
+(Backspace) 
+
+a good joke deserves a good lau
+Found: u 
+Top five: u, a 
+
+a good joke deserves a good lauq
+Found: q 
+Top five: q, g, a 
+
+a good joke deserves a good lau
+(Backspace) 
+
+a good joke deserves a good laug
+(Corrected / byClick: ) g 
+
+a good joke deserves a good laugu
+Found: u 
+Top five: u, s, c 
+
+a good joke deserves a good laug
+(Backspace) 
+
+a good joke deserves a good laugp
+Found: p 
+Top five: p, h, b, a 
+
+a good joke deserves a good laug
+(Backspace) 
+
+a good joke deserves a good laugh
+(Corrected / byClick: ) h 
+
+p
+Found: p 
+Top five: p, h, b, a 
+
+pn
+Found: n 
+Top five: n, h, f, m, k 
+
+p
+(Backspace) 
+
+pu
+Found: u 
+Top five: u, n, a, k 
+
+pux
+Found: x 
+Top five: x, a, r, y, v 
+
+pu
+(Backspace) 
+
+put
+Found: t 
+Top five: t, f, d, b, a 
+
+put 
+(Space) 
+
+put g
+Found: g 
+Top five: g, d, a, k 
+
+put ga
+Found: a 
+Top five: a, u 
+
+put gar
+Found: r 
+Top five: r, n, l, h, e 
+
+put garb
+Found: b 
+Top five: b, p, a 
+
+put garbq
+Found: q 
+Top five: q, a, u 
+
+put garb
+(Backspace) 
+
+put garba
+(Corrected / byClick: ) a 
+
+put garbaq
+Found: q 
+Top five: q, a 
+
+put garba
+(Backspace) 
+
+put garbaq
+Found: q 
+Top five: q, g, a 
+
+put garba
+(Backspace) 
+
+put garbag
+(Corrected / byClick: ) g 
+
+put garbage
+Found: e 
+Top five: e, b, a 
+
+put garbagei
+Found: i 
+Top five: i, v, t, q, p 
+
+put garbage
+(Backspace) 
+
+put garbage 
+(Space) 
+
+put garbage i
+(Corrected / byClick: ) i 
+
+put garbage im
+Found: m 
+Top five: m, e, z, w 
+
+put garbage i
+(Backspace) 
+
+put garbage in
+Found: n 
+Top five: n, h, l, r, b 
+
+put garbage in 
+(Space) 
+
+put garbage in a
+Found: a 
+Top five: a 
+
+put garbage in am
+Found: m 
+Top five: m, e, w 
+
+put garbage in a
+(Backspace) 
+
+put garbage in an
+Found: n 
+Top five: n, r, d, p, h 
+
+put garbage in an 
+(Space) 
+
+put garbage in an a
+Found: a 
+Top five: a, u 
+
+put garbage in an ap
+Found: p 
+Top five: p, h, b, a 
+
+put garbage in an a
+(Backspace) 
+
+put garbage in an ab
+(Corrected / byClick: ) b 
+
+put garbage in an aba
+Found: a 
+Top five: a, u 
+
+put garbage in an abar
+Found: r 
+Top five: r, d, v, n, h 
+
+put garbage in an abarn
+(Corrected / byClick: ) n 
+
+put garbage in an abar
+(Backspace) 
+
+put garbage in an aba
+(Backspace) 
+
+put garbage in an aban
+(Corrected / byClick: ) n 
+
+put garbage in an abanu
+Found: u 
+Top five: u, d, a 
+
+put garbage in an aban
+(Backspace) 
+
+put garbage in an aband
+(Corrected / byClick: ) d 
+
+put garbage in an abande
+Found: e 
+Top five: e, o, c 
+
+put garbage in an aband
+(Backspace) 
+
+put garbage in an abando
+(Corrected / byClick: ) o 
+
+put garbage in an abandor
+Found: r 
+Top five: r, d, n, h, e 
+
+put garbage in an abando
+(Backspace) 
+
+put garbage in an abandon
+(Corrected / byClick: ) n 
+
+put garbage in an abandone
+Found: e 
+Top five: e, o, c 
+
+put garbage in an abandonej
+Found: j 
+Top five: j, m 
+
+put garbage in an abandone
+(Backspace) 
+
+put garbage in an abandonen
+Found: n 
+Top five: n, f, a, k 
+
+put garbage in an abandone
+(Backspace) 
+
+put garbage in an abandoned
+Found: d 
+Top five: d, a, k 
+
+put garbage in an abandoned 
+(Space) 
+
+put garbage in an abandoned m
+Found: m 
+Top five: m, h, a, k 
+
+put garbage in an abandoned mi
+Found: i 
+Top five: i, e, a 
+
+put garbage in an abandoned min
+Found: n 
+Top five: n, k, a 
+
+put garbage in an abandoned mine
+Found: e 
+Top five: e, x, b, a 
+
+m
+Found: m 
+Top five: m, k, a 
+
+my
+Found: y 
+Top five: y, x, g, e, d 
+
+my 
+(Space) 
+
+my y
+Found: y 
+Top five: y, f, a, k 
+
+my 
+(Backspace) 
+
+my f
+(Corrected / byClick: ) f 
+
+my fd
+Found: d 
+Top five: d, a 
+
+my f
+(Backspace) 
+
+my fa
+(Corrected / byClick: ) a 
+
+my far
+Found: r 
+Top five: r, v, l, b, a 
+
+my fa
+(Backspace) 
+
+my fav
+(Corrected / byClick: ) v 
+
+my favo
+Found: o 
+Top five: o, c 
+
+my favor
+Found: r 
+Top five: r, n, h, d, b 
+
+my favori
+Found: i 
+Top five: i, y, t, e, b 
+
+my favorit
+Found: t 
+Top five: t, f, a 
+
+my favorite
+Found: e 
+Top five: e, c 
+
+my favorite 
+(Space) 
+
+my favorite p
+Found: p 
+Top five: p, h, b, a 
+
+my favorite pl
+Found: l 
+Top five: l, h, f, b, a 
+
+my favorite pla
+Found: a 
+Top five: a, q, u 
+
+my favorite plac
+Found: c 
+Top five: c, s 
+
+my favorite place
+Found: e 
+Top five: e, c, u 
+
+my favorite place 
+(Space) 
+
+my favorite place t
+Found: t 
+Top five: t, p, h, f, e 
+
+my favorite place to
+Found: o 
+Top five: o, c 
+
+my favorite place to 
+(Space) 
+
+my favorite place to v
+Found: v 
+Top five: v, t, r, l, b 
+
+my favorite place to vi
+Found: i 
+Top five: i, y, e, b, a 
+
+my favorite place to vis
+Found: s 
+Top five: s, c 
+
+my favorite place to visi
+Found: i 
+Top five: i, v, t, r, q 
+
+my favorite place to visif
+Found: f 
+Top five: f, a 
+
+my favorite place to visi
+(Backspace) 
+
+my favorite place to visit
+Found: t 
+Top five: t, f, a 
+
+y
+Found: y 
+Top five: y, r, b, a 
+
+yo
+Found: o 
+Top five: o, c 
+
+you
+Found: u 
+Top five: u, d, b, a 
+
+your
+Found: r 
+Top five: r, l, e, d, b 
+
+your 
+(Space) 
+
+your p
+Found: p 
+Top five: p, r, l, b, a 
+
+your pr
+Found: r 
+Top five: r, n, l, h, e 
+
+your pre
+Found: e 
+Top five: e, c, u 
+
+your prej
+Found: j 
+Top five: j, u, n, a 
+
+your pre
+(Backspace) 
+
+your pres
+Found: s 
+Top five: s, c, o 
+
+your prese
+Found: e 
+Top five: e, y, a 
+
+your presen
+Found: n 
+Top five: n, h, e, b, a 
+
+your present
+Found: t 
+Top five: t, v, x, p, h 
+
+your presenta
+Found: a 
+Top five: a, u 
+
+your presentaf
+Found: f 
+Top five: f, b, x, l, e 
+
+your presenta
+(Backspace) 
+
+your presentat
+Found: t 
+Top five: t, f, e, a 
+
+your presentati
+Found: i 
+Top five: i, b, a 
+
+your presentatio
+Found: o 
+Top five: o, c 
+
+your presentatioc
+Found: c 
+Top five: c 
+
+your presentatio
+(Backspace) 
+
+your presentation
+Found: n 
+Top five: n, h, r, l, b 
+
+your presentation 
+(Space) 
+
+your presentation w
+Found: w 
+Top five: w 
+
+your presentation wa
+Found: a 
+Top five: a, u 
+
+your presentation was
+Found: s 
+Top five: s, c 
+
+your presentation was 
+(Space) 
+
+your presentation was i
+Found: i 
+Top five: i, b, a 
+
+your presentation was in
+Found: n 
+Top five: n, k, r, p, h 
+
+your presentation was ins
+Found: s 
+Top five: s, c 
+
+your presentation was insk
+Found: k 
+Top five: k, p, l, b, a 
+
+your presentation was ins
+(Backspace) 
+
+your presentation was insp
+(Corrected / byClick: ) p 
+
+your presentation was inspb
+Found: b 
+Top five: b, a 
+
+your presentation was insp
+(Backspace) 
+
+your presentation was inspi
+Found: i 
+Top five: i, e, b, a 
+
+your presentation was inspir
+Found: r 
+Top five: r, d, n, h, e 
+
+your presentation was inspirk
+Found: k 
+Top five: k, h, e, a 
+
+your presentation was inspir
+(Backspace) 
+
+your presentation was inspiri
+Found: i 
+Top five: i, t, b, a 
+
+your presentation was inspirih
+Found: h 
+Top five: h, e, b, a 
+
+your presentation was inspiri
+(Backspace) 
+
+your presentation was inspirin
+Found: n 
+Top five: n, h, r, e, d 
+
+your presentation was inspirinq
+Found: q 
+Top five: q, g, f, a 
+
+your presentation was inspirin
+(Backspace) 
+
+your presentation was inspiring
+(Corrected / byClick: ) g 
+
