@@ -1,0 +1,785 @@
+n
+Found: n 
+Top five: n, l, h, b, a 
+
+
+(Backspace) 
+
+h
+Found: h 
+Top five: h, n, k, p, e 
+
+he
+Found: e 
+Top five: e, u, c 
+
+hel
+Found: l 
+Top five: l, v, f, d, b 
+
+hell
+Found: l 
+Top five: l, x, n, f, e 
+
+hello
+Found: o 
+Top five: o, c 
+
+hello 
+(Space) 
+
+hello w
+Found: w 
+Top five: w 
+
+hello wo
+Found: o 
+Top five: o, c 
+
+hello wor
+Found: r 
+Top five: r, n, l, d, b 
+
+hello worl
+Found: l 
+Top five: l, v, t, h, f 
+
+hello world
+Found: d 
+Top five: d, v, u, a 
+
+z
+Found: z 
+Top five: z, t, l, e, b 
+
+
+(Backspace) 
+
+p
+Found: p 
+Top five: p, h, e, b, a 
+
+pe
+Found: e 
+Top five: e, b, a 
+
+pes
+Found: s 
+Top five: s, o, c 
+
+pe
+(Backspace) 
+
+peo
+(Corrected / byClick: ) o 
+
+peop
+Found: p 
+Top five: p, h, b, a 
+
+peopv
+Found: v 
+Top five: v, r, l, b, a 
+
+peop
+(Backspace) 
+
+peopl
+(Corrected / byClick: ) l 
+
+people
+Found: e 
+Top five: e, c, o 
+
+people 
+(Space) 
+
+people b
+Found: b 
+Top five: b, p, l, h, a 
+
+people bl
+Found: l 
+Top five: l, b, p, h, a 
+
+people blo
+Found: o 
+Top five: o, c 
+
+people blow
+Found: w 
+Top five: w 
+
+people blow 
+(Space) 
+
+people blow x
+Found: x 
+Top five: x, t, f, b, a 
+
+people blow 
+(Backspace) 
+
+people blow t
+(Corrected / byClick: ) t 
+
+people blow tr
+Found: r 
+Top five: r, v, b, l, h 
+
+people blow t
+(Backspace) 
+
+people blow th
+Found: h 
+Top five: h, k, a 
+
+people blow the
+Found: e 
+Top five: e, b, a 
+
+people blow thei
+Found: i 
+Top five: i, f, a, m, k 
+
+people blow their
+Found: r 
+Top five: r, n, d, b, a 
+
+people blow their 
+(Space) 
+
+people blow their h
+Found: h 
+Top five: h, b, a 
+
+people blow their ho
+Found: o 
+Top five: o, c 
+
+people blow their hor
+Found: r 
+Top five: r, p, l, h, b 
+
+people blow their horn
+Found: n 
+Top five: n, l, b, a 
+
+people blow their horn 
+(Space) 
+
+people blow their horn a
+(Corrected / byClick: ) a 
+
+people blow their horn a 
+(Space) 
+
+people blow their horn a l
+(Corrected / byClick: ) l 
+
+people blow their horn a lo
+Found: o 
+Top five: o, c 
+
+people blow their horn a lot
+Found: t 
+Top five: t, l, f, b, a 
+
+l
+Found: l 
+Top five: l, h, f, b, a 
+
+lh
+(Corrected / byClick: ) h 
+
+l
+(Backspace) 
+
+
+(Backspace) 
+
+h
+(Corrected / byClick: ) h 
+
+he
+Found: e 
+Top five: e, d, b, a 
+
+he 
+(Space) 
+
+he c
+Found: c 
+Top five: c 
+
+he ca
+Found: a 
+Top five: a 
+
+he cat
+Found: t 
+Top five: t, f, e, d, b 
+
+he ca
+(Backspace) 
+
+he cal
+Found: l 
+Top five: l, y, t, x, q 
+
+he call
+(Corrected / byClick: ) l 
+
+he calle
+Found: e 
+Top five: e, o, c 
+
+he callen
+Found: n 
+Top five: n, h, g, f, e 
+
+he calle
+(Backspace) 
+
+he called
+Found: d 
+Top five: d, v, u, a 
+
+he called 
+(Space) 
+
+he called c
+Found: c 
+Top five: c 
+
+he called 
+(Backspace) 
+
+he called s
+Found: s 
+Top five: s, c 
+
+he called se
+Found: e 
+Top five: e, s, o, c 
+
+he called sev
+Found: v 
+Top five: v, r, n, l, e 
+
+he called sevu
+Found: u 
+Top five: u, o, s, c 
+
+he called sev
+(Backspace) 
+
+he called seve
+Found: e 
+Top five: e, n, o, c 
+
+he called seveu
+Found: u 
+Top five: u, h, n, y, k 
+
+he called seve
+(Backspace) 
+
+he called seven
+(Corrected / byClick: ) n 
+
+he called seven 
+(Space) 
+
+he called seven t
+Found: t 
+Top five: t, h, f, e, b 
+
+he called seven ti
+Found: i 
+Top five: i, y, t, e, b 
+
+he called seven tim
+Found: m 
+Top five: m, k, a 
+
+he called seven time
+Found: e 
+Top five: e, b, a 
+
+he called seven times
+Found: s 
+Top five: s, c 
+
+t
+Found: t 
+Top five: t, f, e, b, a 
+
+th
+Found: h 
+Top five: h, k, a 
+
+the
+Found: e 
+Top five: e, u, c, s 
+
+the 
+(Space) 
+
+the k
+Found: k 
+Top five: k, z, h, a 
+
+the ky
+Found: y 
+Top five: y, k, a, m 
+
+the k
+(Backspace) 
+
+the 
+(Backspace) 
+
+the n
+Found: n 
+Top five: n, f, a, k 
+
+the 
+(Backspace) 
+
+the f
+(Corrected / byClick: ) f 
+
+the fo
+Found: o 
+Top five: o, c 
+
+the fou
+Found: u 
+Top five: u, a 
+
+the four
+Found: r 
+Top five: r, n, l, e, d 
+
+the four 
+(Space) 
+
+the four s
+Found: s 
+Top five: s, c, o 
+
+the four se
+Found: e 
+Top five: e, a 
+
+the four sea
+Found: a 
+Top five: a, q 
+
+the four seas
+Found: s 
+Top five: s, c 
+
+the four seass
+Found: s 
+Top five: s, o, c 
+
+the four seas
+(Backspace) 
+
+the four seaso
+(Corrected / byClick: ) o 
+
+the four seasor
+Found: r 
+Top five: r, n, h, b, a 
+
+the four seaso
+(Backspace) 
+
+the four season
+(Corrected / byClick: ) n 
+
+the four seasonz
+Found: z 
+Top five: z, g, j, h, e 
+
+the four season
+(Backspace) 
+
+the four seasons
+Found: s 
+Top five: s, u, e, c 
+
+the four seasons 
+(Space) 
+
+the four seasons w
+Found: w 
+Top five: w 
+
+the four seasons wi
+Found: i 
+Top five: i, y, t, b, a 
+
+the four seasons wiv
+Found: v 
+Top five: v, t, l, h, e 
+
+the four seasons wi
+(Backspace) 
+
+the four seasons wil
+(Corrected / byClick: ) l 
+
+the four seasons will
+(Corrected / byClick: ) l 
+
+the four seasons will 
+(Space) 
+
+the four seasons will c
+Found: c 
+Top five: c 
+
+the four seasons will co
+Found: o 
+Top five: o, c 
+
+the four seasons will com
+Found: m 
+Top five: m 
+
+the four seasons will come
+Found: e 
+Top five: e, d, b, a 
+
+t
+Found: t 
+Top five: t, l, f, e, b 
+
+th
+Found: h 
+Top five: h, p, l, b, a 
+
+the
+Found: e 
+Top five: e, x, d, a 
+
+the 
+(Space) 
+
+the t
+Found: t 
+Top five: t, f, a 
+
+the tr
+Found: r 
+Top five: r, n, e, d, b 
+
+the trq
+Found: q 
+Top five: q, u, a 
+
+the tr
+(Backspace) 
+
+the tra
+(Corrected / byClick: ) a 
+
+the trai
+Found: i 
+Top five: i, e, b, a 
+
+the trair
+Found: r 
+Top five: r, d, n, h, e 
+
+the trai
+(Backspace) 
+
+the train
+(Corrected / byClick: ) n 
+
+the trains
+Found: s 
+Top five: s, c 
+
+the trains 
+(Space) 
+
+the trains a
+Found: a 
+Top five: a, u 
+
+the trains ar
+Found: r 
+Top five: r, n, l, h, e 
+
+the trains arn
+Found: n 
+Top five: n, h, r, l, e 
+
+the trains ar
+(Backspace) 
+
+the trains are
+Found: e 
+Top five: e, c, u, s 
+
+the trains are 
+(Space) 
+
+the trains are a
+Found: a 
+Top five: a, u 
+
+the trains are al
+Found: l 
+Top five: l, v, t, h, f 
+
+the trains are alw
+Found: w 
+Top five: w 
+
+the trains are alwa
+Found: a 
+Top five: a, q 
+
+the trains are alway
+Found: y 
+Top five: y, x, v, e, b 
+
+the trains are always
+Found: s 
+Top five: s, e, a 
+
+the trains are always 
+(Space) 
+
+the trains are always l
+Found: l 
+Top five: l, v, f, b, a 
+
+the trains are always la
+Found: a 
+Top five: a 
+
+the trains are always lat
+Found: t 
+Top five: t, f, a 
+
+the trains are always late
+Found: e 
+Top five: e, z, w 
+
+i
+Found: i 
+Top five: i, t, b, a 
+
+ih
+Found: h 
+Top five: h, e, b, a 
+
+i
+(Backspace) 
+
+in
+Found: n 
+Top five: n, h, k, a 
+
+int
+Found: t 
+Top five: t, e, b, a 
+
+inte
+Found: e 
+Top five: e, u, c, s 
+
+inter
+Found: r 
+Top five: r, x, v, y, d 
+
+inters
+Found: s 
+Top five: s, c 
+
+inter
+(Backspace) 
+
+intere
+Found: e 
+Top five: e, y, b, a 
+
+interes
+Found: s 
+Top five: s, c, o 
+
+interest
+Found: t 
+Top five: t, f, b, a 
+
+interesti
+Found: i 
+Top five: i, l, y, t, r 
+
+interestip
+Found: p 
+Top five: p, k, r, n, h 
+
+interesti
+(Backspace) 
+
+interestin
+(Corrected / byClick: ) n 
+
+interestinj
+Found: j 
+Top five: j, q, y, f, m 
+
+interestin
+(Backspace) 
+
+interestinq
+Found: q 
+Top five: q, g, a 
+
+interestin
+(Backspace) 
+
+interesting
+(Corrected / byClick: ) g 
+
+interesting 
+(Space) 
+
+interesting e
+Found: e 
+Top five: e, o, c 
+
+interesting 
+(Backspace) 
+
+interesting o
+(Corrected / byClick: ) o 
+
+interesting op
+Found: p 
+Top five: p, b, h, e, a 
+
+interesting o
+(Backspace) 
+
+interesting ob
+(Corrected / byClick: ) b 
+
+interesting obs
+Found: s 
+Top five: s, c, o 
+
+interesting obsg
+Found: g 
+Top five: g, a 
+
+interesting obs
+(Backspace) 
+
+interesting obse
+Found: e 
+Top five: e, u, s, c 
+
+interesting obser
+Found: r 
+Top five: r, n, l, d, b 
+
+interesting obserr
+Found: r 
+Top five: r, v, l, b, a 
+
+interesting obser
+(Backspace) 
+
+interesting observ
+(Corrected / byClick: ) v 
+
+interesting observa
+Found: a 
+Top five: a, q 
+
+interesting observat
+Found: t 
+Top five: t, f, b, a 
+
+interesting observati
+Found: i 
+Top five: i, b, a 
+
+interesting observatid
+Found: d 
+Top five: d, n, k, h, a 
+
+interesting observati
+(Backspace) 
+
+interesting observatio
+Found: o 
+Top five: o, c 
+
+interesting observation
+Found: n 
+Top five: n, h, e, b, a 
+
+interesting observation 
+(Space) 
+
+interesting observation w
+Found: w 
+Top five: w 
+
+interesting observation wa
+Found: a 
+Top five: a 
+
+interesting observation waq
+Found: q 
+Top five: q, l, f, b, a 
+
+interesting observation wa
+(Backspace) 
+
+interesting observation was
+Found: s 
+Top five: s, c, o 
+
+interesting observation was 
+(Space) 
+
+interesting observation was m
+Found: m 
+Top five: m 
+
+interesting observation was ma
+Found: a 
+Top five: a, q 
+
+interesting observation was maq
+Found: q 
+Top five: q, d, k, h, a 
+
+interesting observation was ma
+(Backspace) 
+
+interesting observation was mad
+(Corrected / byClick: ) d 
+
+interesting observation was madu
+Found: u 
+Top five: u, e, c 
+
+interesting observation was mad
+(Backspace) 
+
+interesting observation was made
+(Corrected / byClick: ) e 
+

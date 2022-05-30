@@ -1,0 +1,165 @@
+hello world
+Text:hello world correct: True
+start: 155.7935, firstLetter: 159.0474, endTime: 192.6914
+phrase time: 33.644
+WPM: 5.35013717218931
+ER: 0% with |T| = 11, INF =0
+KSPC: 1.181818% 
+EKS ER: 9.090909% 
+Total ER: 8.333333% 
+#Space: 1, #Backspace: 1
+#ByClick: 0, #RecChars: 11
+#InputStream: 13
+#Display Length: 11
+#Transcribed Length: 11
+
+Start Evaluation
+No Text correct: False
+start: 192.6914, firstLetter: 0, endTime: 196.5079
+phrase time: 196.5079
+WPM: 0.3663974756999
+ER: 250% with |T| = 2, INF =5
+KSPC: 0% 
+EKS ER: 31.25% 
+Total ER: 83.33334% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 16
+#Transcribed Length: 2
+
+people blow their horn a lot
+Text:people blow their horn a lot correct: True
+start: 196.5079, firstLetter: 202.0611, endTime: 310.9004
+phrase time: 108.8392
+WPM: 3.52814000838651
+ER: 0% with |T| = 28, INF =0
+KSPC: 1.357143% 
+EKS ER: 17.85714% 
+Total ER: 15.15152% 
+#Space: 5, #Backspace: 5
+#ByClick: 5, #RecChars: 23
+#InputStream: 38
+#Display Length: 28
+#Transcribed Length: 28
+
+Pause
+No Text correct: False
+start: 310.9004, firstLetter: 0, endTime: 317.1535
+phrase time: 317.1535
+WPM: 0.227019384291748
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0% 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+he called seven times
+Text:he called seven times correct: True
+start: 317.1535, firstLetter: 324.2505, endTime: 436.4468
+phrase time: 112.1962
+WPM: 2.67388668295414
+ER: 0% with |T| = 21, INF =0
+KSPC: 1.666667% 
+EKS ER: 33.33333% 
+Total ER: 25% 
+#Space: 3, #Backspace: 7
+#ByClick: 4, #RecChars: 21
+#InputStream: 35
+#Display Length: 21
+#Transcribed Length: 21
+
+Pause
+No Text correct: False
+start: 436.4468, firstLetter: 0, endTime: 437.8989
+phrase time: 437.8989
+WPM: 0.164421515511353
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0% 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+the four seasons will come
+Text:the four seasons will come correct: True
+start: 437.8989, firstLetter: 441.4973, endTime: 527.7597
+phrase time: 86.26236
+WPM: 4.17331500772117
+ER: 0% with |T| = 26, INF =0
+KSPC: 1.538462% 
+EKS ER: 26.92308% 
+Total ER: 21.21212% 
+#Space: 4, #Backspace: 7
+#ByClick: 5, #RecChars: 24
+#InputStream: 40
+#Display Length: 26
+#Transcribed Length: 26
+
+Pause
+No Text correct: False
+start: 527.7597, firstLetter: 0, endTime: 542.9294
+phrase time: 542.9294
+WPM: 0.132613931653093
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0% 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+the trains are always late
+Text:the trains are always late correct: True
+start: 542.9294, firstLetter: 545.8835, endTime: 622.5131
+phrase time: 76.62952
+WPM: 4.69792863071068
+ER: 0% with |T| = 26, INF =0
+KSPC: 1.230769% 
+EKS ER: 11.53846% 
+Total ER: 10.34483% 
+#Space: 4, #Backspace: 3
+#ByClick: 2, #RecChars: 23
+#InputStream: 32
+#Display Length: 26
+#Transcribed Length: 26
+
+Pause
+No Text correct: False
+start: 622.5131, firstLetter: 0, endTime: 646.1716
+phrase time: 646.1716
+WPM: 0.111425515083535
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0% 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+interesting observation was made
+Text:interesting observation was made correct: True
+start: 646.1716, firstLetter: 653.8235, endTime: 786.3196
+phrase time: 132.4961
+WPM: 3.26047348093989
+ER: 0% with |T| = 32, INF =0
+KSPC: 1.8125% 
+EKS ER: 40.625% 
+Total ER: 28.88889% 
+#Space: 3, #Backspace: 13
+#ByClick: 7, #RecChars: 35
+#InputStream: 58
+#Display Length: 32
+#Transcribed Length: 32
+
