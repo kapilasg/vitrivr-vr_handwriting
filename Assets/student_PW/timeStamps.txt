@@ -1,0 +1,165 @@
+hello world
+Text:hello world correct: True
+start: 46.78297, firstLetter: 53.6356, endTime: 204.8006
+phrase time: 151.165
+WPM: 1.19075160991854
+ER: 0% with |T| = 11, INF =0
+KSPC: 3.818182 
+EKS ER: 127.2727% 
+Total ER: 56% 
+#Space: 1, #Backspace: 14
+#ByClick: 6, #RecChars: 21
+#InputStream: 42
+#Display Length: 11
+#Transcribed Length: 11
+
+Start Evaluation
+No Text correct: False
+start: 204.8006, firstLetter: 0, endTime: 235.8527
+phrase time: 235.8527
+WPM: 0.305275235664199
+ER: 250% with |T| = 2, INF =5
+KSPC: 0 
+EKS ER: 31.25% 
+Total ER: 83.33334% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 16
+#Transcribed Length: 2
+
+can we play cards tonight
+Text:can we play cards fonight correct: False
+start: 235.8527, firstLetter: 241.428, endTime: 470.3697
+phrase time: 228.9417
+WPM: 1.52003786210285
+ER: 4% with |T| = 25, INF =1
+KSPC: 2.76 
+EKS ER: 92% 
+Total ER: 48.93617% 
+#Space: 4, #Backspace: 22
+#ByClick: 11, #RecChars: 32
+#InputStream: 69
+#Display Length: 25
+#Transcribed Length: 25
+
+Pause
+No Text correct: False
+start: 495.8686, firstLetter: 0, endTime: 499.1224
+phrase time: 499.1224
+WPM: 0.144253191468938
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+quit while you are ahead
+Text:quik while you are ahead correct: False
+start: 499.1224, firstLetter: 505.1425, endTime: 633.5508
+phrase time: 128.4084
+WPM: 2.6166515277043
+ER: 4.166667% with |T| = 24, INF =1
+KSPC: 1.75 
+EKS ER: 41.66667% 
+Total ER: 30.30303% 
+#Space: 4, #Backspace: 9
+#ByClick: 5, #RecChars: 24
+#InputStream: 42
+#Display Length: 24
+#Transcribed Length: 24
+
+Pause
+No Text correct: False
+start: 633.5508, firstLetter: 0, endTime: 643.4908
+phrase time: 643.4908
+WPM: 0.111889714390266
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+a most ridiculous thing
+Text:a mosf ridiculous thing correct: False
+start: 643.4908, firstLetter: 648.0995, endTime: 778.9183
+phrase time: 130.8188
+WPM: 2.47670849400584
+ER: 4.347826% with |T| = 23, INF =1
+KSPC: 2.304348 
+EKS ER: 69.56522% 
+Total ER: 42.10526% 
+#Space: 3, #Backspace: 15
+#ByClick: 6, #RecChars: 29
+#InputStream: 53
+#Display Length: 23
+#Transcribed Length: 23
+
+Pause
+No Text correct: False
+start: 778.9183, firstLetter: 0, endTime: 795.3674
+phrase time: 795.3674
+WPM: 0.0905242063742072
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+you should visit to a doctor
+Text:you should visif fo a docfor correct: False
+start: 795.3674, firstLetter: 807.3278, endTime: 959.2924
+phrase time: 151.9646
+WPM: 2.52690429867924
+ER: 10.71429% with |T| = 28, INF =3
+KSPC: 2.214286 
+EKS ER: 71.42857% 
+Total ER: 44.44444% 
+#Space: 6, #Backspace: 17
+#ByClick: 6, #RecChars: 33
+#InputStream: 62
+#Display Length: 28
+#Transcribed Length: 28
+
+Pause
+No Text correct: False
+start: 959.2924, firstLetter: 0, endTime: 966.4557
+phrase time: 966.4557
+WPM: 0.0744990182772835
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+the algorithm is too complicated
+Text:fhe algorifhm is too complicated correct: False
+start: 966.4557, firstLetter: 973.2528, endTime: 1102.039
+phrase time: 128.786
+WPM: 3.35440159618584
+ER: 6.25% with |T| = 32, INF =2
+KSPC: 1.8125 
+EKS ER: 46.875% 
+Total ER: 33.33333% 
+#Space: 4, #Backspace: 13
+#ByClick: 7, #RecChars: 34
+#InputStream: 58
+#Display Length: 32
+#Transcribed Length: 32
+

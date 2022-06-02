@@ -1,0 +1,165 @@
+hello world
+Text:hello world correct: True
+start: 331.5308, firstLetter: 344.6916, endTime: 837.28
+phrase time: 492.5884
+WPM: 0.365416637006427
+ER: 0% with |T| = 11, INF =0
+KSPC: 5.363636 
+EKS ER: 227.2727% 
+Total ER: 69.44444% 
+#Space: 1, #Backspace: 25
+#ByClick: 7, #RecChars: 26
+#InputStream: 59
+#Display Length: 11
+#Transcribed Length: 11
+
+Start Evaluation
+No Text correct: False
+start: 837.28, firstLetter: 0, endTime: 859.348
+phrase time: 859.348
+WPM: 0.0837844542978163
+ER: 250% with |T| = 2, INF =5
+KSPC: 0 
+EKS ER: 31.25% 
+Total ER: 83.33334% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 16
+#Transcribed Length: 2
+
+the four seasons will come
+Text:the four seasons will come correct: True
+start: 859.348, firstLetter: 867.2226, endTime: 1128.975
+phrase time: 261.752
+WPM: 1.37534758292148
+ER: 0% with |T| = 26, INF =0
+KSPC: 2 
+EKS ER: 50% 
+Total ER: 33.33333% 
+#Space: 4, #Backspace: 13
+#ByClick: 8, #RecChars: 27
+#InputStream: 52
+#Display Length: 26
+#Transcribed Length: 26
+
+Pause
+No Text correct: False
+start: 1128.975, firstLetter: 0, endTime: 1184.19
+phrase time: 1184.19
+WPM: 0.0608010380906406
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+hair gel is very greasy
+Text:hair gel is very greasy correct: True
+start: 1184.19, firstLetter: 1198.084, endTime: 1583.032
+phrase time: 384.9485
+WPM: 0.84167105861491
+ER: 0% with |T| = 23, INF =0
+KSPC: 3 
+EKS ER: 95.65218% 
+Total ER: 48.88889% 
+#Space: 4, #Backspace: 22
+#ByClick: 7, #RecChars: 36
+#InputStream: 69
+#Display Length: 23
+#Transcribed Length: 23
+
+Pause
+No Text correct: False
+start: 1583.032, firstLetter: 0, endTime: 1613.363
+phrase time: 1613.363
+WPM: 0.0446272673917256
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+life is but a dream
+Text:life is but a dream correct: True
+start: 1613.363, firstLetter: 1623.503, endTime: 1930.664
+phrase time: 307.1611
+WPM: 0.898551185408208
+ER: 0% with |T| = 19, INF =0
+KSPC: 2.894737 
+EKS ER: 94.73684% 
+Total ER: 48.64865% 
+#Space: 4, #Backspace: 18
+#ByClick: 6, #RecChars: 27
+#InputStream: 55
+#Display Length: 19
+#Transcribed Length: 19
+
+Pause
+No Text correct: False
+start: 1930.664, firstLetter: 0, endTime: 1933.707
+phrase time: 1933.707
+WPM: 0.0372341822398284
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+insurance is important for bad drivers
+Text:insurance is important for bad drivers correct: True
+start: 1933.707, firstLetter: 1944.424, endTime: 2656.703
+phrase time: 712.2782
+WPM: 0.70758869391736
+ER: 0% with |T| = 38, INF =0
+KSPC: 3.631579 
+EKS ER: 128.9474% 
+Total ER: 56.32184% 
+#Space: 5, #Backspace: 49
+#ByClick: 15, #RecChars: 69
+#InputStream: 138
+#Display Length: 38
+#Transcribed Length: 38
+
+Pause
+No Text correct: False
+start: 2656.703, firstLetter: 0, endTime: 2761.942
+phrase time: 2761.942
+WPM: 0.0260686150358785
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+superman never wore a mask
+Text:superman never wore a mask correct: True
+start: 2761.942, firstLetter: 2767.184, endTime: 3098.618
+phrase time: 331.4343
+WPM: 1.08618803658047
+ER: 0% with |T| = 26, INF =0
+KSPC: 3.461539 
+EKS ER: 123.0769% 
+Total ER: 55.17241% 
+#Space: 5, #Backspace: 32
+#ByClick: 10, #RecChars: 43
+#InputStream: 90
+#Display Length: 26
+#Transcribed Length: 26
+

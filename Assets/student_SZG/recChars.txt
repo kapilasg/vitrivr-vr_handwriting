@@ -1,0 +1,1636 @@
+
+Found:   
+Top five:  
+
+
+Found:   
+Top five:  
+
+z
+Found: z 
+Top five: z, w 
+
+
+(Backspace) 
+
+e
+Found: e 
+Top five: e, w 
+
+z
+Found: z 
+Top five: z, e, w 
+
+zu
+Found: u 
+Top five: u, q, a, x, p 
+
+z
+(Backspace) 
+
+
+(Backspace) 
+
+
+(Backspace) 
+
+t
+Found: t 
+Top five: t, r, h, f, a 
+
+tl
+Found: l 
+Top five: l, y, v, t, a 
+
+t
+(Backspace) 
+
+
+(Backspace) 
+
+
+(Backspace) 
+
+
+(Backspace) 
+
+j
+Found: j 
+Top five: j, i, m 
+
+
+(Backspace) 
+
+p
+Found: p 
+Top five: p, h, n, k, f 
+
+
+(Backspace) 
+
+h
+(Corrected / byClick: ) h 
+
+hg
+Found: g 
+Top five: g, a 
+
+h
+(Backspace) 
+
+he
+Found: e 
+Top five: e, u, c 
+
+hef
+Found: f 
+Top five: f, d, a 
+
+he
+(Backspace) 
+
+hee
+Found: e 
+Top five: e, u, c 
+
+heee
+Found: e 
+Top five: e, r, n, y, b 
+
+heeee
+Found: e 
+Top five: e, u, s, c 
+
+heeee
+Found:   
+Top five:  
+
+heee
+(Backspace) 
+
+hee
+(Backspace) 
+
+he
+(Backspace) 
+
+hel
+Found: l 
+Top five: l, y, r, v, p 
+
+helm
+Found: m 
+Top five: m, n, z, i, a 
+
+hel
+(Backspace) 
+
+helh
+Found: h 
+Top five: h, l, v, r, p 
+
+helhl
+(Corrected / byClick: ) l 
+
+helh
+(Backspace) 
+
+hel
+(Backspace) 
+
+hell
+(Corrected / byClick: ) l 
+
+hello
+Found: o 
+Top five: o, c 
+
+hello 
+(Space) 
+
+hello w
+Found: w 
+Top five: w 
+
+hello ws
+Found: s 
+Top five: s, o, c 
+
+hello wso
+(Corrected / byClick: ) o 
+
+hello ws
+(Backspace) 
+
+hello w
+(Backspace) 
+
+hello wo
+(Corrected / byClick: ) o 
+
+hello wom
+Found: m 
+Top five: m, e, w 
+
+hello wo
+(Backspace) 
+
+hello wor
+Found: r 
+Top five: r, l, h, f, b 
+
+hello wory
+Found: y 
+Top five: y, x, u, d, r 
+
+hello wor
+(Backspace) 
+
+hello worx
+Found: x 
+Top five: x, l, v, r, f 
+
+hello wor
+(Backspace) 
+
+hello worl
+(Corrected / byClick: ) l 
+
+hello worlv
+(Corrected / byClick: ) v 
+
+hello worl
+(Backspace) 
+
+hello worln
+Found: n 
+Top five: n, k, h, e, a 
+
+hello worl
+(Backspace) 
+
+hello worln
+Found: n 
+Top five: n, f, e, a, k 
+
+hello worl
+(Backspace) 
+
+hello world
+Found: d 
+Top five: d, u, a 
+
+h
+Found: h 
+Top five: h, f, k, a 
+
+
+(Backspace) 
+
+t
+Found: t 
+Top five: t, h, f, e, b 
+
+th
+(Corrected / byClick: ) h 
+
+the
+(Corrected / byClick: ) e 
+
+the 
+(Space) 
+
+the f
+(Corrected / byClick: ) f 
+
+the fe
+Found: e 
+Top five: e, b, a 
+
+the f
+(Backspace) 
+
+the fa
+Found: a 
+Top five: a, t, x, p, f 
+
+the f
+(Backspace) 
+
+the fy
+Found: y 
+Top five: y, x, g, e, a 
+
+the f
+(Backspace) 
+
+the fo
+Found: o 
+Top five: o, c 
+
+the fou
+Found: u 
+Top five: u, c 
+
+the foun
+Found: n 
+Top five: n, f, a 
+
+the fou
+(Backspace) 
+
+the four
+Found: r 
+Top five: r, n, h, e, d 
+
+the four 
+(Space) 
+
+the four a
+Found: a 
+Top five: a, l, u 
+
+the four 
+(Backspace) 
+
+the four s
+Found: s 
+Top five: s, c 
+
+the four su
+Found: u 
+Top five: u, e, c 
+
+the four s
+(Backspace) 
+
+the four se
+(Corrected / byClick: ) e 
+
+the four seg
+Found: g 
+Top five: g, d, e, a 
+
+the four se
+(Backspace) 
+
+the four sea
+(Corrected / byClick: ) a 
+
+the four seas
+Found: s 
+Top five: s, c 
+
+the four seaso
+Found: o 
+Top five: o, s, c 
+
+the four seasoz
+Found: z 
+Top five: z, w 
+
+the four seaso
+(Backspace) 
+
+the four seasop
+Found: p 
+Top five: p, n, f, k, a 
+
+the four seaso
+(Backspace) 
+
+the four season
+(Corrected / byClick: ) n 
+
+the four seasons
+Found: s 
+Top five: s, c 
+
+the four seasons 
+(Space) 
+
+the four seasons m
+Found: m 
+Top five: m, w 
+
+the four seasons 
+(Backspace) 
+
+the four seasons w
+(Corrected / byClick: ) w 
+
+the four seasons we
+Found: e 
+Top five: e, j, s, m, d 
+
+the four seasons w
+(Backspace) 
+
+the four seasons wi
+Found: i 
+Top five: i, r, g, f, a 
+
+the four seasons wil
+Found: l 
+Top five: l, y, x, r, d 
+
+the four seasons will
+Found: l 
+Top five: l, y, t, r, d 
+
+the four seasons will 
+(Space) 
+
+the four seasons will n
+Found: n 
+Top five: n, c 
+
+the four seasons will 
+(Backspace) 
+
+the four seasons will c
+(Corrected / byClick: ) c 
+
+the four seasons will co
+Found: o 
+Top five: o, c 
+
+the four seasons will com
+Found: m 
+Top five: m, e, w 
+
+the four seasons will come
+Found: e 
+Top five: e, s, o, c 
+
+
+Found:   
+Top five:  
+
+p
+Found: p 
+Top five: p, n, m, k, h 
+
+
+(Backspace) 
+
+h
+Found: h 
+Top five: h, d, p, n, a 
+
+hg
+Found: g 
+Top five: g, f, e, b, a 
+
+h
+(Backspace) 
+
+ha
+Found: a 
+Top five: a, q 
+
+haf
+Found: f 
+Top five: f, e, m, k, a 
+
+ha
+(Backspace) 
+
+hay
+Found: y 
+Top five: y, k, g, a 
+
+ha
+(Backspace) 
+
+hai
+Found: i 
+Top five: i, t, g, a 
+
+hair
+Found: r 
+Top five: r, l, d, b, a 
+
+hair 
+(Space) 
+
+hair q
+Found: q 
+Top five: q, g, a 
+
+hair 
+(Backspace) 
+
+hair g
+(Corrected / byClick: ) g 
+
+hair ge
+Found: e 
+Top five: e, o, c 
+
+hair gey
+Found: y 
+Top five: y, x, e, b, a 
+
+hair ge
+(Backspace) 
+
+hair gez
+Found: z 
+Top five: z, f, k, a 
+
+hair ge
+(Backspace) 
+
+hair gel
+Found: l 
+Top five: l, y, r, i, t 
+
+hair gel 
+(Space) 
+
+hair gel w
+Found: w 
+Top five: w, e 
+
+hair gel 
+(Backspace) 
+
+hair gel r
+Found: r 
+Top five: r, a 
+
+hair gel 
+(Backspace) 
+
+hair gel l
+Found: l 
+Top five: l, i, g, a 
+
+hair gel li
+(Corrected / byClick: ) i 
+
+hair gel l
+(Backspace) 
+
+hair gel 
+(Backspace) 
+
+hair gel i
+(Corrected / byClick: ) i 
+
+hair gel is
+Found: s 
+Top five: s, c 
+
+hair gel is 
+(Space) 
+
+hair gel is r
+Found: r 
+Top five: r, n, h, f, b 
+
+hair gel is 
+(Backspace) 
+
+hair gel is v
+Found: v 
+Top five: v, r, l, h, e 
+
+hair gel is 
+(Backspace) 
+
+hair gel is v
+(Corrected / byClick: ) v 
+
+hair gel is ve
+Found: e 
+Top five: e, a 
+
+hair gel is ver
+Found: r 
+Top five: r, n, h, e, d 
+
+hair gel is verd
+Found: d 
+Top five: d, w, e 
+
+hair gel is ver
+(Backspace) 
+
+hair gel is verd
+Found: d 
+Top five: d, i, h, b, k 
+
+hair gel is ver
+(Backspace) 
+
+hair gel is very
+Found: y 
+Top five: y, x, r, e, b 
+
+hair gel is very 
+(Space) 
+
+hair gel is very g
+Found: g 
+Top five: g, a 
+
+hair gel is very gr
+Found: r 
+Top five: r, n, l, h, e 
+
+hair gel is very grm
+Found: m 
+Top five: m, e, z, w 
+
+hair gel is very grme
+(Corrected / byClick: ) e 
+
+hair gel is very grm
+(Backspace) 
+
+hair gel is very gr
+(Backspace) 
+
+hair gel is very gre
+(Corrected / byClick: ) e 
+
+hair gel is very gred
+Found: d 
+Top five: d, g, a, m, k 
+
+hair gel is very gre
+(Backspace) 
+
+hair gel is very grea
+(Corrected / byClick: ) a 
+
+hair gel is very gream
+Found: m 
+Top five: m 
+
+hair gel is very grea
+(Backspace) 
+
+hair gel is very greas
+Found: s 
+Top five: s, c 
+
+hair gel is very greasw
+Found: w 
+Top five: w, z 
+
+hair gel is very greas
+(Backspace) 
+
+hair gel is very greasn
+Found: n 
+Top five: n, k, i, h, f 
+
+hair gel is very greas
+(Backspace) 
+
+hair gel is very greas
+Found:   
+Top five:  
+
+hair gel is very greasg
+Found: g 
+Top five: g, k, h, e, b 
+
+hair gel is very greas
+(Backspace) 
+
+hair gel is very greasy
+Found: y 
+Top five: y, r, q, g, b 
+
+l
+Found: l 
+Top five: l, h, f, b, a 
+
+li
+Found: i 
+Top five: i, z, k, j, a 
+
+lig
+Found: g 
+Top five: g, h, f, a, k 
+
+li
+(Backspace) 
+
+lif
+(Corrected / byClick: ) f 
+
+lifu
+Found: u 
+Top five: u, e, c 
+
+lifue
+(Corrected / byClick: ) e 
+
+lifu
+(Backspace) 
+
+lif
+(Backspace) 
+
+life
+(Corrected / byClick: ) e 
+
+life 
+(Space) 
+
+life d
+Found: d 
+Top five: d, j, h, m, k 
+
+life 
+(Backspace) 
+
+life i
+Found: i 
+Top five: i, l, y, x, t 
+
+life is
+Found: s 
+Top five: s, c 
+
+life is 
+(Space) 
+
+life is b
+Found: b 
+Top five: b, d, p, h, a 
+
+life is bu
+Found: u 
+Top five: u, e, d, a 
+
+life is bue
+Found: e 
+Top five: e, z, w 
+
+life is bu
+(Backspace) 
+
+life is buh
+Found: h 
+Top five: h, f, e, m, k 
+
+life is bu
+(Backspace) 
+
+life is buj
+Found: j 
+Top five: j, h, f, a, k 
+
+life is bu
+(Backspace) 
+
+life is buy
+Found: y 
+Top five: y, h, f, a 
+
+life is bu
+(Backspace) 
+
+life is bud
+Found: d 
+Top five: d, y, t, p, h 
+
+life is bu
+(Backspace) 
+
+life is but
+(Corrected / byClick: ) t 
+
+life is but 
+(Space) 
+
+life is but d
+Found: d 
+Top five: d, w, m, e, z 
+
+life is but 
+(Backspace) 
+
+life is but j
+Found: j 
+Top five: j, m 
+
+life is but 
+(Backspace) 
+
+life is but a
+Found: a 
+Top five: a, u, q, d, b 
+
+life is but a 
+(Space) 
+
+life is but a d
+(Corrected / byClick: ) d 
+
+life is but a dn
+Found: n 
+Top five: n, k, h, a 
+
+life is but a d
+(Backspace) 
+
+life is but a dn
+Found: n 
+Top five: n, h, f, a, k 
+
+life is but a d
+(Backspace) 
+
+life is but a dh
+Found: h 
+Top five: h, f, b, a, m 
+
+life is but a d
+(Backspace) 
+
+life is but a dn
+Found: n 
+Top five: n, f, a, k 
+
+life is but a d
+(Backspace) 
+
+life is but a dh
+Found: h 
+Top five: h, f, a, k 
+
+life is but a d
+(Backspace) 
+
+life is but a dr
+Found: r 
+Top five: r, l, b, a 
+
+life is but a drd
+Found: d 
+Top five: d, a 
+
+life is but a dr
+(Backspace) 
+
+life is but a drn
+Found: n 
+Top five: n, f, e, k, a 
+
+life is but a dr
+(Backspace) 
+
+life is but a dre
+(Corrected / byClick: ) e 
+
+life is but a drea
+Found: a 
+Top five: a 
+
+life is but a dream
+Found: m 
+Top five: m, e, z, w 
+
+j
+Found: j 
+Top five: j, z, k, a 
+
+
+(Backspace) 
+
+m
+Found: m 
+Top five: m, e, z, w 
+
+
+(Backspace) 
+
+i
+Found: i 
+Top five: i, x, l, r, v 
+
+ip
+Found: p 
+Top five: p, n, k, h, a 
+
+ipn
+(Corrected / byClick: ) n 
+
+ip
+(Backspace) 
+
+i
+(Backspace) 
+
+in
+(Corrected / byClick: ) n 
+
+ine
+Found: e 
+Top five: e, g, b, a 
+
+in
+(Backspace) 
+
+ins
+Found: s 
+Top five: s, c 
+
+insm
+Found: m 
+Top five: m, h, k, a 
+
+ins
+(Backspace) 
+
+inse
+Found: e 
+Top five: e, w 
+
+ins
+(Backspace) 
+
+insm
+Found: m 
+Top five: m 
+
+ins
+(Backspace) 
+
+insu
+Found: u 
+Top five: u, d, h, g, a 
+
+insur
+Found: r 
+Top five: r, d, n, h, e 
+
+insurd
+Found: d 
+Top five: d, a, u 
+
+insurda
+(Corrected / byClick: ) a 
+
+insurd
+(Backspace) 
+
+insur
+(Backspace) 
+
+insura
+(Corrected / byClick: ) a 
+
+insurau
+Found: u 
+Top five: u, p, h, n, k 
+
+insura
+(Backspace) 
+
+insuran
+(Corrected / byClick: ) n 
+
+insurane
+Found: e 
+Top five: e, o, c 
+
+insuranec
+(Corrected / byClick: ) c 
+
+insuranece
+(Corrected / byClick: ) e 
+
+insuranec
+(Backspace) 
+
+insurane
+(Backspace) 
+
+insuran
+(Backspace) 
+
+insuranc
+(Corrected / byClick: ) c 
+
+insurance
+(Corrected / byClick: ) e 
+
+insurance 
+(Space) 
+
+insurance j
+Found: j 
+Top five: j, m 
+
+insurance 
+(Backspace) 
+
+insurance d
+Found: d 
+Top five: d, z, w 
+
+insurance 
+(Backspace) 
+
+insurance j
+Found: j 
+Top five: j, f, k, a 
+
+insurance 
+(Backspace) 
+
+insurance i
+Found: i 
+Top five: i, y, x, g, f 
+
+insurance iy
+Found: y 
+Top five: y, f, e, b, a 
+
+insurance i
+(Backspace) 
+
+insurance is
+Found: s 
+Top five: s, c 
+
+insurance is 
+(Space) 
+
+insurance is d
+Found: d 
+Top five: d, m, w, e, z 
+
+insurance is 
+(Backspace) 
+
+insurance is i
+Found: i 
+Top five: i, t, e, b, a 
+
+insurance is i
+Found:   
+Top five:  
+
+insurance is ij
+Found: j 
+Top five: j, m 
+
+insurance is i
+(Backspace) 
+
+insurance is im
+(Corrected / byClick: ) m 
+
+insurance is imp
+Found: p 
+Top five: p, d, n, f, a 
+
+insurance is impo
+Found: o 
+Top five: o, c 
+
+insurance is impor
+Found: r 
+Top five: r, n, e, b, a 
+
+insurance is imporw
+Found: w 
+Top five: w, e, z 
+
+insurance is impor
+(Backspace) 
+
+insurance is impor
+Found:   
+Top five:  
+
+insurance is imporf
+Found: f 
+Top five: f, a, k 
+
+insurance is impor
+(Backspace) 
+
+insurance is imporf
+Found: f 
+Top five: f, d, b, a 
+
+insurance is impor
+(Backspace) 
+
+insurance is imporf
+Found: f 
+Top five: f, t, d, b, a 
+
+insurance is impor
+(Backspace) 
+
+insurance is import
+(Corrected / byClick: ) t 
+
+insurance is importd
+Found: d 
+Top five: d, a, k 
+
+insurance is import
+(Backspace) 
+
+insurance is importa
+(Corrected / byClick: ) a 
+
+insurance is importae
+Found: e 
+Top five: e, w 
+
+insurance is importa
+(Backspace) 
+
+insurance is importam
+Found: m 
+Top five: m, e, z, w 
+
+insurance is importa
+(Backspace) 
+
+insurance is importaf
+Found: f 
+Top five: f, a, m, k 
+
+insurance is importa
+(Backspace) 
+
+insurance is importan
+Found: n 
+Top five: n, k, h, m, a 
+
+insurance is importanj
+Found: j 
+Top five: j, h, f, a, k 
+
+insurance is importan
+(Backspace) 
+
+insurance is importanz
+Found: z 
+Top five: z, e, w 
+
+insurance is importan
+(Backspace) 
+
+insurance is importanz
+Found: z 
+Top five: z, e, w 
+
+insurance is importan
+(Backspace) 
+
+insurance is importand
+Found: d 
+Top five: d, w, z 
+
+insurance is importan
+(Backspace) 
+
+insurance is importank
+Found: k 
+Top five: k, h, a 
+
+insurance is importan
+(Backspace) 
+
+insurance is important
+Found: t 
+Top five: t, f, d, a 
+
+insurance is important 
+(Space) 
+
+insurance is important z
+Found: z 
+Top five: z, w 
+
+insurance is important 
+(Backspace) 
+
+insurance is important e
+Found: e 
+Top five: e, z, w 
+
+insurance is important 
+(Backspace) 
+
+insurance is important s
+Found: s 
+Top five: s, a, y, f, k 
+
+insurance is important 
+(Backspace) 
+
+insurance is important f
+(Corrected / byClick: ) f 
+
+insurance is important fy
+Found: y 
+Top five: y, a, x, t, g 
+
+insurance is important f
+(Backspace) 
+
+insurance is important fe
+Found: e 
+Top five: e, o, c 
+
+insurance is important f
+(Backspace) 
+
+insurance is important fo
+(Corrected / byClick: ) o 
+
+insurance is important for
+Found: r 
+Top five: r, n, l, g, e 
+
+insurance is important for 
+(Space) 
+
+insurance is important for b
+Found: b 
+Top five: b, p, h, a 
+
+insurance is important for bg
+Found: g 
+Top five: g, f, a, k 
+
+insurance is important for b
+(Backspace) 
+
+insurance is important for ba
+(Corrected / byClick: ) a 
+
+insurance is important for bad
+Found: d 
+Top five: d, n, h, f, b 
+
+insurance is important for bad 
+(Space) 
+
+insurance is important for bad d
+Found: d 
+Top five: d, n, a 
+
+insurance is important for bad dr
+Found: r 
+Top five: r, n, e, d, b 
+
+insurance is important for bad drj
+Found: j 
+Top five: j, f, e, k, a 
+
+insurance is important for bad dr
+(Backspace) 
+
+insurance is important for bad dri
+Found: i 
+Top five: i, a 
+
+insurance is important for bad driq
+Found: q 
+Top five: q, f, a, k 
+
+insurance is important for bad dri
+(Backspace) 
+
+insurance is important for bad drin
+Found: n 
+Top five: n, h, k, a 
+
+insurance is important for bad dri
+(Backspace) 
+
+insurance is important for bad drih
+Found: h 
+Top five: h, u, n, y, g 
+
+insurance is important for bad dri
+(Backspace) 
+
+insurance is important for bad driv
+Found: v 
+Top five: v, r, q, n, l 
+
+insurance is important for bad dri
+(Backspace) 
+
+insurance is important for bad drie
+Found: e 
+Top five: e, b, a 
+
+insurance is important for bad dri
+(Backspace) 
+
+insurance is important for bad driv
+Found: v 
+Top five: v, r, l, b, a 
+
+insurance is important for bad drive
+Found: e 
+Top five: e, o, u, s, c 
+
+insurance is important for bad drivep
+Found: p 
+Top five: p, h, b, a 
+
+insurance is important for bad drive
+(Backspace) 
+
+insurance is important for bad drivef
+Found: f 
+Top five: f, k, a 
+
+insurance is important for bad drive
+(Backspace) 
+
+insurance is important for bad driveh
+Found: h 
+Top five: h, e, a, m, k 
+
+insurance is important for bad drive
+(Backspace) 
+
+insurance is important for bad driver
+Found: r 
+Top five: r, d, n, h, e 
+
+insurance is important for bad driverm
+Found: m 
+Top five: m, z, e, w 
+
+insurance is important for bad driver
+(Backspace) 
+
+insurance is important for bad drivers
+Found: s 
+Top five: s, o, c 
+
+s
+Found: s 
+Top five: s, o, c 
+
+sd
+Found: d 
+Top five: d, j, g, a, k 
+
+s
+(Backspace) 
+
+se
+Found: e 
+Top five: e, z, w 
+
+s
+(Backspace) 
+
+se
+Found: e 
+Top five: e, u, n, s, o 
+
+s
+(Backspace) 
+
+su
+(Corrected / byClick: ) u 
+
+suw
+Found: w 
+Top five: w, e 
+
+su
+(Backspace) 
+
+sud
+Found: d 
+Top five: d, f, b, a, k 
+
+su
+(Backspace) 
+
+suf
+Found: f 
+Top five: f, x, n, d, a 
+
+su
+(Backspace) 
+
+sud
+Found: d 
+Top five: d, e, z, w 
+
+su
+(Backspace) 
+
+sud
+Found: d 
+Top five: d, b, a, m, k 
+
+su
+(Backspace) 
+
+sud
+Found: d 
+Top five: d, w, m, z 
+
+sudp
+Found: p 
+Top five: p, r, f, b, a 
+
+sud
+(Backspace) 
+
+su
+(Backspace) 
+
+sup
+(Corrected / byClick: ) p 
+
+supe
+Found: e 
+Top five: e, b, a 
+
+super
+Found: r 
+Top five: r, d, n, h, e 
+
+superm
+Found: m 
+Top five: m, e, z, w 
+
+supermd
+Found: d 
+Top five: d, g, e, a, m 
+
+superm
+(Backspace) 
+
+superma
+(Corrected / byClick: ) a 
+
+supermad
+Found: d 
+Top five: d, f, m, k, a 
+
+superma
+(Backspace) 
+
+supermam
+Found: m 
+Top five: m, e, z, w 
+
+superma
+(Backspace) 
+
+supermap
+Found: p 
+Top five: p, n, a, m, k 
+
+superma
+(Backspace) 
+
+superman
+(Corrected / byClick: ) n 
+
+superman 
+(Space) 
+
+superman h
+Found: h 
+Top five: h, p, l, n, e 
+
+superman hn
+(Corrected / byClick: ) n 
+
+superman h
+(Backspace) 
+
+superman 
+(Backspace) 
+
+superman n
+(Corrected / byClick: ) n 
+
+superman 
+(Backspace) 
+
+superman  
+(Space) 
+
+superman 
+(Backspace) 
+
+superman e
+Found: e 
+Top five: e, o, c 
+
+superman 
+(Backspace) 
+
+superman w
+Found: w 
+Top five: w, e, z 
+
+superman 
+(Backspace) 
+
+superman i
+Found: i 
+Top five: i, h, a, m, k 
+
+superman 
+(Backspace) 
+
+superman o
+Found: o 
+Top five: o, s, i, c 
+
+superman 
+(Backspace) 
+
+superman m
+Found: m 
+Top five: m, e, z, w 
+
+superman 
+(Backspace) 
+
+superman h
+Found: h 
+Top five: h, r, e, b, a 
+
+superman 
+(Backspace) 
+
+superman p
+Found: p 
+Top five: p, n, f, k, a 
+
+superman 
+(Backspace) 
+
+superman n
+(Corrected / byClick: ) n 
+
+superman ns
+Found: s 
+Top five: s, o, c 
+
+superman n
+(Backspace) 
+
+superman np
+Found: p 
+Top five: p, a, k 
+
+superman n
+(Backspace) 
+
+superman ne
+Found: e 
+Top five: e, d, b, a 
+
+superman nev
+Found: v 
+Top five: v, r, l, e, d 
+
+superman nevp
+Found: p 
+Top five: p, d, a 
+
+superman nev
+(Backspace) 
+
+superman neve
+Found: e 
+Top five: e, u, o, c 
+
+superman never
+Found: r 
+Top five: r, e, b, a 
+
+superman never 
+(Space) 
+
+superman never w
+Found: w 
+Top five: w 
+
+superman never wo
+Found: o 
+Top five: o, c 
+
+superman never wov
+Found: v 
+Top five: v, r, n, e, a 
+
+superman never wo
+(Backspace) 
+
+superman never wor
+(Corrected / byClick: ) r 
+
+superman never wore
+(Corrected / byClick: ) e 
+
+superman never wore 
+(Space) 
+
+superman never wore a
+Found: a 
+Top five: a, q 
+
+superman never wore a 
+(Space) 
+
+superman never wore a m
+Found: m 
+Top five: m 
+
+superman never wore a ma
+Found: a 
+Top five: a 
+
+superman never wore a mau
+Found: u 
+Top five: u, s, o, c 
+
+superman never wore a ma
+(Backspace) 
+
+superman never wore a mas
+(Corrected / byClick: ) s 
+
+superman never wore a masw
+Found: w 
+Top five: w 
+
+superman never wore a mas
+(Backspace) 
+
+superman never wore a mase
+Found: e 
+Top five: e, w 
+
+superman never wore a mas
+(Backspace) 
+
+superman never wore a mask
+Found: k 
+Top five: k, a 
+

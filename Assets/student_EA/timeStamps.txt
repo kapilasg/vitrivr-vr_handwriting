@@ -1,0 +1,165 @@
+hello world
+Text:hello world correct: True
+start: 279.211, firstLetter: 561.1623, endTime: 836.3033
+phrase time: 275.1411
+WPM: 0.654209898997562
+ER: 0% with |T| = 11, INF =0
+KSPC: 3 
+EKS ER: 100% 
+Total ER: 50% 
+#Space: 1, #Backspace: 11
+#ByClick: 6, #RecChars: 15
+#InputStream: 33
+#Display Length: 11
+#Transcribed Length: 11
+
+Start Evaluation
+No Text correct: False
+start: 836.3033, firstLetter: 0, endTime: 860.9485
+phrase time: 860.9485
+WPM: 0.0836286968887931
+ER: 250% with |T| = 2, INF =5
+KSPC: 0 
+EKS ER: 31.25% 
+Total ER: 83.33334% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 16
+#Transcribed Length: 2
+
+i spilled coffee on the carpet
+Text:i spilled coffee on the carpet correct: True
+start: 860.9485, firstLetter: 876.8859, endTime: 1248.968
+phrase time: 372.0818
+WPM: 1.0965331121678
+ER: 0% with |T| = 30, INF =0
+KSPC: 2.866667 
+EKS ER: 93.33334% 
+Total ER: 48.27586% 
+#Space: 6, #Backspace: 28
+#ByClick: 15, #RecChars: 37
+#InputStream: 86
+#Display Length: 30
+#Transcribed Length: 30
+
+Pause
+No Text correct: False
+start: 1248.968, firstLetter: 0, endTime: 1290.032
+phrase time: 1290.032
+WPM: 0.055812553907122
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+arguing with the boss is futile
+Text:arguing with the boss is futile correct: True
+start: 1290.032, firstLetter: 1301.005, endTime: 1651.282
+phrase time: 350.2766
+WPM: 1.19905236723488
+ER: 0% with |T| = 31, INF =0
+KSPC: 3.129032 
+EKS ER: 106.4516% 
+Total ER: 51.5625% 
+#Space: 6, #Backspace: 33
+#ByClick: 9, #RecChars: 49
+#InputStream: 97
+#Display Length: 31
+#Transcribed Length: 31
+
+Pause
+No Text correct: False
+start: 1651.282, firstLetter: 0, endTime: 1702.635
+phrase time: 1702.635
+WPM: 0.0422873985023643
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+file all complaints in writing
+Text:file all complaints in writing correct: True
+start: 1702.635, firstLetter: 1714.141, endTime: 1979.499
+phrase time: 265.3582
+WPM: 1.53754461053246
+ER: 0% with |T| = 30, INF =0
+KSPC: 2.6 
+EKS ER: 80% 
+Total ER: 44.44444% 
+#Space: 4, #Backspace: 24
+#ByClick: 9, #RecChars: 41
+#InputStream: 78
+#Display Length: 30
+#Transcribed Length: 30
+
+Pause
+No Text correct: False
+start: 1979.499, firstLetter: 0, endTime: 2059.108
+phrase time: 2059.108
+WPM: 0.034966602858276
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+never mix religion and politics
+Text:never mix religion and politics correct: True
+start: 2059.108, firstLetter: 2070.769, endTime: 2277.391
+phrase time: 206.6223
+WPM: 2.03269429592651
+ER: 0% with |T| = 31, INF =0
+KSPC: 2.096774 
+EKS ER: 54.83871% 
+Total ER: 35.41667% 
+#Space: 4, #Backspace: 17
+#ByClick: 6, #RecChars: 38
+#InputStream: 65
+#Display Length: 31
+#Transcribed Length: 31
+
+Pause
+No Text correct: False
+start: 2277.391, firstLetter: 0, endTime: 2293.757
+phrase time: 2293.757
+WPM: 0.0313895522280034
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+interactions between men and women
+Text:interactions between men and women correct: True
+start: 2293.757, firstLetter: 2304.041, endTime: 2566.989
+phrase time: 262.9478
+WPM: 1.73418480753625
+ER: 0% with |T| = 34, INF =0
+KSPC: 2.882353 
+EKS ER: 94.11765% 
+Total ER: 48.48485% 
+#Space: 4, #Backspace: 32
+#ByClick: 11, #RecChars: 51
+#InputStream: 98
+#Display Length: 34
+#Transcribed Length: 34
+

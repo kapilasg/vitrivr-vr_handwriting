@@ -1,0 +1,165 @@
+hello world
+Text:hezyo wiwdvd correct: False
+start: 128.1977, firstLetter: 133.2947, endTime: 265.9691
+phrase time: 132.6743
+WPM: 1.44715240324667
+ER: 58.33333% with |T| = 12, INF =7
+KSPC: 2.583333 
+EKS ER: 136.3636% 
+Total ER: 75% 
+#Space: 1, #Backspace: 8
+#ByClick: 2, #RecChars: 20
+#InputStream: 31
+#Display Length: 11
+#Transcribed Length: 12
+
+Start Evaluation
+No Text correct: False
+start: 265.9691, firstLetter: 0, endTime: 274.5649
+phrase time: 274.5649
+WPM: 0.262233071833399
+ER: 250% with |T| = 2, INF =5
+KSPC: 0 
+EKS ER: 31.25% 
+Total ER: 83.33334% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 16
+#Transcribed Length: 2
+
+bad for the environment
+Text:iae fhr fpr fne ineiyohmenp correct: False
+start: 274.5649, firstLetter: 278.8964, endTime: 528.5726
+phrase time: 249.6762
+WPM: 1.48992988843337
+ER: 74.07407% with |T| = 27, INF =20
+KSPC: 2.555556 
+EKS ER: 169.5652% 
+Total ER: 84.78261% 
+#Space: 4, #Backspace: 19
+#ByClick: 7, #RecChars: 39
+#InputStream: 69
+#Display Length: 23
+#Transcribed Length: 27
+
+Pause
+No Text correct: False
+start: 528.5726, firstLetter: 0, endTime: 562.7014
+phrase time: 562.7014
+WPM: 0.127954183072468
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+faster than a speeding bullet
+Text:fmdtnw mhae a zetding eutlep correct: False
+start: 562.7014, firstLetter: 570.6199, endTime: 814.1217
+phrase time: 243.5018
+WPM: 1.57699019484481
+ER: 35.71429% with |T| = 28, INF =10
+KSPC: 2.464286 
+EKS ER: 100% 
+Total ER: 76.31579% 
+#Space: 4, #Backspace: 19
+#ByClick: 5, #RecChars: 41
+#InputStream: 69
+#Display Length: 29
+#Transcribed Length: 28
+
+Pause
+No Text correct: False
+start: 814.1217, firstLetter: 0, endTime: 851.7155
+phrase time: 851.7155
+WPM: 0.0845352748424057
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+the cream rises to the top
+Text:fhe duemm wfeep to ehe porw correct: False
+start: 851.7155, firstLetter: 857.2015, endTime: 1052.425
+phrase time: 195.2233
+WPM: 1.9055105801463
+ER: 44.44444% with |T| = 27, INF =12
+KSPC: 2.333333 
+EKS ER: 115.3846% 
+Total ER: 66.66666% 
+#Space: 5, #Backspace: 18
+#ByClick: 5, #RecChars: 35
+#InputStream: 63
+#Display Length: 26
+#Transcribed Length: 27
+
+Pause
+No Text correct: False
+start: 1052.425, firstLetter: 0, endTime: 1093.984
+phrase time: 1093.984
+WPM: 0.0658145197347932
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+completely sold out of that
+Text:pemkcetlly zoyd ouf of khak correct: False
+start: 1093.984, firstLetter: 1097.482, endTime: 1292.427
+phrase time: 194.9452
+WPM: 1.90822866252847
+ER: 37.03704% with |T| = 27, INF =10
+KSPC: 2.407408 
+EKS ER: 107.4074% 
+Total ER: 63.04348% 
+#Space: 4, #Backspace: 19
+#ByClick: 9, #RecChars: 33
+#InputStream: 65
+#Display Length: 27
+#Transcribed Length: 27
+
+Pause
+No Text correct: False
+start: 1292.427, firstLetter: 0, endTime: 1335.741
+phrase time: 1335.741
+WPM: 0.0539026764541707
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+limited warranty of two years
+Text:simifed wdhnanftu of two yearz correct: False
+start: 1335.741, firstLetter: 1339.916, endTime: 1599.588
+phrase time: 259.6722
+WPM: 1.57121145524589
+ER: 70% with |T| = 30, INF =21
+KSPC: 2.566667 
+EKS ER: 148.2759% 
+Total ER: 82.69231% 
+#Space: 4, #Backspace: 22
+#ByClick: 8, #RecChars: 43
+#InputStream: 77
+#Display Length: 29
+#Transcribed Length: 30
+

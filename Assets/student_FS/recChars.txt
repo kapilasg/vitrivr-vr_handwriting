@@ -1,0 +1,1511 @@
+m
+Found: m 
+Top five: m, e, w 
+
+
+(Backspace) 
+
+a
+Found: a 
+Top five: a, q, d 
+
+ar
+Found: r 
+Top five: r, p, l, h, g 
+
+a
+(Backspace) 
+
+au
+Found: u 
+Top five: u, t, x, q, p 
+
+aue
+Found: e 
+Top five: e, z, w 
+
+aueb
+Found: b 
+Top five: b, p, h, e, a 
+
+aue
+(Backspace) 
+
+au
+(Backspace) 
+
+a
+(Backspace) 
+
+
+(Backspace) 
+
+
+(Backspace) 
+
+x
+Found: x 
+Top five: x, e, b, a 
+
+xi
+Found: i 
+Top five: i, s, o, c 
+
+xix
+Found: x 
+Top five: x, v, r, p, l 
+
+xixo
+Found: o 
+Top five: o, i, c 
+
+xixox
+Found: x 
+Top five: x, t, e, a 
+
+xixoxl
+Found: l 
+Top five: l, y, x, v, a 
+
+xixoxll
+Found: l 
+Top five: l, x, t, e, b 
+
+xixoxl
+(Backspace) 
+
+xixox
+(Backspace) 
+
+xixo
+(Backspace) 
+
+xix
+(Backspace) 
+
+xi
+(Backspace) 
+
+x
+(Backspace) 
+
+
+(Backspace) 
+
+h
+Found: h 
+Top five: h, n, k, f, a 
+
+hl
+Found: l 
+Top five: l, x, t, q, p 
+
+h
+(Backspace) 
+
+hz
+Found: z 
+Top five: z, k, a 
+
+h
+(Backspace) 
+
+he
+Found: e 
+Top five: e, u, c, s 
+
+hei
+Found: i 
+Top five: i, o, c 
+
+he
+(Backspace) 
+
+hei
+Found: i 
+Top five: i, c, o 
+
+he
+(Backspace) 
+
+het
+Found: t 
+Top five: t, x, l, f, d 
+
+hetl
+(Corrected / byClick: ) l 
+
+het
+(Backspace) 
+
+he
+(Backspace) 
+
+hel
+(Corrected / byClick: ) l 
+
+hell
+(Corrected / byClick: ) l 
+
+hello
+Found: o 
+Top five: o, c 
+
+hello 
+(Space) 
+
+hello w
+Found: w 
+Top five: w 
+
+hello wo
+Found: o 
+Top five: o, c 
+
+hello won
+Found: n 
+Top five: n, h, f, k, a 
+
+hello wo
+(Backspace) 
+
+hello wor
+Found: r 
+Top five: r, d, b, a 
+
+hello wori
+Found: i 
+Top five: i, c, o 
+
+hello wor
+(Backspace) 
+
+hello worx
+Found: x 
+Top five: x, l, y, v, e 
+
+hello worxl
+(Corrected / byClick: ) l 
+
+hello worx
+(Backspace) 
+
+hello wor
+(Backspace) 
+
+hello worl
+(Corrected / byClick: ) l 
+
+hello world
+Found: d 
+Top five: d, a, x, b 
+
+x
+Found: x 
+Top five: x, t, v, e, b 
+
+
+(Backspace) 
+
+t
+(Corrected / byClick: ) t 
+
+tw
+Found: w 
+Top five: w 
+
+t
+(Backspace) 
+
+tl
+Found: l 
+Top five: l, b, p, h, f 
+
+t
+(Backspace) 
+
+th
+(Corrected / byClick: ) h 
+
+thl
+Found: l 
+Top five: l, i, t, h, e 
+
+th
+(Backspace) 
+
+thi
+(Corrected / byClick: ) i 
+
+thit
+Found: t 
+Top five: t, n, f, d, b 
+
+thi
+(Backspace) 
+
+this
+Found: s 
+Top five: s, c 
+
+this 
+(Space) 
+
+this w
+Found: w 
+Top five: w, m 
+
+this wa
+Found: a 
+Top five: a, v, f, x, q 
+
+this waf
+Found: f 
+Top five: f, e, b, a 
+
+this wa
+(Backspace) 
+
+this waf
+Found: f 
+Top five: f, b, a 
+
+this wa
+(Backspace) 
+
+this wau
+Found: u 
+Top five: u, a, k, t, j 
+
+this wa
+(Backspace) 
+
+this wat
+(Corrected / byClick: ) t 
+
+this watu
+Found: u 
+Top five: u, c, s 
+
+this wat
+(Backspace) 
+
+this watc
+(Corrected / byClick: ) c 
+
+this watch
+Found: h 
+Top five: h, k, a 
+
+this watch 
+(Space) 
+
+this watch i
+Found: i 
+Top five: i, y, h, e, b 
+
+this watch is
+Found: s 
+Top five: s, f, l, r, d 
+
+this watch is 
+(Space) 
+
+this watch is k
+Found: k 
+Top five: k, z, a 
+
+this watch is 
+(Backspace) 
+
+this watch is z
+Found: z 
+Top five: z, k, a 
+
+this watch is 
+(Backspace) 
+
+this watch is e
+Found: e 
+Top five: e, b, a 
+
+this watch is ee
+Found: e 
+Top five: e, o, c, u, s 
+
+this watch is e
+(Backspace) 
+
+this watch is ek
+Found: k 
+Top five: k, a 
+
+this watch is e
+(Backspace) 
+
+this watch is ea
+Found: a 
+Top five: a, h, g, f, b 
+
+this watch is e
+(Backspace) 
+
+this watch is ex
+Found: x 
+Top five: x, v, e, d, b 
+
+this watch is exw
+Found: w 
+Top five: w, m 
+
+this watch is ex
+(Backspace) 
+
+this watch is exw
+Found: w 
+Top five: w, e, z 
+
+this watch is ex
+(Backspace) 
+
+this watch is exd
+Found: d 
+Top five: d, m, n, a, k 
+
+this watch is ex
+(Backspace) 
+
+this watch is exq
+Found: q 
+Top five: q, a, g 
+
+this watch is ex
+(Backspace) 
+
+this watch is exp
+Found: p 
+Top five: p, f, a, k 
+
+this watch is exps
+Found: s 
+Top five: s, a 
+
+this watch is exp
+(Backspace) 
+
+this watch is expe
+Found: e 
+Top five: e, b, a 
+
+this watch is expen
+Found: n 
+Top five: n, h, r, l, e 
+
+this watch is expenz
+Found: z 
+Top five: z, e, k, a 
+
+this watch is expen
+(Backspace) 
+
+this watch is expens
+Found: s 
+Top five: s, e, c 
+
+this watch is expensi
+Found: i 
+Top five: i, h, f, e, b 
+
+this watch is expensis
+Found: s 
+Top five: s, c 
+
+this watch is expensi
+(Backspace) 
+
+this watch is expensis
+Found: s 
+Top five: s, c 
+
+this watch is expensi
+(Backspace) 
+
+this watch is expensir
+Found: r 
+Top five: r, v, l, f, b 
+
+this watch is expensi
+(Backspace) 
+
+this watch is expensir
+Found: r 
+Top five: r, v, f, d, b 
+
+this watch is expensi
+(Backspace) 
+
+this watch is expensiv
+(Corrected / byClick: ) v 
+
+this watch is expensivo
+Found: o 
+Top five: o, u, i, c 
+
+this watch is expensiv
+(Backspace) 
+
+this watch is expensive
+Found: e 
+Top five: e, a 
+
+this watch is expensiv
+(Backspace) 
+
+this watch is expensi
+(Backspace) 
+
+this watch is expens
+(Backspace) 
+
+this watch is expen
+(Backspace) 
+
+this watch is expe
+(Backspace) 
+
+this watch is exp
+(Backspace) 
+
+this watch is ex
+(Backspace) 
+
+this watch is e
+(Backspace) 
+
+this watch is 
+(Backspace) 
+
+this watch is h
+Found: h 
+Top five: h, f, k, a 
+
+this watch is 
+(Backspace) 
+
+this watch is t
+Found: t 
+Top five: t, r, l, e, b 
+
+this watch is to
+Found: o 
+Top five: o, c 
+
+this watch is too
+Found: o 
+Top five: o, c 
+
+this watch is too 
+(Space) 
+
+this watch is too s
+Found: s 
+Top five: s, z, k, e, a 
+
+this watch is too 
+(Backspace) 
+
+this watch is too e
+Found: e 
+Top five: e, b, a 
+
+this watch is too eh
+Found: h 
+Top five: h, i, f, e, k 
+
+this watch is too e
+(Backspace) 
+
+this watch is too ey
+Found: y 
+Top five: y, x, v, t, r 
+
+this watch is too e
+(Backspace) 
+
+this watch is too ex
+(Corrected / byClick: ) x 
+
+this watch is too exh
+Found: h 
+Top five: h, j, d, y, b 
+
+this watch is too ex
+(Backspace) 
+
+this watch is too exp
+Found: p 
+Top five: p, a, k 
+
+this watch is too expj
+Found: j 
+Top five: j, p, d, a, k 
+
+this watch is too exp
+(Backspace) 
+
+this watch is too expe
+Found: e 
+Top five: e, b, a 
+
+this watch is too expen
+Found: n 
+Top five: n, h, l, e, b 
+
+this watch is too expens
+Found: s 
+Top five: s, z, q, e, a 
+
+this watch is too expensi
+Found: i 
+Top five: i, t, a 
+
+this watch is too expensii
+Found: i 
+Top five: i, a, x, t, l 
+
+this watch is too expensi
+(Backspace) 
+
+this watch is too expensir
+Found: r 
+Top five: r, v, e, d, b 
+
+this watch is too expensi
+(Backspace) 
+
+this watch is too expensiv
+(Corrected / byClick: ) v 
+
+this watch is too expensivk
+Found: k 
+Top five: k, a 
+
+this watch is too expensiv
+(Backspace) 
+
+this watch is too expensive
+Found: e 
+Top five: e, a 
+
+h
+Found: h 
+Top five: h, a, k 
+
+
+(Backspace) 
+
+y
+Found: y 
+Top five: y, n, l, f, t 
+
+
+(Backspace) 
+
+n
+Found: n 
+Top five: n, l, x, r, e 
+
+
+(Backspace) 
+
+y
+Found: y 
+Top five: y, v, f, d, b 
+
+
+(Backspace) 
+
+t
+Found: t 
+Top five: t, l, h, e, b 
+
+th
+Found: h 
+Top five: h, k, a 
+
+thz
+Found: z 
+Top five: z, k, a 
+
+th
+(Backspace) 
+
+the
+Found: e 
+Top five: e, d, b, a 
+
+the 
+(Space) 
+
+the i
+Found: i 
+Top five: i, o, c 
+
+the 
+(Backspace) 
+
+the l
+Found: l 
+Top five: l, v, b, x, r 
+
+the lo
+Found: o 
+Top five: o, c 
+
+the loe
+Found: e 
+Top five: e, o, c 
+
+the lo
+(Backspace) 
+
+the loc
+(Corrected / byClick: ) c 
+
+the loca
+Found: a 
+Top five: a, q 
+
+the locat
+Found: t 
+Top five: t, f, b, a 
+
+the locati
+Found: i 
+Top five: i, h, e, a 
+
+the locatio
+Found: o 
+Top five: o, c 
+
+the location
+Found: n 
+Top five: n, h, f, a, m 
+
+the location 
+(Space) 
+
+the location o
+Found: o 
+Top five: o, c 
+
+the location of
+Found: f 
+Top five: f, b, a 
+
+the location of 
+(Space) 
+
+the location of e
+Found: e 
+Top five: e, l, v, g, f 
+
+the location of e 
+(Space) 
+
+the location of e
+(Backspace) 
+
+the location of 
+(Backspace) 
+
+the location of x
+Found: x 
+Top five: x, r, t, p, l 
+
+the location of 
+(Backspace) 
+
+the location of t
+(Corrected / byClick: ) t 
+
+the location of th
+Found: h 
+Top five: h, k, b, a, m 
+
+the location of the
+Found: e 
+Top five: e, a 
+
+the location of the 
+(Space) 
+
+the location of the u
+Found: u 
+Top five: u, t, l, f, a 
+
+the location of the 
+(Backspace) 
+
+the location of the s
+Found: s 
+Top five: s, e, o, c 
+
+the location of the 
+(Backspace) 
+
+the location of the c
+(Corrected / byClick: ) c 
+
+the location of the cv
+Found: v 
+Top five: v, r, p, l, f 
+
+the location of the c
+(Backspace) 
+
+the location of the cr
+(Corrected / byClick: ) r 
+
+the location of the cri
+Found: i 
+Top five: i, y, x, u, e 
+
+the location of the crim
+Found: m 
+Top five: m 
+
+the location of the crimz
+Found: z 
+Top five: z, k, a 
+
+the location of the crim
+(Backspace) 
+
+the location of the crime
+Found: e 
+Top five: e, p, a 
+
+n
+Found: n 
+Top five: n, l, t, f, b 
+
+
+(Backspace) 
+
+t
+(Corrected / byClick: ) t 
+
+tk
+Found: k 
+Top five: k, a 
+
+t
+(Backspace) 
+
+th
+Found: h 
+Top five: h, l, b, v, p 
+
+the
+Found: e 
+Top five: e, b, a 
+
+the 
+(Space) 
+
+the f
+Found: f 
+Top five: f, a, k 
+
+the fh
+Found: h 
+Top five: h, a 
+
+the f
+(Backspace) 
+
+the fa
+(Corrected / byClick: ) a 
+
+the fac
+Found: c 
+Top five: c 
+
+the facr
+Found: r 
+Top five: r, f, t, d, b 
+
+the fac
+(Backspace) 
+
+the fact
+(Corrected / byClick: ) t 
+
+the factz
+Found: z 
+Top five: z, j, x, g, e 
+
+the fact
+(Backspace) 
+
+the facth
+Found: h 
+Top five: h, f, e, k, a 
+
+the fact
+(Backspace) 
+
+the factj
+Found: j 
+Top five: j, p, n, h, g 
+
+the fact
+(Backspace) 
+
+the facts
+Found: s 
+Top five: s, e, o, c 
+
+the facts 
+(Space) 
+
+the facts m
+Found: m 
+Top five: m, z, w 
+
+the facts 
+(Backspace) 
+
+the facts g
+Found: g 
+Top five: g, a 
+
+the facts gz
+Found: z 
+Top five: z, k, a 
+
+the facts g
+(Backspace) 
+
+the facts ge
+Found: e 
+Top five: e, u, c, s 
+
+the facts gey
+Found: y 
+Top five: y, f, k, a 
+
+the facts ge
+(Backspace) 
+
+the facts gex
+Found: x 
+Top five: x, f, l, r, e 
+
+the facts ge
+(Backspace) 
+
+the facts gel
+Found: l 
+Top five: l, f, e, b, a 
+
+the facts ge
+(Backspace) 
+
+the facts gef
+Found: f 
+Top five: f, a, k 
+
+the facts ge
+(Backspace) 
+
+the facts geh
+Found: h 
+Top five: h, f, k, a 
+
+the facts ge
+(Backspace) 
+
+the facts gez
+Found: z 
+Top five: z, l, v, t, e 
+
+the facts ge
+(Backspace) 
+
+the facts get
+(Corrected / byClick: ) t 
+
+the facts get 
+(Space) 
+
+the facts get i
+Found: i 
+Top five: i, t, h, e, a 
+
+the facts get iw
+Found: w 
+Top five: w, m 
+
+the facts get i
+(Backspace) 
+
+the facts get id
+Found: d 
+Top five: d, n, f, m, k 
+
+the facts get i
+(Backspace) 
+
+the facts get in
+(Corrected / byClick: ) n 
+
+the facts get in 
+(Space) 
+
+the facts get in f
+Found: f 
+Top five: f, k, a 
+
+the facts get in 
+(Backspace) 
+
+the facts get in f
+Found: f 
+Top five: f, d, b, a 
+
+the facts get in 
+(Backspace) 
+
+the facts get in x
+Found: x 
+Top five: x, t, f, e, d 
+
+the facts get in 
+(Backspace) 
+
+the facts get in t
+(Corrected / byClick: ) t 
+
+the facts get in th
+Found: h 
+Top five: h, n, k, a 
+
+the facts get in tho
+Found: o 
+Top five: o, c 
+
+the facts get in th
+(Backspace) 
+
+the facts get in the
+Found: e 
+Top five: e, o, c, s 
+
+the facts get in then
+Found: n 
+Top five: n, m, b, i, h 
+
+the facts get in the
+(Backspace) 
+
+the facts get in the 
+(Space) 
+
+the facts get in the w
+Found: w 
+Top five: w, e 
+
+the facts get in the wa
+Found: a 
+Top five: a 
+
+the facts get in the way
+Found: y 
+Top five: y, v, x, p, e 
+
+f
+Found: f 
+Top five: f, x, v, p, e 
+
+
+(Backspace) 
+
+k
+Found: k 
+Top five: k, a 
+
+
+(Backspace) 
+
+v
+Found: v 
+Top five: v, l, g, f, e 
+
+
+(Backspace) 
+
+t
+Found: t 
+Top five: t, f, b, a 
+
+th
+Found: h 
+Top five: h, b, a 
+
+thu
+Found: u 
+Top five: u, e, c, s, o 
+
+th
+(Backspace) 
+
+the
+(Corrected / byClick: ) e 
+
+the 
+(Space) 
+
+the a
+Found: a 
+Top five: a, t, q 
+
+the af
+Found: f 
+Top five: f, e, k, a 
+
+the a
+(Backspace) 
+
+the as
+Found: s 
+Top five: s, c 
+
+the ass
+Found: s 
+Top five: s, g, z, j, d 
+
+the assa
+Found: a 
+Top five: a, q, p, g 
+
+the assan
+Found: n 
+Top five: n, k, h, f, a 
+
+the assa
+(Backspace) 
+
+the assau
+Found: u 
+Top five: u, a, d, b 
+
+the assaui
+Found: i 
+Top five: i, c, o 
+
+the assau
+(Backspace) 
+
+the assaux
+Found: x 
+Top five: x, r, l, v, f 
+
+the assau
+(Backspace) 
+
+the assaul
+(Corrected / byClick: ) l 
+
+the assaulx
+Found: x 
+Top five: x, f, e, d, b 
+
+the assaul
+(Backspace) 
+
+the assaulx
+Found: x 
+Top five: x, p, h, t, f 
+
+the assaul
+(Backspace) 
+
+the assault
+(Corrected / byClick: ) t 
+
+the assault 
+(Space) 
+
+the assault h
+Found: h 
+Top five: h, l, f, b, a 
+
+the assault 
+(Backspace) 
+
+the assault a
+Found: a 
+Top five: a, k 
+
+the assault 
+(Backspace) 
+
+the assault t
+Found: t 
+Top five: t, l, f, b, a 
+
+the assault to
+Found: o 
+Top five: o, c 
+
+the assault too
+Found: o 
+Top five: o, c 
+
+the assault tooh
+Found: h 
+Top five: h, k, a 
+
+the assault too
+(Backspace) 
+
+the assault took
+(Corrected / byClick: ) k 
+
+the assault took 
+(Space) 
+
+the assault took w
+Found: w 
+Top five: w, m, e, z 
+
+the assault took w 
+(Space) 
+
+the assault took w
+(Backspace) 
+
+the assault took 
+(Backspace) 
+
+the assault took s
+Found: s 
+Top five: s, u, e, c 
+
+the assault took si
+Found: i 
+Top five: i, c, o 
+
+the assault took six
+Found: x 
+Top five: x, v, t, r, l 
+
+the assault took six 
+(Space) 
+
+the assault took six m
+Found: m 
+Top five: m 
+
+the assault took six mr
+Found: r 
+Top five: r, e, d, b, a 
+
+the assault took six m
+(Backspace) 
+
+the assault took six mo
+Found: o 
+Top five: o, c 
+
+the assault took six mon
+Found: n 
+Top five: n, h, r, l, e 
+
+the assault took six mont
+Found: t 
+Top five: t, x, p, h, f 
+
+the assault took six month
+Found: h 
+Top five: h, n, k, a 
+
+the assault took six months
+Found: s 
+Top five: s, c 
+
+l
+Found: l 
+Top five: l, f, d, b, a 
+
+
+(Backspace) 
+
+f
+Found: f 
+Top five: f, t, d, b, a 
+
+
+(Backspace) 
+
+t
+(Corrected / byClick: ) t 
+
+th
+Found: h 
+Top five: h, b, a 
+
+thi
+Found: i 
+Top five: i, x, e, a 
+
+this
+Found: s 
+Top five: s, c, o 
+
+this 
+(Space) 
+
+this e
+Found: e 
+Top five: e, u, c 
+
+this eq
+Found: q 
+Top five: q, d, g, a 
+
+this eqd
+Found: d 
+Top five: d, a, u, q, e 
+
+this eq
+(Backspace) 
+
+this equ
+(Corrected / byClick: ) u 
+
+this equa
+Found: a 
+Top five: a, q, u, d 
+
+this equap
+Found: p 
+Top five: p, h, f, e, b 
+
+this equa
+(Backspace) 
+
+this equaf
+Found: f 
+Top five: f, e, b, a 
+
+this equa
+(Backspace) 
+
+this equai
+Found: i 
+Top five: i, h, e, a, k 
+
+this equa
+(Backspace) 
+
+this equay
+Found: y 
+Top five: y, v, x, t, f 
+
+this equa
+(Backspace) 
+
+this equat
+(Corrected / byClick: ) t 
+
+this equatz
+Found: z 
+Top five: z, l, t, i, r 
+
+this equat
+(Backspace) 
+
+this equati
+(Corrected / byClick: ) i 
+
+this equatio
+Found: o 
+Top five: o, c 
+
+this equatiou
+Found: u 
+Top five: u, d, g, f, k 
+
+this equatio
+(Backspace) 
+
+this equation
+Found: n 
+Top five: n, h, l, e, d 
+
+this equation 
+(Space) 
+
+this equation i
+Found: i 
+Top five: i, t, h, f, e 
+
+this equation is
+Found: s 
+Top five: s, c 
+
+this equation is 
+(Space) 
+
+this equation is f
+Found: f 
+Top five: f, b, a 
+
+this equation is f 
+(Space) 
+
+this equation is f
+(Backspace) 
+
+this equation is 
+(Backspace) 
+
+this equation is l
+Found: l 
+Top five: l, t, f, d, b 
+
+this equation is 
+(Backspace) 
+
+this equation is t
+(Corrected / byClick: ) t 
+
+this equation is ts
+Found: s 
+Top five: s, o, c 
+
+this equation is t
+(Backspace) 
+
+this equation is to
+(Corrected / byClick: ) o 
+
+this equation is too
+(Corrected / byClick: ) o 
+
+this equation is too 
+(Space) 
+
+this equation is too c
+Found: c 
+Top five: c, u, o 
+
+this equation is too co
+Found: o 
+Top five: o, c 
+
+this equation is too com
+Found: m 
+Top five: m 
+
+this equation is too comn
+Found: n 
+Top five: n, p, f, m, k 
+
+this equation is too com
+(Backspace) 
+
+this equation is too comp
+(Corrected / byClick: ) p 
+
+this equation is too compc
+Found: c 
+Top five: c, o 
+
+this equation is too comp
+(Backspace) 
+
+this equation is too compl
+Found: l 
+Top five: l, y, v, t, x 
+
+this equation is too compll
+Found: l 
+Top five: l, y, v, t, i 
+
+this equation is too compl
+(Backspace) 
+
+this equation is too compll
+Found: l 
+Top five: l, f, e, b, a 
+
+this equation is too compl
+(Backspace) 
+
+this equation is too compll
+Found: l 
+Top five: l, t, i, f, e 
+
+this equation is too compl
+(Backspace) 
+
+this equation is too compli
+(Corrected / byClick: ) i 
+
+this equation is too complie
+Found: e 
+Top five: e, c, o 
+
+this equation is too compli
+(Backspace) 
+
+this equation is too complic
+(Corrected / byClick: ) c 
+
+this equation is too complicd
+Found: d 
+Top five: d, a, y, l, v 
+
+this equation is too complic
+(Backspace) 
+
+this equation is too complica
+(Corrected / byClick: ) a 
+
+this equation is too complicax
+Found: x 
+Top five: x, l, d, y, n 
+
+this equation is too complica
+(Backspace) 
+
+this equation is too complicar
+Found: r 
+Top five: r, f, d, b, a 
+
+this equation is too complica
+(Backspace) 
+
+this equation is too complicaf
+Found: f 
+Top five: f, e, b, a 
+
+this equation is too complica
+(Backspace) 
+
+this equation is too complicat
+Found: t 
+Top five: t, d, x, l, h 
+
+this equation is too complicate
+Found: e 
+Top five: e, o, c 
+
+this equation is too complicated
+Found: d 
+Top five: d, z, k, h, a 
+

@@ -1,0 +1,1155 @@
+a
+Found: a 
+Top five: a, y, q 
+
+
+Found:   
+Top five:  
+
+u
+Found: u 
+Top five: u, a, q, g, b 
+
+
+(Backspace) 
+
+f
+Found: f 
+Top five: f, k, a 
+
+fz
+Found: z 
+Top five: z, w, e 
+
+f
+(Backspace) 
+
+
+(Backspace) 
+
+
+Found:   
+Top five:  
+
+p
+Found: p 
+Top five: p, d, n, h, r 
+
+ph
+(Corrected / byClick: ) h 
+
+p
+(Backspace) 
+
+
+(Backspace) 
+
+h
+(Corrected / byClick: ) h 
+
+hi
+Found: i 
+Top five: i, l, y, t, v 
+
+h
+(Backspace) 
+
+he
+Found: e 
+Top five: e, o, c 
+
+het
+Found: t 
+Top five: t, c, o 
+
+he
+(Backspace) 
+
+hec
+Found: c 
+Top five: c 
+
+he
+(Backspace) 
+
+heu
+Found: u 
+Top five: u, i, c 
+
+he
+(Backspace) 
+
+hel
+Found: l 
+Top five: l, d, h, b, a 
+
+helf
+Found: f 
+Top five: f, l, b, a 
+
+helfb
+(Corrected / byClick: ) b 
+
+helfbl
+(Corrected / byClick: ) l 
+
+helfblb
+(Corrected / byClick: ) b 
+
+helfbl
+(Backspace) 
+
+helfb
+(Backspace) 
+
+helf
+(Backspace) 
+
+hel
+(Backspace) 
+
+hell
+(Corrected / byClick: ) l 
+
+hello
+Found: o 
+Top five: o, c 
+
+hello 
+(Space) 
+
+hello 
+Found:   
+Top five:  
+
+hello w
+Found: w 
+Top five: w 
+
+hello wo
+Found: o 
+Top five: o, c 
+
+hello woh
+Found: h 
+Top five: h, k, b, a 
+
+hello wo
+(Backspace) 
+
+hello wor
+Found: r 
+Top five: r, l, h, e, d 
+
+hello worl
+Found: l 
+Top five: l, h, f, b, a 
+
+hello world
+Found: d 
+Top five: d, h, a, k 
+
+s
+Found: s 
+Top five: s, c 
+
+sc
+(Corrected / byClick: ) c 
+
+s
+(Backspace) 
+
+
+(Backspace) 
+
+c
+(Corrected / byClick: ) c 
+
+ca
+Found: a 
+Top five: a, l, y, q, v 
+
+cak
+Found: k 
+Top five: k, r, d, l, h 
+
+ca
+(Backspace) 
+
+cah
+Found: h 
+Top five: h, e, b, a 
+
+ca
+(Backspace) 
+
+car
+Found: r 
+Top five: r, x, j, d, n 
+
+ca
+(Backspace) 
+
+can
+Found: n 
+Top five: n, r, x, l, d 
+
+can 
+(Space) 
+
+can w
+Found: w 
+Top five: w, m 
+
+can we
+Found: e 
+Top five: e, u, c, s 
+
+can we 
+(Space) 
+
+can we p
+Found: p 
+Top five: p, r, n, e, b 
+
+can we pl
+Found: l 
+Top five: l, h, f, b, a 
+
+can we plu
+Found: u 
+Top five: u, a, y, x, q 
+
+can we plua
+(Corrected / byClick: ) a 
+
+can we plu
+(Backspace) 
+
+can we pl
+(Backspace) 
+
+can we pla
+(Corrected / byClick: ) a 
+
+can we play
+(Corrected / byClick: ) y 
+
+can we play 
+(Space) 
+
+can we play u
+Found: u 
+Top five: u, t, p, f, e 
+
+can we play 
+(Backspace) 
+
+can we play c
+Found: c 
+Top five: c, u 
+
+can we play cq
+Found: q 
+Top five: q, a 
+
+can we play cqa
+(Corrected / byClick: ) a 
+
+can we play cq
+(Backspace) 
+
+can we play c
+(Backspace) 
+
+can we play ca
+(Corrected / byClick: ) a 
+
+can we play car
+Found: r 
+Top five: r, l, b, a 
+
+can we play card
+Found: d 
+Top five: d, x, a 
+
+can we play cards
+Found: s 
+Top five: s, c 
+
+can we play cards 
+(Space) 
+
+can we play cards h
+Found: h 
+Top five: h, e, b, a 
+
+can we play cards 
+(Backspace) 
+
+can we play cards l
+Found: l 
+Top five: l, x, h, b, a 
+
+can we play cards 
+(Backspace) 
+
+can we play cards k
+Found: k 
+Top five: k, h, a 
+
+can we play cards 
+(Backspace) 
+
+can we play cards i
+Found: i 
+Top five: i, f, k, a 
+
+can we play cards 
+(Backspace) 
+
+can we play cards f
+Found: f 
+Top five: f, k, a 
+
+can we play cards 
+(Backspace) 
+
+can we play cards k
+Found: k 
+Top five: k, a 
+
+can we play cards 
+(Backspace) 
+
+can we play cards k
+Found: k 
+Top five: k, h, f, e, a 
+
+can we play cards 
+(Backspace) 
+
+can we play cards p
+Found: p 
+Top five: p, n, l, h, g 
+
+can we play cards 
+(Backspace) 
+
+can we play cards i
+Found: i 
+Top five: i, h, f, e, k 
+
+can we play cards if
+(Corrected / byClick: ) f 
+
+can we play cards i
+(Backspace) 
+
+can we play cards 
+(Backspace) 
+
+can we play cards f
+(Corrected / byClick: ) f 
+
+can we play cards fo
+Found: o 
+Top five: o, c 
+
+can we play cards fop
+Found: p 
+Top five: p, r, n, h, e 
+
+can we play cards fopn
+(Corrected / byClick: ) n 
+
+can we play cards fop
+(Backspace) 
+
+can we play cards fo
+(Backspace) 
+
+can we play cards fon
+(Corrected / byClick: ) n 
+
+can we play cards foni
+Found: i 
+Top five: i, p, r, v, l 
+
+can we play cards fonig
+Found: g 
+Top five: g, a 
+
+can we play cards fonigh
+Found: h 
+Top five: h, b, a 
+
+can we play cards fonight
+Found: t 
+Top five: t, f, d, a 
+
+q
+Found: q 
+Top five: q, g, a 
+
+qd
+Found: d 
+Top five: d, a, x, b 
+
+q
+(Backspace) 
+
+qu
+Found: u 
+Top five: u, x, q, d, b 
+
+qui
+Found: i 
+Top five: i, x, r, v, t 
+
+quii
+Found: i 
+Top five: i, f, a, k 
+
+qui
+(Backspace) 
+
+quii
+Found: i 
+Top five: i, h, e, k, a 
+
+qui
+(Backspace) 
+
+quik
+Found: k 
+Top five: k, f, a 
+
+quik 
+(Space) 
+
+quik m
+Found: m 
+Top five: m, k, a 
+
+quik 
+(Backspace) 
+
+quik w
+Found: w 
+Top five: w 
+
+quik wh
+Found: h 
+Top five: h, f, b, a 
+
+quik whi
+Found: i 
+Top five: i, t, g, e, a 
+
+quik whil
+Found: l 
+Top five: l, h, b, a 
+
+quik while
+Found: e 
+Top five: e, b, a 
+
+quik while 
+(Space) 
+
+quik while y
+Found: y 
+Top five: y, g, e, b, a 
+
+quik while yo
+Found: o 
+Top five: o, c 
+
+quik while you
+Found: u 
+Top five: u, a, x, p, g 
+
+quik while you 
+(Space) 
+
+quik while you a
+Found: a 
+Top five: a, y, u, p 
+
+quik while you ar
+Found: r 
+Top five: r, d, n, h, b 
+
+quik while you are
+Found: e 
+Top five: e, b, a 
+
+quik while you are 
+(Space) 
+
+quik while you are q
+Found: q 
+Top five: q, a 
+
+quik while you are 
+(Backspace) 
+
+quik while you are a
+(Corrected / byClick: ) a 
+
+quik while you are ah
+Found: h 
+Top five: h, b, a 
+
+quik while you are ahe
+Found: e 
+Top five: e, b, a 
+
+quik while you are aheq
+Found: q 
+Top five: q, a 
+
+quik while you are aheqa
+(Corrected / byClick: ) a 
+
+quik while you are aheq
+(Backspace) 
+
+quik while you are ahe
+(Backspace) 
+
+quik while you are ahea
+(Corrected / byClick: ) a 
+
+quik while you are aheaa
+Found: a 
+Top five: a, r, x, d, b 
+
+quik while you are aheaad
+(Corrected / byClick: ) d 
+
+quik while you are aheaa
+(Backspace) 
+
+quik while you are ahea
+(Backspace) 
+
+quik while you are ahead
+(Corrected / byClick: ) d 
+
+a
+Found: a 
+Top five: a, q, d 
+
+a 
+(Space) 
+
+a m
+Found: m 
+Top five: m 
+
+a mo
+Found: o 
+Top five: o, c 
+
+a mos
+Found: s 
+Top five: s, c 
+
+a mose
+Found: e 
+Top five: e, w 
+
+a mos
+(Backspace) 
+
+a mosd
+Found: d 
+Top five: d, h, k, r, e 
+
+a mos
+(Backspace) 
+
+a mosi
+Found: i 
+Top five: i, k, f, e, a 
+
+a mosif
+(Corrected / byClick: ) f 
+
+a mosi
+(Backspace) 
+
+a mos
+(Backspace) 
+
+a mosf
+(Corrected / byClick: ) f 
+
+a mosf 
+(Space) 
+
+a mosf r
+Found: r 
+Top five: r, n, h, f, b 
+
+a mosf ri
+Found: i 
+Top five: i, t, l, e, b 
+
+a mosf rix
+Found: x 
+Top five: x, v, q, d, b 
+
+a mosf rixd
+(Corrected / byClick: ) d 
+
+a mosf rix
+(Backspace) 
+
+a mosf ri
+(Backspace) 
+
+a mosf rid
+(Corrected / byClick: ) d 
+
+a mosf ridi
+Found: i 
+Top five: i, n, r, v, l 
+
+a mosf ridic
+Found: c 
+Top five: c 
+
+a mosf ridicu
+Found: u 
+Top five: u, n, a, k 
+
+a mosf ridicuh
+Found: h 
+Top five: h, a, k 
+
+a mosf ridicu
+(Backspace) 
+
+a mosf ridicut
+Found: t 
+Top five: t, l, f, e, b 
+
+a mosf ridicu
+(Backspace) 
+
+a mosf ridicul
+(Corrected / byClick: ) l 
+
+a mosf ridiculd
+Found: d 
+Top five: d, y, f, e, a 
+
+a mosf ridicul
+(Backspace) 
+
+a mosf ridiculo
+Found: o 
+Top five: o, c 
+
+a mosf ridiculou
+Found: u 
+Top five: u, x, q, d, a 
+
+a mosf ridiculoug
+Found: g 
+Top five: g, e, b, a 
+
+a mosf ridiculou
+(Backspace) 
+
+a mosf ridiculous
+Found: s 
+Top five: s, c 
+
+a mosf ridiculous 
+(Space) 
+
+a mosf ridiculous k
+Found: k 
+Top five: k, a 
+
+a mosf ridiculous 
+(Backspace) 
+
+a mosf ridiculous l
+Found: l 
+Top five: l, n, h, b, a 
+
+a mosf ridiculous 
+(Backspace) 
+
+a mosf ridiculous l
+Found: l 
+Top five: l, t, v, x, e 
+
+a mosf ridiculous 
+(Backspace) 
+
+a mosf ridiculous t
+(Corrected / byClick: ) t 
+
+a mosf ridiculous tk
+Found: k 
+Top five: k, b, p, h, a 
+
+a mosf ridiculous t
+(Backspace) 
+
+a mosf ridiculous th
+Found: h 
+Top five: h, b, a 
+
+a mosf ridiculous thi
+Found: i 
+Top five: i, r, p, l, e 
+
+a mosf ridiculous thir
+Found: r 
+Top five: r, h, e, b, a 
+
+a mosf ridiculous thi
+(Backspace) 
+
+a mosf ridiculous thin
+Found: n 
+Top five: n, r, l, h, e 
+
+a mosf ridiculous thing
+Found: g 
+Top five: g, q, d, a 
+
+w
+Found: w 
+Top five: w, z 
+
+w 
+(Space) 
+
+w
+(Backspace) 
+
+
+(Backspace) 
+
+p
+Found: p 
+Top five: p, b, a 
+
+
+(Backspace) 
+
+g
+Found: g 
+Top five: g, y, z, a, k 
+
+
+(Backspace) 
+
+y
+(Corrected / byClick: ) y 
+
+yo
+Found: o 
+Top five: o, c 
+
+yos
+Found: s 
+Top five: s, o, c 
+
+yo
+(Backspace) 
+
+you
+Found: u 
+Top five: u, a, y, t, x 
+
+you 
+(Space) 
+
+you y
+Found: y 
+Top five: y, g, e, b, a 
+
+you 
+(Backspace) 
+
+you s
+Found: s 
+Top five: s, c 
+
+you sh
+Found: h 
+Top five: h, b, a 
+
+you sho
+Found: o 
+Top five: o, c 
+
+you shou
+Found: u 
+Top five: u, d, a, t, x 
+
+you shoul
+Found: l 
+Top five: l, h, f, b, a 
+
+you shoulu
+Found: u 
+Top five: u, a, k, p, x 
+
+you shoul
+(Backspace) 
+
+you shouln
+Found: n 
+Top five: n, a 
+
+you shoul
+(Backspace) 
+
+you should
+Found: d 
+Top five: d, u, a, f, x 
+
+you should 
+(Space) 
+
+you should v
+Found: v 
+Top five: v, t, b, a 
+
+you should vi
+Found: i 
+Top five: i, h, n, l, p 
+
+you should vis
+Found: s 
+Top five: s, c 
+
+you should visi
+Found: i 
+Top five: i, x, t, e, a 
+
+you should visii
+Found: i 
+Top five: i, k, a 
+
+you should visi
+(Backspace) 
+
+you should visip
+Found: p 
+Top five: p, i, h, f, e 
+
+you should visi
+(Backspace) 
+
+you should visir
+Found: r 
+Top five: r, l, v, x, h 
+
+you should visi
+(Backspace) 
+
+you should visii
+Found: i 
+Top five: i, f, k, a 
+
+you should visi
+(Backspace) 
+
+you should visii
+Found: i 
+Top five: i, f, a, k 
+
+you should visiif
+(Corrected / byClick: ) f 
+
+you should visii
+(Backspace) 
+
+you should visi
+(Backspace) 
+
+you should visif
+(Corrected / byClick: ) f 
+
+you should visif 
+(Space) 
+
+you should visif f
+Found: f 
+Top five: f, d, a 
+
+you should visif fo
+Found: o 
+Top five: o, c 
+
+you should visif fo 
+(Space) 
+
+you should visif fo q
+Found: q 
+Top five: q, a, y, g 
+
+you should visif fo 
+(Backspace) 
+
+you should visif fo a
+(Corrected / byClick: ) a 
+
+you should visif fo a 
+(Space) 
+
+you should visif fo a u
+Found: u 
+Top five: u, d, a, t, x 
+
+you should visif fo a 
+(Backspace) 
+
+you should visif fo a d
+(Corrected / byClick: ) d 
+
+you should visif fo a do
+Found: o 
+Top five: o, c 
+
+you should visif fo a dos
+Found: s 
+Top five: s, c 
+
+you should visif fo a do
+(Backspace) 
+
+you should visif fo a doc
+(Corrected / byClick: ) c 
+
+you should visif fo a docf
+Found: f 
+Top five: f, a, k 
+
+you should visif fo a docfo
+Found: o 
+Top five: o, c 
+
+you should visif fo a docfor
+Found: r 
+Top five: r, l, n, h, d 
+
+m
+Found: m 
+Top five: m, j, i, g, e 
+
+
+(Backspace) 
+
+f
+Found: f 
+Top five: f, e, a, k 
+
+fh
+Found: h 
+Top five: h, b, a 
+
+fhe
+Found: e 
+Top five: e, y, a 
+
+fhe 
+(Space) 
+
+fhe q
+Found: q 
+Top five: q, v, l, g, a 
+
+fhe 
+(Backspace) 
+
+fhe u
+Found: u 
+Top five: u, q, d, a 
+
+fhe 
+(Backspace) 
+
+fhe a
+(Corrected / byClick: ) a 
+
+fhe al
+Found: l 
+Top five: l, k, b, h, a 
+
+fhe alg
+Found: g 
+Top five: g, a 
+
+fhe alge
+Found: e 
+Top five: e, o, c 
+
+fhe alg
+(Backspace) 
+
+fhe algo
+(Corrected / byClick: ) o 
+
+fhe algor
+Found: r 
+Top five: r, n, h, e, d 
+
+fhe algori
+Found: i 
+Top five: i, t, e, b, a 
+
+fhe algorif
+Found: f 
+Top five: f, a, k 
+
+fhe algorifh
+Found: h 
+Top five: h, b, a 
+
+fhe algorifhm
+Found: m 
+Top five: m 
+
+fhe algorifhm 
+(Space) 
+
+fhe algorifhm i
+Found: i 
+Top five: i, f, e, b, a 
+
+fhe algorifhm ip
+Found: p 
+Top five: p, j, e, d, b 
+
+fhe algorifhm i
+(Backspace) 
+
+fhe algorifhm il
+Found: l 
+Top five: l, x, f, b, a 
+
+fhe algorifhm i
+(Backspace) 
+
+fhe algorifhm is
+Found: s 
+Top five: s, c 
+
+fhe algorifhm isd
+Found: d 
+Top five: d, e, z, w 
+
+fhe algorifhm is
+(Backspace) 
+
+fhe algorifhm is 
+(Space) 
+
+fhe algorifhm is t
+Found: t 
+Top five: t, d, p, h, f 
+
+fhe algorifhm is to
+Found: o 
+Top five: o, c 
+
+fhe algorifhm is too
+Found: o 
+Top five: o, c 
+
+fhe algorifhm is too 
+(Space) 
+
+fhe algorifhm is too s
+Found: s 
+Top five: s, e, c 
+
+fhe algorifhm is too 
+(Backspace) 
+
+fhe algorifhm is too c
+(Corrected / byClick: ) c 
+
+fhe algorifhm is too co
+Found: o 
+Top five: o, c 
+
+fhe algorifhm is too com
+Found: m 
+Top five: m, z, e, w 
+
+fhe algorifhm is too comp
+Found: p 
+Top five: p, n, h, e, b 
+
+fhe algorifhm is too compv
+Found: v 
+Top five: v, l, f, b, a 
+
+fhe algorifhm is too comp
+(Backspace) 
+
+fhe algorifhm is too compl
+(Corrected / byClick: ) l 
+
+fhe algorifhm is too compli
+Found: i 
+Top five: i, m, w 
+
+fhe algorifhm is too complis
+Found: s 
+Top five: s, e, c 
+
+fhe algorifhm is too compli
+(Backspace) 
+
+fhe algorifhm is too complic
+(Corrected / byClick: ) c 
+
+fhe algorifhm is too complict
+Found: t 
+Top five: t, v, q, a 
+
+fhe algorifhm is too complic
+(Backspace) 
+
+fhe algorifhm is too complica
+(Corrected / byClick: ) a 
+
+fhe algorifhm is too complicat
+Found: t 
+Top five: t, f, l, b, a 
+
+fhe algorifhm is too complicatz
+Found: z 
+Top five: z, w 
+
+fhe algorifhm is too complicat
+(Backspace) 
+
+fhe algorifhm is too complicate
+Found: e 
+Top five: e, a 
+
+fhe algorifhm is too complicateq
+Found: q 
+Top five: q, a, x, d, b 
+
+fhe algorifhm is too complicate
+(Backspace) 
+
+fhe algorifhm is too complicated
+(Corrected / byClick: ) d 
+

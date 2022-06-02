@@ -1,0 +1,165 @@
+hello world
+Text:hello world correct: True
+start: 257.0192, firstLetter: 262.428, endTime: 358.7691
+phrase time: 96.34106
+WPM: 1.86836216749068
+ER: 0% with |T| = 11, INF =0
+KSPC: 2.545455 
+EKS ER: 72.72727% 
+Total ER: 42.10526% 
+#Space: 1, #Backspace: 8
+#ByClick: 1, #RecChars: 18
+#InputStream: 28
+#Display Length: 11
+#Transcribed Length: 11
+
+Start Evaluation
+No Text correct: False
+start: 358.7691, firstLetter: 0, endTime: 381.5407
+phrase time: 381.5407
+WPM: 0.188708565110204
+ER: 250% with |T| = 2, INF =5
+KSPC: 0 
+EKS ER: 31.25% 
+Total ER: 83.33334% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 16
+#Transcribed Length: 2
+
+i like to play tennis
+Text:i like to play tennis correct: True
+start: 381.5407, firstLetter: 385.2614, endTime: 558.8718
+phrase time: 173.6104
+WPM: 1.72800756003308
+ER: 0% with |T| = 21, INF =0
+KSPC: 2.619048 
+EKS ER: 80.95238% 
+Total ER: 44.73684% 
+#Space: 4, #Backspace: 17
+#ByClick: 4, #RecChars: 30
+#InputStream: 55
+#Display Length: 21
+#Transcribed Length: 21
+
+Pause
+No Text correct: False
+start: 558.8718, firstLetter: 0, endTime: 565.8463
+phrase time: 565.8463
+WPM: 0.127243030987746
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+he called seven times
+Text:he called seven times correct: True
+start: 565.8463, firstLetter: 569.0558, endTime: 765.993
+phrase time: 196.9372
+WPM: 1.52332828883732
+ER: 0% with |T| = 21, INF =0
+KSPC: 3.238095 
+EKS ER: 104.7619% 
+Total ER: 51.16279% 
+#Space: 4, #Backspace: 22
+#ByClick: 7, #RecChars: 35
+#InputStream: 68
+#Display Length: 21
+#Transcribed Length: 21
+
+Pause
+No Text correct: False
+start: 765.993, firstLetter: 0, endTime: 774.0735
+phrase time: 774.0735
+WPM: 0.0930144246918175
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+vote according to your conscience
+Text:vote according to your conscience correct: True
+start: 774.0735, firstLetter: 776.6725, endTime: 1056.528
+phrase time: 279.8558
+WPM: 1.58653149717665
+ER: 0% with |T| = 33, INF =0
+KSPC: 2.636364 
+EKS ER: 81.81818% 
+Total ER: 45% 
+#Space: 4, #Backspace: 27
+#ByClick: 10, #RecChars: 46
+#InputStream: 87
+#Display Length: 33
+#Transcribed Length: 33
+
+Pause
+No Text correct: False
+start: 1056.528, firstLetter: 0, endTime: 1078.869
+phrase time: 1078.869
+WPM: 0.0667365535219977
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+public transit is much faster
+Text:public transit is much faster correct: True
+start: 1078.869, firstLetter: 1082.101, endTime: 1348.927
+phrase time: 266.8263
+WPM: 1.4841116073859
+ER: 0% with |T| = 29, INF =0
+KSPC: 3 
+EKS ER: 100% 
+Total ER: 50% 
+#Space: 4, #Backspace: 29
+#ByClick: 7, #RecChars: 47
+#InputStream: 87
+#Display Length: 29
+#Transcribed Length: 29
+
+Pause
+No Text correct: False
+start: 1348.927, firstLetter: 0, endTime: 1389.75
+phrase time: 1389.75
+WPM: 0.0518078700137393
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+that agreement is rife with problems
+Text:that agreement is rife with problems correct: True
+start: 1389.75, firstLetter: 1394.315, endTime: 1755.835
+phrase time: 361.5204
+WPM: 1.32772595662781
+ER: 0% with |T| = 36, INF =0
+KSPC: 2.833333 
+EKS ER: 86.11111% 
+Total ER: 46.26866% 
+#Space: 5, #Backspace: 31
+#ByClick: 12, #RecChars: 54
+#InputStream: 102
+#Display Length: 36
+#Transcribed Length: 36
+

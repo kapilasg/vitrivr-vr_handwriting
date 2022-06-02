@@ -1,0 +1,1661 @@
+a
+Found: a 
+Top five: a, q, d 
+
+ae
+Found: e 
+Top five: e, a 
+
+aem
+Found: m 
+Top five: m, e, z, w 
+
+aemw
+Found: w 
+Top five: w, e 
+
+aemwe
+Found: e 
+Top five: e, z, w 
+
+aemwel
+Found: l 
+Top five: l, i, f, e, b 
+
+aemwelj
+Found: j 
+Top five: j, m 
+
+aemwel
+(Backspace) 
+
+aemwe
+(Backspace) 
+
+aemw
+(Backspace) 
+
+aem
+(Backspace) 
+
+ae
+(Backspace) 
+
+a
+(Backspace) 
+
+
+(Backspace) 
+
+
+(Backspace) 
+
+
+(Backspace) 
+
+
+(Backspace) 
+
+
+(Backspace) 
+
+
+Found:   
+Top five:  
+
+i
+Found: i 
+Top five: i, l, t, f, a 
+
+ie
+Found: e 
+Top five: e, a 
+
+ies
+Found: s 
+Top five: s, c 
+
+iess
+Found: s 
+Top five: s, o, c 
+
+iesse
+Found: e 
+Top five: e, b, a 
+
+iessen
+Found: n 
+Top five: n, g, e, a, k 
+
+iessenm
+Found: m 
+Top five: m, d, g, a 
+
+iessenmd
+Found: d 
+Top five: d, a, n, h, g 
+
+iessenmdu
+Found: u 
+Top five: u, a, q 
+
+iessenmdud
+Found: d 
+Top five: d, j, h, a, k 
+
+iessenmduda
+(Corrected / byClick: ) a 
+
+iessenmdud
+(Backspace) 
+
+iessenmdu
+(Backspace) 
+
+iessenmd
+(Backspace) 
+
+iessenm
+(Backspace) 
+
+iessen
+(Backspace) 
+
+iesse
+(Backspace) 
+
+iess
+(Backspace) 
+
+ies
+(Backspace) 
+
+ie
+(Backspace) 
+
+i
+(Backspace) 
+
+
+(Backspace) 
+
+
+(Backspace) 
+
+
+(Backspace) 
+
+
+(Backspace) 
+
+p
+Found: p 
+Top five: p, h, m, i, b 
+
+
+(Backspace) 
+
+h
+Found: h 
+Top five: h, b, a 
+
+he
+Found: e 
+Top five: e, b, a 
+
+hel
+Found: l 
+Top five: l, h, f, b, a 
+
+helr
+Found: r 
+Top five: r, l, h, b, a 
+
+hel
+(Backspace) 
+
+hell
+(Corrected / byClick: ) l 
+
+hello
+Found: o 
+Top five: o, c 
+
+hello 
+(Space) 
+
+hello w
+Found: w 
+Top five: w, m 
+
+hello wo
+Found: o 
+Top five: o, c 
+
+hello woe
+Found: e 
+Top five: e, z, w 
+
+hello wo
+(Backspace) 
+
+hello wo
+Found:   
+Top five:  
+
+hello wop
+Found: p 
+Top five: p, h, k, a 
+
+hello wo
+(Backspace) 
+
+hello wor
+Found: r 
+Top five: r, n, h, d, b 
+
+hello worb
+Found: b 
+Top five: b, p, h, a 
+
+hello wor
+(Backspace) 
+
+hello worr
+Found: r 
+Top five: r, l, b, a 
+
+hello wor
+(Backspace) 
+
+hello worl
+Found: l 
+Top five: l, f, e, d, b 
+
+hello worlm
+Found: m 
+Top five: m, e, w 
+
+hello worl
+(Backspace) 
+
+hello worlw
+Found: w 
+Top five: w, e 
+
+hello worl
+(Backspace) 
+
+hello world
+Found: d 
+Top five: d, g, a, k 
+
+i
+Found: i 
+Top five: i, f, b, m, a 
+
+i 
+(Space) 
+
+i l
+Found: l 
+Top five: l, b, a 
+
+i ld
+Found: d 
+Top five: d, g, k, a 
+
+i l
+(Backspace) 
+
+i lp
+Found: p 
+Top five: p, g, f, e, b 
+
+i l
+(Backspace) 
+
+i li
+Found: i 
+Top five: i, s, f, a 
+
+i lik
+Found: k 
+Top five: k, h, a 
+
+i likh
+Found: h 
+Top five: h, f, a 
+
+i lik
+(Backspace) 
+
+i like
+Found: e 
+Top five: e, b, a 
+
+i like 
+(Space) 
+
+i like i
+Found: i 
+Top five: i, f, k, a 
+
+i like 
+(Backspace) 
+
+i like f
+Found: f 
+Top five: f, b, a 
+
+i like 
+(Backspace) 
+
+i like d
+Found: d 
+Top five: d, k, e, m, a 
+
+i like 
+(Backspace) 
+
+i like t
+Found: t 
+Top five: t, f, e, d, b 
+
+i like to
+Found: o 
+Top five: o, c 
+
+i like to 
+(Space) 
+
+i like to b
+Found: b 
+Top five: b, h, m, k, a 
+
+i like to 
+(Backspace) 
+
+i like to j
+Found: j 
+Top five: j, i, n, b, k 
+
+i like to 
+(Backspace) 
+
+i like to p
+Found: p 
+Top five: p, h, e, b, a 
+
+i like to pl
+Found: l 
+Top five: l, h, b, a 
+
+i like to pld
+Found: d 
+Top five: d, a, n, h 
+
+i like to pl
+(Backspace) 
+
+i like to pla
+(Corrected / byClick: ) a 
+
+i like to play
+Found: y 
+Top five: y, k, g, f, e 
+
+i like to play 
+(Space) 
+
+i like to play d
+Found: d 
+Top five: d, e, a, m, k 
+
+i like to play 
+(Backspace) 
+
+i like to play k
+Found: k 
+Top five: k, h, a 
+
+i like to play 
+(Backspace) 
+
+i like to play t
+Found: t 
+Top five: t, f, a 
+
+i like to play te
+Found: e 
+Top five: e, b, a 
+
+i like to play teu
+Found: u 
+Top five: u, p, n, k, m 
+
+i like to play te
+(Backspace) 
+
+i like to play tev
+Found: v 
+Top five: v, r, p, e, b 
+
+i like to play te
+(Backspace) 
+
+i like to play ted
+Found: d 
+Top five: d, h, a, m, k 
+
+i like to play te
+(Backspace) 
+
+i like to play tep
+Found: p 
+Top five: p, n, f, m, k 
+
+i like to play tepn
+(Corrected / byClick: ) n 
+
+i like to play tep
+(Backspace) 
+
+i like to play te
+(Backspace) 
+
+i like to play ten
+(Corrected / byClick: ) n 
+
+i like to play tenn
+(Corrected / byClick: ) n 
+
+i like to play tennm
+Found: m 
+Top five: m, k, a 
+
+i like to play tenn
+(Backspace) 
+
+i like to play tenni
+Found: i 
+Top five: i, p, h, e, b 
+
+i like to play tennis
+Found: s 
+Top five: s, o, c 
+
+p
+Found: p 
+Top five: p, i, b, m, k 
+
+
+(Backspace) 
+
+h
+Found: h 
+Top five: h, b, a 
+
+he
+Found: e 
+Top five: e, o, c 
+
+he 
+(Space) 
+
+he c
+(Corrected / byClick: ) c 
+
+he c
+Found:   
+Top five:  
+
+he cg
+Found: g 
+Top five: g, p, f, e, b 
+
+he c
+(Backspace) 
+
+he ca
+Found: a 
+Top five: a, x, q, n, g 
+
+he car
+Found: r 
+Top five: r, l, b, a 
+
+he ca
+(Backspace) 
+
+he cal
+(Corrected / byClick: ) l 
+
+he call
+(Corrected / byClick: ) l 
+
+he calle
+Found: e 
+Top five: e, b, a 
+
+he calleq
+Found: q 
+Top five: q, d, a, x, p 
+
+he calle
+(Backspace) 
+
+he called
+(Corrected / byClick: ) d 
+
+he called 
+(Space) 
+
+he called y
+Found: y 
+Top five: y, r, q, e, d 
+
+he called y 
+(Space) 
+
+he called y
+(Backspace) 
+
+he called 
+(Backspace) 
+
+he called s
+Found: s 
+Top five: s, o, c 
+
+he called se
+Found: e 
+Top five: e, o, s, c 
+
+he called sev
+Found: v 
+Top five: v, r, l, d, b 
+
+he called seve
+Found: e 
+Top five: e, o, c, u 
+
+he called seve
+Found:   
+Top five:  
+
+he called sevep
+Found: p 
+Top five: p, n, a, k 
+
+he called seve
+(Backspace) 
+
+he called seven
+(Corrected / byClick: ) n 
+
+he called seven 
+(Space) 
+
+he called seven x
+Found: x 
+Top five: x, t, f, b, a 
+
+he called seven 
+(Backspace) 
+
+he called seven t
+(Corrected / byClick: ) t 
+
+he called seven td
+Found: d 
+Top five: d, w, z, e 
+
+he called seven t
+(Backspace) 
+
+he called seven t
+Found:   
+Top five:  
+
+he called seven tj
+Found: j 
+Top five: j, n, k, f, a 
+
+he called seven t
+(Backspace) 
+
+he called seven tj
+Found: j 
+Top five: j, r, h, g, f 
+
+he called seven t
+(Backspace) 
+
+he called seven tf
+Found: f 
+Top five: f, a, k 
+
+he called seven t
+(Backspace) 
+
+he called seven tz
+Found: z 
+Top five: z, b, g, f, k 
+
+he called seven t
+(Backspace) 
+
+he called seven tj
+Found: j 
+Top five: j, p, k, f, a 
+
+he called seven t
+(Backspace) 
+
+he called seven ti
+Found: i 
+Top five: i, a 
+
+he called seven tim
+Found: m 
+Top five: m 
+
+he called seven timh
+Found: h 
+Top five: h, k, a 
+
+he called seven tim
+(Backspace) 
+
+he called seven ti
+(Backspace) 
+
+he called seven tid
+Found: d 
+Top five: d, w, m, z, e 
+
+he called seven ti
+(Backspace) 
+
+he called seven tim
+(Corrected / byClick: ) m 
+
+he called seven timz
+Found: z 
+Top five: z, k, h, a 
+
+he called seven tim
+(Backspace) 
+
+he called seven timj
+Found: j 
+Top five: j, e, b, a 
+
+he called seven tim
+(Backspace) 
+
+he called seven time
+Found: e 
+Top five: e, b, m, k, a 
+
+he called seven timee
+Found: e 
+Top five: e, z, w 
+
+he called seven time
+(Backspace) 
+
+he called seven timep
+Found: p 
+Top five: p, a, k 
+
+he called seven time
+(Backspace) 
+
+he called seven timel
+Found: l 
+Top five: l, f, a 
+
+he called seven time
+(Backspace) 
+
+he called seven times
+Found: s 
+Top five: s, c 
+
+v
+Found: v 
+Top five: v, l, b, a 
+
+vo
+Found: o 
+Top five: o, c 
+
+vof
+Found: f 
+Top five: f, e, a 
+
+vo
+(Backspace) 
+
+vox
+Found: x 
+Top five: x, t, f, b, a 
+
+vo
+(Backspace) 
+
+vot
+(Corrected / byClick: ) t 
+
+vote
+Found: e 
+Top five: e, b, a 
+
+vote 
+(Space) 
+
+vote a
+Found: a 
+Top five: a, d 
+
+vote ac
+Found: c 
+Top five: c 
+
+vote acs
+Found: s 
+Top five: s, e, o, c 
+
+vote ac
+(Backspace) 
+
+vote acc
+(Corrected / byClick: ) c 
+
+vote acco
+(Corrected / byClick: ) o 
+
+vote accor
+Found: r 
+Top five: r, n, h, e, d 
+
+vote accord
+Found: d 
+Top five: d, h, g, b, a 
+
+vote accordg
+Found: g 
+Top five: g, f, k, a 
+
+vote accord
+(Backspace) 
+
+vote accordh
+Found: h 
+Top five: h, a, k 
+
+vote accord
+(Backspace) 
+
+vote accordd
+Found: d 
+Top five: d, z, w, m, e 
+
+vote accord
+(Backspace) 
+
+vote accorde
+Found: e 
+Top five: e, z, w 
+
+vote accord
+(Backspace) 
+
+vote accordj
+Found: j 
+Top five: j, k, a 
+
+vote accord
+(Backspace) 
+
+vote accordj
+Found: j 
+Top five: j, s, a, k 
+
+vote accord
+(Backspace) 
+
+vote accordj
+Found: j 
+Top five: j, s, y, b, f 
+
+vote accord
+(Backspace) 
+
+vote accordf
+Found: f 
+Top five: f, e, a, k 
+
+vote accord
+(Backspace) 
+
+vote accordj
+Found: j 
+Top five: j, f, a, k 
+
+vote accord
+(Backspace) 
+
+vote accordz
+Found: z 
+Top five: z, i, f, a, m 
+
+vote accord
+(Backspace) 
+
+vote accordi
+(Corrected / byClick: ) i 
+
+vote accordiw
+Found: w 
+Top five: w, m, e 
+
+vote accordi
+(Backspace) 
+
+vote accordih
+Found: h 
+Top five: h, r, n, e, b 
+
+vote accordi
+(Backspace) 
+
+vote accordin
+(Corrected / byClick: ) n 
+
+vote accordinm
+Found: m 
+Top five: m 
+
+vote accordin
+(Backspace) 
+
+vote accordinj
+Found: j 
+Top five: j, m 
+
+vote accordin
+(Backspace) 
+
+vote accordinq
+Found: q 
+Top five: q, g, e, d, a 
+
+vote accordin
+(Backspace) 
+
+vote according
+(Corrected / byClick: ) g 
+
+vote according 
+(Space) 
+
+vote according f
+Found: f 
+Top five: f, a 
+
+vote according 
+(Backspace) 
+
+vote according t
+Found: t 
+Top five: t, l, f, b, a 
+
+vote according to
+Found: o 
+Top five: o, c 
+
+vote according to 
+(Space) 
+
+vote according to g
+Found: g 
+Top five: g, h, f, k, a 
+
+vote according to 
+(Backspace) 
+
+vote according to y
+Found: y 
+Top five: y, k, a 
+
+vote according to ye
+Found: e 
+Top five: e, o, c 
+
+vote according to y
+(Backspace) 
+
+vote according to yo
+(Corrected / byClick: ) o 
+
+vote according to you
+Found: u 
+Top five: u, k, a 
+
+vote according to your
+Found: r 
+Top five: r, n, e, b, a 
+
+vote according to your 
+(Space) 
+
+vote according to your c
+Found: c 
+Top five: c 
+
+vote according to your co
+Found: o 
+Top five: o, s, c 
+
+vote according to your cop
+Found: p 
+Top five: p, n, k, a 
+
+vote according to your co
+(Backspace) 
+
+vote according to your con
+(Corrected / byClick: ) n 
+
+vote according to your conx
+Found: x 
+Top five: x, y, g, f, d 
+
+vote according to your con
+(Backspace) 
+
+vote according to your cons
+Found: s 
+Top five: s, o, c 
+
+vote according to your consc
+Found: c 
+Top five: c 
+
+vote according to your conscj
+Found: j 
+Top five: j, i, h, f, m 
+
+vote according to your consc
+(Backspace) 
+
+vote according to your consci
+(Corrected / byClick: ) i 
+
+vote according to your conscic
+Found: c 
+Top five: c 
+
+vote according to your consci
+(Backspace) 
+
+vote according to your conscin
+Found: n 
+Top five: n, o, c 
+
+vote according to your consci
+(Backspace) 
+
+vote according to your conscie
+Found: e 
+Top five: e, b, a 
+
+vote according to your consciep
+Found: p 
+Top five: p, n, h, b, a 
+
+vote according to your conscie
+(Backspace) 
+
+vote according to your conscien
+(Corrected / byClick: ) n 
+
+vote according to your conscienc
+Found: c 
+Top five: c 
+
+vote according to your conscience
+Found: e 
+Top five: e, b, a 
+
+h
+Found: h 
+Top five: h, e, b, a 
+
+
+(Backspace) 
+
+p
+Found: p 
+Top five: p, h, b, a 
+
+pu
+Found: u 
+Top five: u, d, h, g, a 
+
+pup
+Found: p 
+Top five: p, n, k, h, b 
+
+pu
+(Backspace) 
+
+pub
+Found: b 
+Top five: b, p, h, a 
+
+publ
+Found: l 
+Top five: l, r, f, b, a 
+
+publi
+Found: i 
+Top five: i, l, u, a 
+
+publio
+Found: o 
+Top five: o, c 
+
+publi
+(Backspace) 
+
+public
+(Corrected / byClick: ) c 
+
+public 
+(Space) 
+
+public f
+Found: f 
+Top five: f, a 
+
+public 
+(Backspace) 
+
+public t
+Found: t 
+Top five: t, f, a 
+
+public td
+Found: d 
+Top five: d, k, h, a 
+
+public t
+(Backspace) 
+
+public te
+Found: e 
+Top five: e, z, w 
+
+public t
+(Backspace) 
+
+public tu
+Found: u 
+Top five: u, n, k, a 
+
+public t
+(Backspace) 
+
+public tr
+Found: r 
+Top five: r, b, a 
+
+public tra
+Found: a 
+Top five: a, q, d 
+
+public trap
+Found: p 
+Top five: p, n, k, i, h 
+
+public tra
+(Backspace) 
+
+public tran
+(Corrected / byClick: ) n 
+
+public trans
+Found: s 
+Top five: s, e, y, d, b 
+
+public transf
+Found: f 
+Top five: f, m, k, a 
+
+public trans
+(Backspace) 
+
+public transn
+Found: n 
+Top five: n, a 
+
+public transni
+Found: i 
+Top five: i, l, h, e, b 
+
+public transn
+(Backspace) 
+
+public trans
+(Backspace) 
+
+public transi
+(Corrected / byClick: ) i 
+
+public transid
+Found: d 
+Top five: d, a, k 
+
+public transi
+(Backspace) 
+
+public transik
+Found: k 
+Top five: k, i, a 
+
+public transi
+(Backspace) 
+
+public transit
+Found: t 
+Top five: t, f, b, a 
+
+public transit 
+(Space) 
+
+public transit e
+Found: e 
+Top five: e, i, b, a 
+
+public transit 
+(Backspace) 
+
+public transit i
+(Corrected / byClick: ) i 
+
+public transit ig
+Found: g 
+Top five: g, e, a 
+
+public transit i
+(Backspace) 
+
+public transit is
+Found: s 
+Top five: s, o, c 
+
+public transit is 
+(Space) 
+
+public transit is m
+Found: m 
+Top five: m, h, b, k, a 
+
+public transit is md
+Found: d 
+Top five: d, n, h, g, f 
+
+public transit is m
+(Backspace) 
+
+public transit is mu
+Found: u 
+Top five: u, d, a, x 
+
+public transit is muc
+Found: c 
+Top five: c 
+
+public transit is mucb
+Found: b 
+Top five: b, p, h, a 
+
+public transit is muc
+(Backspace) 
+
+public transit is much
+(Corrected / byClick: ) h 
+
+public transit is much 
+(Space) 
+
+public transit is much e
+Found: e 
+Top five: e, k, a 
+
+public transit is much 
+(Backspace) 
+
+public transit is much z
+Found: z 
+Top five: z, e, w 
+
+public transit is much 
+(Backspace) 
+
+public transit is much i
+Found: i 
+Top five: i, m 
+
+public transit is much 
+(Backspace) 
+
+public transit is much m
+Found: m 
+Top five: m 
+
+public transit is much 
+(Backspace) 
+
+public transit is much j
+Found: j 
+Top five: j, m 
+
+public transit is much 
+(Backspace) 
+
+public transit is much f
+Found: f 
+Top five: f, a 
+
+public transit is much fg
+Found: g 
+Top five: g, f, e, k, a 
+
+public transit is much f
+(Backspace) 
+
+public transit is much fm
+Found: m 
+Top five: m, a, n, k, g 
+
+public transit is much f
+(Backspace) 
+
+public transit is much fa
+(Corrected / byClick: ) a 
+
+public transit is much fae
+Found: e 
+Top five: e, k, a 
+
+public transit is much fa
+(Backspace) 
+
+public transit is much faa
+Found: a 
+Top five: a, l, x, f 
+
+public transit is much faal
+Found: l 
+Top five: l, v, f, d, a 
+
+public transit is much faa
+(Backspace) 
+
+public transit is much fa
+(Backspace) 
+
+public transit is much fae
+Found: e 
+Top five: e, j, d, a 
+
+public transit is much fa
+(Backspace) 
+
+public transit is much fas
+Found: s 
+Top five: s, c 
+
+public transit is much fasl
+Found: l 
+Top five: l, t, f, b, a 
+
+public transit is much fas
+(Backspace) 
+
+public transit is much fast
+(Corrected / byClick: ) t 
+
+public transit is much faste
+Found: e 
+Top five: e, b, a 
+
+public transit is much faster
+Found: r 
+Top five: r, b, a 
+
+f
+Found: f 
+Top five: f, a 
+
+
+(Backspace) 
+
+t
+Found: t 
+Top five: t, f, b, a 
+
+tp
+Found: p 
+Top five: p, f, b, k, a 
+
+t
+(Backspace) 
+
+tp
+Found: p 
+Top five: p, d, h, n, f 
+
+t
+(Backspace) 
+
+th
+(Corrected / byClick: ) h 
+
+tha
+Found: a 
+Top five: a, q, u, d 
+
+thaa
+Found: a 
+Top five: a, k 
+
+tha
+(Backspace) 
+
+thaf
+Found: f 
+Top five: f, d, b, a 
+
+tha
+(Backspace) 
+
+that
+Found: t 
+Top five: t, f, a 
+
+thatd
+Found: d 
+Top five: d, f, a, k 
+
+that
+(Backspace) 
+
+that 
+(Space) 
+
+that a
+(Corrected / byClick: ) a 
+
+that am
+Found: m 
+Top five: m 
+
+that a
+(Backspace) 
+
+that aq
+Found: q 
+Top five: q, g, a 
+
+that a
+(Backspace) 
+
+that ag
+(Corrected / byClick: ) g 
+
+that agr
+Found: r 
+Top five: r, n, e, b, a 
+
+that agrf
+Found: f 
+Top five: f, a 
+
+that agr
+(Backspace) 
+
+that agre
+Found: e 
+Top five: e, b, a 
+
+that agree
+(Corrected / byClick: ) e 
+
+that agreew
+Found: w 
+Top five: w, e 
+
+that agree
+(Backspace) 
+
+that agreem
+Found: m 
+Top five: m, w, e 
+
+that agreemb
+Found: b 
+Top five: b, k, a 
+
+that agreem
+(Backspace) 
+
+that agreeme
+Found: e 
+Top five: e, b, a 
+
+that agreeme
+Found:   
+Top five:  
+
+that agreemep
+Found: p 
+Top five: p, d, h, k, a 
+
+that agreeme
+(Backspace) 
+
+that agreemeh
+Found: h 
+Top five: h, r, n, e, b 
+
+that agreeme
+(Backspace) 
+
+that agreemen
+(Corrected / byClick: ) n 
+
+that agreemenj
+Found: j 
+Top five: j, f, a, k 
+
+that agreemen
+(Backspace) 
+
+that agreement
+Found: t 
+Top five: t, f, a 
+
+that agreement 
+(Space) 
+
+that agreement w
+Found: w 
+Top five: w 
+
+that agreement 
+(Backspace) 
+
+that agreement i
+Found: i 
+Top five: i, a, m, k 
+
+that agreement it
+Found: t 
+Top five: t, f, b, a 
+
+that agreement i
+(Backspace) 
+
+that agreement ii
+Found: i 
+Top five: i, m 
+
+that agreement i
+(Backspace) 
+
+that agreement il
+Found: l 
+Top five: l, y, x, t, f 
+
+that agreement i
+(Backspace) 
+
+that agreement is
+Found: s 
+Top five: s, c 
+
+that agreement is 
+(Space) 
+
+that agreement is r
+Found: r 
+Top five: r, k, v, n, l 
+
+that agreement is r
+Found:   
+Top five:  
+
+that agreement is 
+(Backspace) 
+
+that agreement is r
+(Corrected / byClick: ) r 
+
+that agreement is re
+Found: e 
+Top five: e, z, w 
+
+that agreement is r
+(Backspace) 
+
+that agreement is ri
+Found: i 
+Top five: i, t, h, f, e 
+
+that agreement is ri
+Found:   
+Top five:  
+
+that agreement is rif
+(Corrected / byClick: ) f 
+
+that agreement is rifm
+Found: m 
+Top five: m, e, z, w 
+
+that agreement is rif
+(Backspace) 
+
+that agreement is rife
+(Corrected / byClick: ) e 
+
+that agreement is rife 
+(Space) 
+
+that agreement is rife w
+Found: w 
+Top five: w 
+
+that agreement is rife wi
+Found: i 
+Top five: i, t, h, e, a 
+
+that agreement is rife wit
+(Corrected / byClick: ) t 
+
+that agreement is rife with
+(Corrected / byClick: ) h 
+
+that agreement is rife with 
+(Space) 
+
+that agreement is rife with t
+Found: t 
+Top five: t, f, b, a 
+
+that agreement is rife with 
+(Backspace) 
+
+that agreement is rife with j
+Found: j 
+Top five: j, b, f, e, a 
+
+that agreement is rife with 
+(Backspace) 
+
+that agreement is rife with d
+Found: d 
+Top five: d, z, w 
+
+that agreement is rife with 
+(Backspace) 
+
+that agreement is rife with b
+Found: b 
+Top five: b, m, k, a 
+
+that agreement is rife with 
+(Backspace) 
+
+that agreement is rife with j
+Found: j 
+Top five: j, i, m 
+
+that agreement is rife with 
+(Backspace) 
+
+that agreement is rife with p
+Found: p 
+Top five: p, h, b, a 
+
+that agreement is rife with pe
+Found: e 
+Top five: e, z, w 
+
+that agreement is rife with p
+(Backspace) 
+
+that agreement is rife with pr
+Found: r 
+Top five: r, f, b, a 
+
+that agreement is rife with pro
+Found: o 
+Top five: o, c 
+
+that agreement is rife with proh
+Found: h 
+Top five: h, u, f, a 
+
+that agreement is rife with pro
+(Backspace) 
+
+that agreement is rife with pro
+Found:   
+Top five:  
+
+that agreement is rife with pron
+Found: n 
+Top five: n, h, m, k, a 
+
+that agreement is rife with pro
+(Backspace) 
+
+that agreement is rife with prov
+Found: v 
+Top five: v, p, l, b, a 
+
+that agreement is rife with pro
+(Backspace) 
+
+that agreement is rife with prob
+(Corrected / byClick: ) b 
+
+that agreement is rife with probl
+(Corrected / byClick: ) l 
+
+that agreement is rife with probln
+Found: n 
+Top five: n, a, k 
+
+that agreement is rife with probl
+(Backspace) 
+
+that agreement is rife with proble
+Found: e 
+Top five: e, d, b, a 
+
+that agreement is rife with problem
+Found: m 
+Top five: m, e, z, w 
+
+that agreement is rife with problems
+Found: s 
+Top five: s, g, j, d, u 
+

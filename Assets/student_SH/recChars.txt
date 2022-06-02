@@ -1,0 +1,1379 @@
+
+Found:   
+Top five:  
+
+h
+Found: h 
+Top five: h, r, l, b, a 
+
+hd
+Found: d 
+Top five: d, g, a, k 
+
+h
+(Backspace) 
+
+ha
+(Corrected / byClick: ) a 
+
+haa
+(Corrected / byClick: ) a 
+
+haaa
+(Corrected / byClick: ) a 
+
+haaaa
+(Corrected / byClick: ) a 
+
+haaaaa
+(Corrected / byClick: ) a 
+
+haaaa
+(Backspace) 
+
+haaa
+(Backspace) 
+
+haa
+(Backspace) 
+
+ha
+(Backspace) 
+
+ha
+Found:   
+Top five:  
+
+h
+Found: h 
+Top five: h, n, l, b, a 
+
+hd
+Found: d 
+Top five: d, a 
+
+h
+(Backspace) 
+
+hf
+Found: f 
+Top five: f, a, m, k 
+
+h
+(Backspace) 
+
+hm
+Found: m 
+Top five: m, z, w 
+
+hmk
+Found: k 
+Top five: k, h, a 
+
+hm
+(Backspace) 
+
+hmz
+Found: z 
+Top five: z, e, w 
+
+hm
+(Backspace) 
+
+hmd
+Found: d 
+Top five: d, w 
+
+hm
+(Backspace) 
+
+hm
+Found:   
+Top five:  
+
+h
+(Backspace) 
+
+hh
+Found: h 
+Top five: h, e, b, a 
+
+h
+(Backspace) 
+
+he
+(Corrected / byClick: ) e 
+
+hez
+Found: z 
+Top five: z, k, i, f, a 
+
+hezy
+Found: y 
+Top five: y, e, a 
+
+hezy
+Found:   
+Top five:  
+
+hezyo
+Found: o 
+Top five: o, c 
+
+hezyo 
+(Space) 
+
+hezyo e
+Found: e 
+Top five: e, z, w 
+
+hezyo 
+(Backspace) 
+
+hezyo w
+(Corrected / byClick: ) w 
+
+hezyo wi
+Found: i 
+Top five: i, m 
+
+hezyo wiw
+Found: w 
+Top five: w 
+
+hezyo wiw
+Found:   
+Top five:  
+
+hezyo wiwd
+Found: d 
+Top five: d, a, k 
+
+hezyo wiwdv
+Found: v 
+Top five: v, e, l, t, h 
+
+hezyo wiwdvd
+Found: d 
+Top five: d, g, a, k 
+
+i
+Found: i 
+Top five: i, m 
+
+ia
+Found: a 
+Top five: a, u 
+
+iaw
+Found: w 
+Top five: w, e 
+
+ia
+(Backspace) 
+
+iak
+Found: k 
+Top five: k, f, b, a 
+
+ia
+(Backspace) 
+
+iae
+Found: e 
+Top five: e, z, w 
+
+iae 
+(Space) 
+
+iae m
+Found: m 
+Top five: m 
+
+iae 
+(Backspace) 
+
+iae p
+Found: p 
+Top five: p, f, b, a 
+
+iae 
+(Backspace) 
+
+iae f
+(Corrected / byClick: ) f 
+
+iae f
+Found:   
+Top five:  
+
+iae fi
+Found: i 
+Top five: i, m 
+
+iae f
+(Backspace) 
+
+iae fh
+Found: h 
+Top five: h, p, d, b, e 
+
+iae fhr
+Found: r 
+Top five: r, l, a 
+
+iae fhr 
+(Space) 
+
+iae fhr 
+Found:   
+Top five:  
+
+iae fhr f
+Found: f 
+Top five: f, d, b, a 
+
+iae fhr fm
+Found: m 
+Top five: m 
+
+iae fhr f
+(Backspace) 
+
+iae fhr fp
+Found: p 
+Top five: p, g, e, a 
+
+iae fhr fpr
+Found: r 
+Top five: r, l, h, b, a 
+
+iae fhr fpr 
+(Space) 
+
+iae fhr fpr i
+Found: i 
+Top five: i, m 
+
+iae fhr fpr 
+(Backspace) 
+
+iae fhr fpr f
+Found: f 
+Top five: f, k, a 
+
+iae fhr fpr fk
+Found: k 
+Top five: k, i, f, b, m 
+
+iae fhr fpr f
+(Backspace) 
+
+iae fhr fpr fn
+Found: n 
+Top five: n, f, a, m, k 
+
+iae fhr fpr fnm
+Found: m 
+Top five: m, d, a, k 
+
+iae fhr fpr fn
+(Backspace) 
+
+iae fhr fpr fnm
+Found: m 
+Top five: m, z, e, w 
+
+iae fhr fpr fn
+(Backspace) 
+
+iae fhr fpr fne
+(Corrected / byClick: ) e 
+
+iae fhr fpr fne 
+(Space) 
+
+iae fhr fpr fne i
+Found: i 
+Top five: i, m 
+
+iae fhr fpr fne ir
+Found: r 
+Top five: r, n, h, e, b 
+
+iae fhr fpr fne i
+(Backspace) 
+
+iae fhr fpr fne in
+(Corrected / byClick: ) n 
+
+iae fhr fpr fne inu
+Found: u 
+Top five: u, e, p, j, f 
+
+iae fhr fpr fne in
+(Backspace) 
+
+iae fhr fpr fne ine
+Found: e 
+Top five: e, w 
+
+iae fhr fpr fne inei
+Found: i 
+Top five: i, t, b, a 
+
+iae fhr fpr fne ineij
+Found: j 
+Top five: j, p, d, b, m 
+
+iae fhr fpr fne inei
+(Backspace) 
+
+iae fhr fpr fne ineiy
+Found: y 
+Top five: y, f, b, a 
+
+iae fhr fpr fne ineiye
+Found: e 
+Top five: e, o, c 
+
+iae fhr fpr fne ineiy
+(Backspace) 
+
+iae fhr fpr fne ineiyo
+(Corrected / byClick: ) o 
+
+iae fhr fpr fne ineiyoe
+Found: e 
+Top five: e, w 
+
+iae fhr fpr fne ineiyo
+(Backspace) 
+
+iae fhr fpr fne ineiyod
+Found: d 
+Top five: d, m, e, z, w 
+
+iae fhr fpr fne ineiyod
+Found:   
+Top five:  
+
+iae fhr fpr fne ineiyo
+(Backspace) 
+
+iae fhr fpr fne ineiyom
+(Corrected / byClick: ) m 
+
+iae fhr fpr fne ineiyo
+(Backspace) 
+
+iae fhr fpr fne ineiyo
+Found:   
+Top five:  
+
+iae fhr fpr fne ineiyoh
+Found: h 
+Top five: h, e, b, a 
+
+iae fhr fpr fne ineiyohm
+Found: m 
+Top five: m, w, e, z 
+
+iae fhr fpr fne ineiyohme
+(Corrected / byClick: ) e 
+
+iae fhr fpr fne ineiyohmeu
+Found: u 
+Top five: u, n, k, h, a 
+
+iae fhr fpr fne ineiyohme
+(Backspace) 
+
+iae fhr fpr fne ineiyohmen
+(Corrected / byClick: ) n 
+
+iae fhr fpr fne ineiyohmenw
+Found: w 
+Top five: w 
+
+iae fhr fpr fne ineiyohmen
+(Backspace) 
+
+iae fhr fpr fne ineiyohmenp
+Found: p 
+Top five: p, g, k, r, i 
+
+
+Found:   
+Top five:  
+
+
+Found:   
+Top five:  
+
+f
+Found: f 
+Top five: f, d, a 
+
+fd
+Found: d 
+Top five: d, w, e 
+
+f
+(Backspace) 
+
+fm
+Found: m 
+Top five: m 
+
+fmt
+Found: t 
+Top five: t, l, y, x, v 
+
+fm
+(Backspace) 
+
+fmd
+Found: d 
+Top five: d, e, a, k 
+
+fmdt
+Found: t 
+Top five: t, x, p, n, l 
+
+fmdtm
+Found: m 
+Top five: m, d, a, k 
+
+fmdt
+(Backspace) 
+
+fmdtn
+Found: n 
+Top five: n, o, c 
+
+fmdtnn
+Found: n 
+Top five: n, i, h, f, k 
+
+fmdtn
+(Backspace) 
+
+fmdtnw
+Found: w 
+Top five: w, e 
+
+fmdtnwp
+Found: p 
+Top five: p, k, f, e, a 
+
+fmdtnw
+(Backspace) 
+
+fmdtnw 
+(Space) 
+
+fmdtnw m
+Found: m 
+Top five: m, e, w 
+
+fmdtnw mj
+Found: j 
+Top five: j, p, m, k, h 
+
+fmdtnw m
+(Backspace) 
+
+fmdtnw mn
+Found: n 
+Top five: n, h, r, k, b 
+
+fmdtnw m
+(Backspace) 
+
+fmdtnw mh
+(Corrected / byClick: ) h 
+
+fmdtnw mhm
+Found: m 
+Top five: m, a, k 
+
+fmdtnw mh
+(Backspace) 
+
+fmdtnw mha
+(Corrected / byClick: ) a 
+
+fmdtnw mhah
+Found: h 
+Top five: h, f, a, k 
+
+fmdtnw mha
+(Backspace) 
+
+fmdtnw mhae
+Found: e 
+Top five: e, z, w 
+
+fmdtnw mhae 
+(Space) 
+
+fmdtnw mhae 
+Found:   
+Top five:  
+
+fmdtnw mhae a
+Found: a 
+Top five: a 
+
+fmdtnw mhae a 
+(Space) 
+
+fmdtnw mhae a z
+Found: z 
+Top five: z, a 
+
+fmdtnw mhae a zd
+Found: d 
+Top five: d, n, a, m, k 
+
+fmdtnw mhae a z
+(Backspace) 
+
+fmdtnw mhae a ze
+Found: e 
+Top five: e, z, w 
+
+fmdtnw mhae a zen
+Found: n 
+Top five: n, h, f, m, k 
+
+fmdtnw mhae a ze
+(Backspace) 
+
+fmdtnw mhae a zet
+Found: t 
+Top five: t, b, e, a 
+
+fmdtnw mhae a zetd
+Found: d 
+Top five: d, v, a 
+
+fmdtnw mhae a zetdj
+Found: j 
+Top five: j, i, m 
+
+fmdtnw mhae a zetd
+(Backspace) 
+
+fmdtnw mhae a zetdi
+(Corrected / byClick: ) i 
+
+fmdtnw mhae a zetdid
+Found: d 
+Top five: d, n, k, h, a 
+
+fmdtnw mhae a zetdi
+(Backspace) 
+
+fmdtnw mhae a zetdin
+(Corrected / byClick: ) n 
+
+fmdtnw mhae a zetdinm
+Found: m 
+Top five: m 
+
+fmdtnw mhae a zetdin
+(Backspace) 
+
+fmdtnw mhae a zetding
+Found: g 
+Top five: g, d, r, a 
+
+fmdtnw mhae a zetding 
+(Space) 
+
+fmdtnw mhae a zetding k
+Found: k 
+Top five: k, h, a 
+
+fmdtnw mhae a zetding 
+(Backspace) 
+
+fmdtnw mhae a zetding d
+Found: d 
+Top five: d, e, z, w 
+
+fmdtnw mhae a zetding 
+(Backspace) 
+
+fmdtnw mhae a zetding e
+Found: e 
+Top five: e, z, w 
+
+fmdtnw mhae a zetding eu
+Found: u 
+Top five: u, g, a, k 
+
+fmdtnw mhae a zetding eud
+Found: d 
+Top five: d, y, e, b, a 
+
+fmdtnw mhae a zetding eu
+(Backspace) 
+
+fmdtnw mhae a zetding eut
+Found: t 
+Top five: t, c, o 
+
+fmdtnw mhae a zetding eutl
+Found: l 
+Top five: l, f, b, a 
+
+fmdtnw mhae a zetding eutlx
+Found: x 
+Top five: x, p, n, e, a 
+
+fmdtnw mhae a zetding eutl
+(Backspace) 
+
+fmdtnw mhae a zetding eutle
+(Corrected / byClick: ) e 
+
+fmdtnw mhae a zetding eutlee
+Found: e 
+Top five: e, z, w 
+
+fmdtnw mhae a zetding eutle
+(Backspace) 
+
+fmdtnw mhae a zetding eutlep
+Found: p 
+Top five: p, h, f, a 
+
+d
+Found: d 
+Top five: d, k, b, h, f 
+
+
+(Backspace) 
+
+f
+Found: f 
+Top five: f, b, a 
+
+fk
+Found: k 
+Top five: k, f, p, n, h 
+
+f
+(Backspace) 
+
+fh
+Found: h 
+Top five: h, r, l, b, a 
+
+fhe
+Found: e 
+Top five: e, n, d, b, a 
+
+fhe 
+(Space) 
+
+fhe b
+Found: b 
+Top five: b, a 
+
+fhe 
+(Backspace) 
+
+fhe d
+Found: d 
+Top five: d, n, k, f, a 
+
+fhe dk
+Found: k 
+Top five: k, a 
+
+fhe d
+(Backspace) 
+
+fhe du
+Found: u 
+Top five: u, j, i, h, f 
+
+fhe due
+Found: e 
+Top five: e, d, b, a 
+
+fhe dueg
+Found: g 
+Top five: g, m, h, k, n 
+
+fhe due
+(Backspace) 
+
+fhe duem
+Found: m 
+Top five: m, g, f, k, a 
+
+fhe duemm
+Found: m 
+Top five: m 
+
+fhe duemm 
+(Space) 
+
+fhe duemm m
+Found: m 
+Top five: m 
+
+fhe duemm 
+(Backspace) 
+
+fhe duemm w
+Found: w 
+Top five: w, e 
+
+fhe duemm we
+Found: e 
+Top five: e, z, w 
+
+fhe duemm w
+(Backspace) 
+
+fhe duemm wf
+Found: f 
+Top five: f, e, m, k, a 
+
+fhe duemm wft
+Found: t 
+Top five: t, y, x, r, p 
+
+fhe duemm wf
+(Backspace) 
+
+fhe duemm wfe
+Found: e 
+Top five: e, z, w 
+
+fhe duemm wfee
+(Corrected / byClick: ) e 
+
+fhe duemm wfeez
+Found: z 
+Top five: z, e, w 
+
+fhe duemm wfee
+(Backspace) 
+
+fhe duemm wfeep
+Found: p 
+Top five: p, g, e, b, a 
+
+fhe duemm wfeep 
+(Space) 
+
+fhe duemm wfeep t
+Found: t 
+Top five: t, v, f, d, b 
+
+fhe duemm wfeep te
+Found: e 
+Top five: e, o, c 
+
+fhe duemm wfeep t
+(Backspace) 
+
+fhe duemm wfeep to
+(Corrected / byClick: ) o 
+
+fhe duemm wfeep to 
+(Space) 
+
+fhe duemm wfeep to x
+Found: x 
+Top five: x, f, v, t, n 
+
+fhe duemm wfeep to 
+(Backspace) 
+
+fhe duemm wfeep to n
+Found: n 
+Top five: n, k, h, b, a 
+
+fhe duemm wfeep to 
+(Backspace) 
+
+fhe duemm wfeep to h
+(Corrected / byClick: ) h 
+
+fhe duemm wfeep to he
+Found: e 
+Top five: e, a 
+
+fhe duemm wfeep to h
+(Backspace) 
+
+fhe duemm wfeep to 
+(Backspace) 
+
+fhe duemm wfeep to z
+Found: z 
+Top five: z, e, w 
+
+fhe duemm wfeep to 
+(Backspace) 
+
+fhe duemm wfeep to e
+Found: e 
+Top five: e, z, w 
+
+fhe duemm wfeep to eh
+Found: h 
+Top five: h, b, a 
+
+fhe duemm wfeep to ehm
+Found: m 
+Top five: m, e, z, w 
+
+fhe duemm wfeep to eh
+(Backspace) 
+
+fhe duemm wfeep to ehe
+(Corrected / byClick: ) e 
+
+fhe duemm wfeep to ehe 
+(Space) 
+
+fhe duemm wfeep to ehe h
+Found: h 
+Top five: h, f, e, k, a 
+
+fhe duemm wfeep to ehe 
+(Backspace) 
+
+fhe duemm wfeep to ehe p
+Found: p 
+Top five: p, l, h, f, e 
+
+fhe duemm wfeep to ehe pe
+Found: e 
+Top five: e, o, c 
+
+fhe duemm wfeep to ehe p
+(Backspace) 
+
+fhe duemm wfeep to ehe po
+(Corrected / byClick: ) o 
+
+fhe duemm wfeep to ehe por
+Found: r 
+Top five: r, h, b, a, m 
+
+fhe duemm wfeep to ehe porw
+Found: w 
+Top five: w, m, e, z 
+
+s
+Found: s 
+Top five: s, d, k, e, a 
+
+
+(Backspace) 
+
+p
+Found: p 
+Top five: p, y, b, n, e 
+
+pe
+Found: e 
+Top five: e, o, c 
+
+pem
+Found: m 
+Top five: m, w 
+
+pemk
+Found: k 
+Top five: k, h, b, a 
+
+pemkc
+Found: c 
+Top five: c 
+
+pemkce
+Found: e 
+Top five: e, u, c 
+
+pemkcex
+Found: x 
+Top five: x, t, v, l, f 
+
+pemkce
+(Backspace) 
+
+pemkcet
+(Corrected / byClick: ) t 
+
+pemkcetp
+Found: p 
+Top five: p, g, d, a 
+
+pemkcet
+(Backspace) 
+
+pemkcetl
+Found: l 
+Top five: l, t, u, f, a 
+
+pemkcetll
+(Corrected / byClick: ) l 
+
+pemkcetllw
+Found: w 
+Top five: w, m 
+
+pemkcetll
+(Backspace) 
+
+pemkcetllg
+Found: g 
+Top five: g, u, d, y, e 
+
+pemkcetll
+(Backspace) 
+
+pemkcetlly
+(Corrected / byClick: ) y 
+
+pemkcetlly 
+(Space) 
+
+pemkcetlly p
+Found: p 
+Top five: p, d, h, f, e 
+
+pemkcetlly 
+(Backspace) 
+
+pemkcetlly z
+Found: z 
+Top five: z, g, f, e, a 
+
+pemkcetlly ze
+Found: e 
+Top five: e, s, o, c 
+
+pemkcetlly z
+(Backspace) 
+
+pemkcetlly zo
+(Corrected / byClick: ) o 
+
+pemkcetlly zot
+Found: t 
+Top five: t, c, o 
+
+pemkcetlly zo
+(Backspace) 
+
+pemkcetlly zoi
+Found: i 
+Top five: i, o, c 
+
+pemkcetlly zo
+(Backspace) 
+
+pemkcetlly zoy
+Found: y 
+Top five: y, d, x, e, b 
+
+pemkcetlly zoyd
+(Corrected / byClick: ) d 
+
+pemkcetlly zoyd 
+(Space) 
+
+pemkcetlly zoyd e
+Found: e 
+Top five: e, o, c, s 
+
+pemkcetlly zoyd 
+(Backspace) 
+
+pemkcetlly zoyd e
+Found: e 
+Top five: e, o, i, c 
+
+pemkcetlly zoyd 
+(Backspace) 
+
+pemkcetlly zoyd o
+(Corrected / byClick: ) o 
+
+pemkcetlly zoyd os
+Found: s 
+Top five: s, e, o, u, c 
+
+pemkcetlly zoyd o
+(Backspace) 
+
+pemkcetlly zoyd ou
+(Corrected / byClick: ) u 
+
+pemkcetlly zoyd ouw
+Found: w 
+Top five: w 
+
+pemkcetlly zoyd ou
+(Backspace) 
+
+pemkcetlly zoyd ouc
+Found: c 
+Top five: c, o 
+
+pemkcetlly zoyd ou
+(Backspace) 
+
+pemkcetlly zoyd ouf
+Found: f 
+Top five: f, e, k, a 
+
+pemkcetlly zoyd ouf 
+(Space) 
+
+pemkcetlly zoyd ouf e
+Found: e 
+Top five: e, o, c 
+
+pemkcetlly zoyd ouf 
+(Backspace) 
+
+pemkcetlly zoyd ouf o
+(Corrected / byClick: ) o 
+
+pemkcetlly zoyd ouf of
+Found: f 
+Top five: f, e, k, a 
+
+pemkcetlly zoyd ouf of 
+(Space) 
+
+pemkcetlly zoyd ouf of e
+Found: e 
+Top five: e, w 
+
+pemkcetlly zoyd ouf of 
+(Backspace) 
+
+pemkcetlly zoyd ouf of k
+Found: k 
+Top five: k, h, f, e, a 
+
+pemkcetlly zoyd ouf of kw
+Found: w 
+Top five: w 
+
+pemkcetlly zoyd ouf of k
+(Backspace) 
+
+pemkcetlly zoyd ouf of kh
+Found: h 
+Top five: h, b, a 
+
+pemkcetlly zoyd ouf of kha
+(Corrected / byClick: ) a 
+
+pemkcetlly zoyd ouf of khae
+Found: e 
+Top five: e, a, k 
+
+pemkcetlly zoyd ouf of kha
+(Backspace) 
+
+pemkcetlly zoyd ouf of khae
+Found: e 
+Top five: e, k, a 
+
+pemkcetlly zoyd ouf of kha
+(Backspace) 
+
+pemkcetlly zoyd ouf of khak
+Found: k 
+Top five: k, h, e, a 
+
+i
+Found: i 
+Top five: i, s, o, c 
+
+
+(Backspace) 
+
+s
+Found: s 
+Top five: s, i, o, c 
+
+si
+(Corrected / byClick: ) i 
+
+sim
+Found: m 
+Top five: m 
+
+si
+(Backspace) 
+
+sii
+Found: i 
+Top five: i, y, t, l, a 
+
+si
+(Backspace) 
+
+si
+Found:   
+Top five:  
+
+sim
+Found: m 
+Top five: m, k, a 
+
+simi
+Found: i 
+Top five: i, g, e, k, a 
+
+simif
+Found: f 
+Top five: f, k, a 
+
+simife
+Found: e 
+Top five: e, n, d, b, a 
+
+simifed
+Found: d 
+Top five: d, m, e, w 
+
+simifed 
+(Space) 
+
+simifed w
+Found: w 
+Top five: w 
+
+simifed wm
+Found: m 
+Top five: m, z, w 
+
+simifed w
+(Backspace) 
+
+simifed wd
+Found: d 
+Top five: d, m, w 
+
+simifed wdh
+Found: h 
+Top five: h, f, a, k 
+
+simifed wdhn
+Found: n 
+Top five: n, j, f, k, a 
+
+simifed wdhnh
+Found: h 
+Top five: h, k, n, g, a 
+
+simifed wdhn
+(Backspace) 
+
+simifed wdhns
+Found: s 
+Top five: s, m, a 
+
+simifed wdhn
+(Backspace) 
+
+simifed wdhna
+(Corrected / byClick: ) a 
+
+simifed wdhnan
+Found: n 
+Top five: n, b, m, k, a 
+
+simifed wdhnanm
+Found: m 
+Top five: m, w 
+
+simifed wdhnan
+(Backspace) 
+
+simifed wdhnanf
+Found: f 
+Top five: f, t, a 
+
+simifed wdhnanft
+(Corrected / byClick: ) t 
+
+simifed wdhnanftw
+Found: w 
+Top five: w 
+
+simifed wdhnanft
+(Backspace) 
+
+simifed wdhnanftm
+Found: m 
+Top five: m, e, w 
+
+simifed wdhnanft
+(Backspace) 
+
+simifed wdhnanftu
+Found: u 
+Top five: u, n, k, h, g 
+
+simifed wdhnanftu 
+(Space) 
+
+simifed wdhnanftu o
+Found: o 
+Top five: o, c 
+
+simifed wdhnanftu oh
+Found: h 
+Top five: h, f, a, k 
+
+simifed wdhnanftu o
+(Backspace) 
+
+simifed wdhnanftu of
+(Corrected / byClick: ) f 
+
+simifed wdhnanftu of 
+(Space) 
+
+simifed wdhnanftu of b
+Found: b 
+Top five: b, i, e, a, k 
+
+simifed wdhnanftu of 
+(Backspace) 
+
+simifed wdhnanftu of t
+Found: t 
+Top five: t, c, o 
+
+simifed wdhnanftu of tm
+Found: m 
+Top five: m 
+
+simifed wdhnanftu of t
+(Backspace) 
+
+simifed wdhnanftu of tm
+Found: m 
+Top five: m 
+
+simifed wdhnanftu of t
+(Backspace) 
+
+simifed wdhnanftu of tw
+Found: w 
+Top five: w, m 
+
+simifed wdhnanftu of twe
+Found: e 
+Top five: e, o, c 
+
+simifed wdhnanftu of tw
+(Backspace) 
+
+simifed wdhnanftu of two
+(Corrected / byClick: ) o 
+
+simifed wdhnanftu of twoh
+Found: h 
+Top five: h, a, k 
+
+simifed wdhnanftu of two
+(Backspace) 
+
+simifed wdhnanftu of twou
+Found: u 
+Top five: u, y, a 
+
+simifed wdhnanftu of two
+(Backspace) 
+
+simifed wdhnanftu of two 
+(Space) 
+
+simifed wdhnanftu of two y
+(Corrected / byClick: ) y 
+
+simifed wdhnanftu of two yu
+Found: u 
+Top five: u, e, c 
+
+simifed wdhnanftu of two y
+(Backspace) 
+
+simifed wdhnanftu of two ye
+(Corrected / byClick: ) e 
+
+simifed wdhnanftu of two y
+(Backspace) 
+
+simifed wdhnanftu of two 
+(Backspace) 
+
+simifed wdhnanftu of two m
+Found: m 
+Top five: m, e, w 
+
+simifed wdhnanftu of two 
+(Backspace) 
+
+simifed wdhnanftu of two 
+Found:   
+Top five:  
+
+simifed wdhnanftu of two 
+Found:   
+Top five:  
+
+simifed wdhnanftu of two y
+Found: y 
+Top five: y, n, k, f, a 
+
+simifed wdhnanftu of two yn
+Found: n 
+Top five: n, k, e, b, a 
+
+simifed wdhnanftu of two y
+(Backspace) 
+
+simifed wdhnanftu of two ye
+(Corrected / byClick: ) e 
+
+simifed wdhnanftu of two yea
+Found: a 
+Top five: a, g, f, e, b 
+
+simifed wdhnanftu of two yeah
+Found: h 
+Top five: h, a, k 
+
+simifed wdhnanftu of two yea
+(Backspace) 
+
+simifed wdhnanftu of two year
+Found: r 
+Top five: r, n, h, f, b 
+
+simifed wdhnanftu of two yearz
+Found: z 
+Top five: z, e, a 
+

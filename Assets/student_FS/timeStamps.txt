@@ -1,0 +1,165 @@
+hello world
+Text:hello world correct: True
+start: 114.8258, firstLetter: 118.913, endTime: 187.111
+phrase time: 68.19801
+WPM: 2.63937307371754
+ER: 0% with |T| = 11, INF =0
+KSPC: 2.818182 
+EKS ER: 90.90909% 
+Total ER: 47.61905% 
+#Space: 1, #Backspace: 10
+#ByClick: 5, #RecChars: 15
+#InputStream: 31
+#Display Length: 11
+#Transcribed Length: 11
+
+Start Evaluation
+No Text correct: False
+start: 187.111, firstLetter: 0, endTime: 198.5213
+phrase time: 198.5213
+WPM: 0.362681455367685
+ER: 250% with |T| = 2, INF =5
+KSPC: 0 
+EKS ER: 31.25% 
+Total ER: 83.33334% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 16
+#Transcribed Length: 2
+
+this watch is too expensive
+Text:this watch is too expensive correct: True
+start: 198.5213, firstLetter: 202.0086, endTime: 444.5022
+phrase time: 242.4936
+WPM: 1.53406116010133
+ER: 0% with |T| = 27, INF =0
+KSPC: 4.185185 
+EKS ER: 159.2593% 
+Total ER: 61.42857% 
+#Space: 4, #Backspace: 43
+#ByClick: 8, #RecChars: 58
+#InputStream: 113
+#Display Length: 27
+#Transcribed Length: 27
+
+Pause
+No Text correct: False
+start: 444.5022, firstLetter: 0, endTime: 488.8011
+phrase time: 488.8011
+WPM: 0.147299163215966
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+the location of the crime
+Text:the location of the crime correct: True
+start: 488.8011, firstLetter: 495.1427, endTime: 610.7502
+phrase time: 115.6075
+WPM: 3.01018656494796
+ER: 0% with |T| = 25, INF =0
+KSPC: 2.12 
+EKS ER: 56% 
+Total ER: 35.89743% 
+#Space: 5, #Backspace: 14
+#ByClick: 4, #RecChars: 30
+#InputStream: 53
+#Display Length: 25
+#Transcribed Length: 25
+
+Pause
+No Text correct: False
+start: 610.7502, firstLetter: 0, endTime: 633.8242
+phrase time: 633.8242
+WPM: 0.113596175096236
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+the facts get in the way
+Text:the facts get in the way correct: True
+start: 633.8242, firstLetter: 638.2888, endTime: 775.9579
+phrase time: 137.6691
+WPM: 2.4406354047979
+ER: 0% with |T| = 24, INF =0
+KSPC: 2.833333 
+EKS ER: 91.66666% 
+Total ER: 47.82609% 
+#Space: 5, #Backspace: 22
+#ByClick: 6, #RecChars: 35
+#InputStream: 68
+#Display Length: 24
+#Transcribed Length: 24
+
+Pause
+No Text correct: False
+start: 775.9579, firstLetter: 0, endTime: 815.3522
+phrase time: 815.3522
+WPM: 0.0883054002887999
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+the assault took six months
+Text:the assault took six months correct: True
+start: 815.3522, firstLetter: 818.2523, endTime: 938.1735
+phrase time: 119.9212
+WPM: 3.10203691083368
+ER: 0% with |T| = 27, INF =0
+KSPC: 2.185185 
+EKS ER: 59.25926% 
+Total ER: 37.2093% 
+#Space: 5, #Backspace: 16
+#ByClick: 4, #RecChars: 34
+#InputStream: 59
+#Display Length: 27
+#Transcribed Length: 27
+
+Pause
+No Text correct: False
+start: 938.1735, firstLetter: 0, endTime: 950.9035
+phrase time: 950.9035
+WPM: 0.0757174621201837
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+this equation is too complicated
+Text:this equation is too complicated correct: True
+start: 950.9035, firstLetter: 957.3452, endTime: 1102.716
+phrase time: 145.3713
+WPM: 2.97170121460448
+ER: 0% with |T| = 32, INF =0
+KSPC: 2.4375 
+EKS ER: 71.875% 
+Total ER: 41.81818% 
+#Space: 5, #Backspace: 23
+#ByClick: 11, #RecChars: 39
+#InputStream: 78
+#Display Length: 32
+#Transcribed Length: 32
+
