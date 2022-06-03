@@ -1,0 +1,165 @@
+hello world
+Text:hello world correct: True
+start: 195.7421, firstLetter: 207.9969, endTime: 277.3991
+phrase time: 69.40225
+WPM: 2.59357577457828
+ER: 0% with |T| = 11, INF =0
+KSPC: 1.818182 
+EKS ER: 36.36364% 
+Total ER: 26.66667% 
+#Space: 1, #Backspace: 4
+#ByClick: 3, #RecChars: 12
+#InputStream: 20
+#Display Length: 11
+#Transcribed Length: 11
+
+Start Evaluation
+No Text correct: False
+start: 311.85, firstLetter: 0, endTime: 314.0934
+phrase time: 314.0934
+WPM: 0.229231211835824
+ER: 250% with |T| = 2, INF =5
+KSPC: 0 
+EKS ER: 31.25% 
+Total ER: 83.33334% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 16
+#Transcribed Length: 2
+
+the second largest country
+Text:the second largest country correct: True
+start: 314.0934, firstLetter: 327.7762, endTime: 548.9384
+phrase time: 221.1622
+WPM: 1.62776436847907
+ER: 0% with |T| = 26, INF =0
+KSPC: 4.153846 
+EKS ER: 157.6923% 
+Total ER: 61.19403% 
+#Space: 4, #Backspace: 41
+#ByClick: 7, #RecChars: 56
+#InputStream: 108
+#Display Length: 26
+#Transcribed Length: 26
+
+Pause
+No Text correct: False
+start: 548.9384, firstLetter: 0, endTime: 577.13
+phrase time: 577.13
+WPM: 0.124755253393245
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+fine but only in moderation
+Text:fine but only in moderation correct: True
+start: 577.13, firstLetter: 583.0172, endTime: 736.9349
+phrase time: 153.9178
+WPM: 2.41687468697817
+ER: 0% with |T| = 27, INF =0
+KSPC: 3.259259 
+EKS ER: 111.1111% 
+Total ER: 52.63158% 
+#Space: 4, #Backspace: 30
+#ByClick: 5, #RecChars: 49
+#InputStream: 88
+#Display Length: 27
+#Transcribed Length: 27
+
+Pause
+No Text correct: False
+start: 736.9349, firstLetter: 0, endTime: 744.6431
+phrase time: 744.6431
+WPM: 0.0966906203095154
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+he was wearing a sweatshirt
+Text:he was wearing a sweatshirt correct: True
+start: 744.6431, firstLetter: 747.2645, endTime: 902.5829
+phrase time: 155.3184
+WPM: 2.39507972729598
+ER: 0% with |T| = 27, INF =0
+KSPC: 3.37037 
+EKS ER: 118.5185% 
+Total ER: 54.23729% 
+#Space: 4, #Backspace: 32
+#ByClick: 10, #RecChars: 45
+#InputStream: 91
+#Display Length: 27
+#Transcribed Length: 27
+
+Pause
+No Text correct: False
+start: 902.5829, firstLetter: 0, endTime: 907.9919
+phrase time: 907.9919
+WPM: 0.0792958631036426
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+this phenomenon will never occur
+Text:this phenomenon will nj correct: False
+start: 1031.375, firstLetter: 911.1124, endTime: 1119.763
+phrase time: 208.6506
+WPM: 1.55283541380786
+ER: 0% with |T| = 23, INF =0
+KSPC: 4.478261 
+EKS ER: 125% 
+Total ER: 64.51613% 
+#Space: 3, #Backspace: 40
+#ByClick: 9, #RecChars: 51
+#InputStream: 103
+#Display Length: 32
+#Transcribed Length: 23
+
+Pause
+No Text correct: False
+start: 1128.525, firstLetter: 0, endTime: 1132.279
+phrase time: 1132.279
+WPM: 0.0635885648737606
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+the location of the crime
+Text:the location of the crime correct: True
+start: 1132.279, firstLetter: 1135.378, endTime: 1239.275
+phrase time: 103.8978
+WPM: 3.34944444509717
+ER: 0% with |T| = 25, INF =0
+KSPC: 2.16 
+EKS ER: 56% 
+Total ER: 35.89743% 
+#Space: 4, #Backspace: 14
+#ByClick: 6, #RecChars: 30
+#InputStream: 54
+#Display Length: 25
+#Transcribed Length: 25
+
