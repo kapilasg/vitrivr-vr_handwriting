@@ -1,0 +1,731 @@
+n
+Found: n 
+Top five: n, a, m, k 
+
+ne
+Found: e 
+Top five: e, c, u, s 
+
+nev
+Found: v 
+Top five: v, r, l, h, e 
+
+neve
+Found: e 
+Top five: e, n, o, c 
+
+never
+Found: r 
+Top five: r, d, n, h, b 
+
+never 
+(Space) 
+
+never m
+Found: m 
+Top five: m, w 
+
+never mi
+Found: i 
+Top five: i, x, e, b, a 
+
+never mix
+Found: x 
+Top five: x, e, d, b, a 
+
+never mix 
+(Space) 
+
+never mix r
+Found: r 
+Top five: r, l, h, e, d 
+
+never mix re
+Found: e 
+Top five: e, o, c 
+
+never mix rel
+Found: l 
+Top five: l, h, b, a 
+
+never mix reli
+Found: i 
+Top five: i, l, y, t, r 
+
+never mix relig
+Found: g 
+Top five: g, d, y, k, a 
+
+never mix religs
+Found: s 
+Top five: s, y, k, z, f 
+
+never mix relig
+(Backspace) 
+
+never mix religi
+Found: i 
+Top five: i, t, e, b, a 
+
+never mix religio
+Found: o 
+Top five: o, c 
+
+never mix religion
+Found: n 
+Top five: n, r, p, h, b 
+
+never mix religion 
+(Space) 
+
+never mix religion a
+Found: a 
+Top five: a, q, u 
+
+never mix religion an
+Found: n 
+Top five: n, h, k, a 
+
+never mix religion and
+Found: d 
+Top five: d, a 
+
+never mix religion and 
+(Space) 
+
+never mix religion and p
+Found: p 
+Top five: p, d, h, e, b 
+
+never mix religion and po
+Found: o 
+Top five: o, c 
+
+never mix religion and pol
+Found: l 
+Top five: l, f, b, a 
+
+never mix religion and poli
+Found: i 
+Top five: i, b, a 
+
+never mix religion and polif
+Found: f 
+Top five: f, t, b, a 
+
+never mix religion and poli
+(Backspace) 
+
+never mix religion and polit
+(Corrected / byClick: ) t 
+
+never mix religion and politi
+Found: i 
+Top five: i, t, l, e, b 
+
+never mix religion and politis
+Found: s 
+Top five: s, c 
+
+never mix religion and politi
+(Backspace) 
+
+never mix religion and politic
+(Corrected / byClick: ) c 
+
+never mix religion and politics
+(Corrected / byClick: ) s 
+
+i
+Found: i 
+Top five: i, e, b, a 
+
+i 
+(Space) 
+
+i d
+Found: d 
+Top five: d, n, a 
+
+i do
+Found: o 
+Top five: o, c 
+
+i don
+Found: n 
+Top five: n, h, k, e, a 
+
+i don 
+(Space) 
+
+i don
+(Backspace) 
+
+i do
+(Backspace) 
+
+i do 
+(Space) 
+
+i do n
+(Corrected / byClick: ) n 
+
+i do no
+Found: o 
+Top five: o, c 
+
+i do not
+Found: t 
+Top five: t, x, f, e, a 
+
+i do not 
+(Space) 
+
+i do not c
+Found: c 
+Top five: c 
+
+i do not ca
+Found: a 
+Top five: a, q 
+
+i do not car
+Found: r 
+Top five: r, n, l, e, b 
+
+i do not carj
+Found: j 
+Top five: j, d, y, e, b 
+
+i do not car
+(Backspace) 
+
+i do not care
+(Corrected / byClick: ) e 
+
+i do not care 
+(Space) 
+
+i do not care i
+Found: i 
+Top five: i, t, r, l, h 
+
+i do not care if
+Found: f 
+Top five: f, a 
+
+i do not care if 
+(Space) 
+
+i do not care if y
+Found: y 
+Top five: y, x, e, d, b 
+
+i do not care if yo
+Found: o 
+Top five: o, c 
+
+i do not care if yon
+Found: n 
+Top five: n, h, m, k, a 
+
+i do not care if yo
+(Backspace) 
+
+i do not care if you
+Found: u 
+Top five: u, n, h, k, a 
+
+i do not care if you 
+(Space) 
+
+i do not care if you  
+(Space) 
+
+i do not care if you  d
+Found: d 
+Top five: d, a 
+
+i do not care if you  
+(Backspace) 
+
+i do not care if you 
+(Backspace) 
+
+i do not care if you  
+(Space) 
+
+i do not care if you 
+(Backspace) 
+
+i do not care if you d
+(Corrected / byClick: ) d 
+
+i do not care if you do
+Found: o 
+Top five: o, c 
+
+i do not care if you do 
+(Space) 
+
+i do not care if you do t
+Found: t 
+Top five: t, f, b, a 
+
+i do not care if you do th
+Found: h 
+Top five: h, k, a 
+
+i do not care if you do tha
+(Corrected / byClick: ) a 
+
+i do not care if you do that
+Found: t 
+Top five: t, f, d, b, a 
+
+s
+Found: s 
+Top five: s, e, u, c 
+
+
+(Backspace) 
+
+e
+(Corrected / byClick: ) e 
+
+ev
+Found: v 
+Top five: v, t, r, l, b 
+
+eve
+Found: e 
+Top five: e, x, g, a 
+
+ever
+Found: r 
+Top five: r, n, l, h, d 
+
+every
+Found: y 
+Top five: y, r, g, e, b 
+
+everyo
+Found: o 
+Top five: o, c 
+
+everyon
+Found: n 
+Top five: n, k, a 
+
+everyone
+Found: e 
+Top five: e, d, b, a 
+
+everyone 
+(Space) 
+
+everyone w
+Found: w 
+Top five: w 
+
+everyone wa
+Found: a 
+Top five: a, q, x, u, p 
+
+everyone wan
+Found: n 
+Top five: n, h, k, a 
+
+everyone wany
+Found: y 
+Top five: y, t, f, b, a 
+
+everyone wan
+(Backspace) 
+
+everyone want
+(Corrected / byClick: ) t 
+
+everyone wants
+Found: s 
+Top five: s, c, o 
+
+everyone wants 
+(Space) 
+
+everyone wants t
+Found: t 
+Top five: t, f, e, b, a 
+
+everyone wants to
+Found: o 
+Top five: o, c 
+
+everyone wants to 
+(Space) 
+
+everyone wants to m
+Found: m 
+Top five: m, k, a 
+
+everyone wants to 
+(Backspace) 
+
+everyone wants to w
+Found: w 
+Top five: w 
+
+everyone wants to wi
+Found: i 
+Top five: i, h, f, e, a 
+
+everyone wants to win
+Found: n 
+Top five: n, k, h, a 
+
+everyone wants to win 
+(Space) 
+
+everyone wants to win t
+Found: t 
+Top five: t, f, e, d, a 
+
+everyone wants to win th
+Found: h 
+Top five: h, k, i, a 
+
+everyone wants to win the
+Found: e 
+Top five: e, j, d, a 
+
+everyone wants to win the 
+(Space) 
+
+everyone wants to win the l
+Found: l 
+Top five: l, f, b, a 
+
+everyone wants to win the lo
+Found: o 
+Top five: o, c 
+
+everyone wants to win the lot
+Found: t 
+Top five: t, f, b, a 
+
+everyone wants to win the lott
+Found: t 
+Top five: t, f, b, a 
+
+everyone wants to win the lotte
+Found: e 
+Top five: e, u, c 
+
+everyone wants to win the lotter
+Found: r 
+Top five: r, l, h, b, a 
+
+everyone wants to win the lottery
+Found: y 
+Top five: y, x, g, e, d 
+
+a
+Found: a 
+Top five: a, u 
+
+an
+Found: n 
+Top five: n, d, h, e, b 
+
+an 
+(Space) 
+
+an o
+Found: o 
+Top five: o, c 
+
+an oh
+Found: h 
+Top five: h, f, a, k 
+
+an o
+(Backspace) 
+
+an of
+(Corrected / byClick: ) f 
+
+an off
+(Corrected / byClick: ) f 
+
+an offe
+Found: e 
+Top five: e, c, u, s 
+
+an offer
+Found: r 
+Top five: r, d, h, e, b 
+
+an offer 
+(Space) 
+
+an offer y
+Found: y 
+Top five: y, x, b, a 
+
+an offer yo
+Found: o 
+Top five: o, c 
+
+an offer you
+Found: u 
+Top five: u, m, n, a, k 
+
+an offer you 
+(Space) 
+
+an offer you s
+Found: s 
+Top five: s, e, c 
+
+an offer you 
+(Backspace) 
+
+an offer you c
+(Corrected / byClick: ) c 
+
+an offer you ca
+Found: a 
+Top five: a, v, u, d 
+
+an offer you can
+Found: n 
+Top five: n, h, a, k 
+
+an offer you cann
+Found: n 
+Top five: n, h, k, a 
+
+an offer you canne
+Found: e 
+Top five: e, s, o, c 
+
+an offer you cann
+(Backspace) 
+
+an offer you canno
+(Corrected / byClick: ) o 
+
+an offer you cannot
+Found: t 
+Top five: t, f, b, a 
+
+an offer you cannot 
+(Space) 
+
+an offer you cannot r
+Found: r 
+Top five: r, n, l, e, d 
+
+an offer you cannot rd
+Found: d 
+Top five: d, e, b, a 
+
+an offer you cannot r
+(Backspace) 
+
+an offer you cannot re
+(Corrected / byClick: ) e 
+
+an offer you cannot reh
+Found: h 
+Top five: h, f, a, k 
+
+an offer you cannot re
+(Backspace) 
+
+an offer you cannot ref
+(Corrected / byClick: ) f 
+
+an offer you cannot refu
+Found: u 
+Top five: u, n, k, a 
+
+an offer you cannot reful
+Found: l 
+Top five: l, x, t, p, f 
+
+an offer you cannot refu
+(Backspace) 
+
+an offer you cannot refus
+Found: s 
+Top five: s, c, u 
+
+an offer you cannot refuse
+Found: e 
+Top five: e, d, a 
+
+a
+Found: a 
+Top five: a, u 
+
+a 
+(Space) 
+
+a q
+Found: q 
+Top five: q, d, e, k, a 
+
+a 
+(Backspace) 
+
+a q
+Found: q 
+Top five: q, g, a 
+
+a 
+(Backspace) 
+
+a g
+(Corrected / byClick: ) g 
+
+a go
+Found: o 
+Top five: o, c 
+
+a goo
+Found: o 
+Top five: o, c 
+
+a good
+Found: d 
+Top five: d, a 
+
+a good 
+(Space) 
+
+a good m
+Found: m 
+Top five: m, a, v, t, q 
+
+a good 
+(Backspace) 
+
+a good f
+Found: f 
+Top five: f, d, a 
+
+a good 
+(Backspace) 
+
+a good j
+Found: j 
+Top five: j, i, t, f, v 
+
+a good js
+Found: s 
+Top five: s, o, c 
+
+a good j
+(Backspace) 
+
+a good jo
+(Corrected / byClick: ) o 
+
+a good jok
+Found: k 
+Top five: k, a 
+
+a good joke
+Found: e 
+Top five: e, j, d, b, a 
+
+a good joke 
+(Space) 
+
+a good joke d
+Found: d 
+Top five: d, x, b, a 
+
+a good joke de
+Found: e 
+Top five: e, u, s, c 
+
+a good joke des
+Found: s 
+Top five: s, c 
+
+a good joke dese
+Found: e 
+Top five: e, c, u 
+
+a good joke deser
+Found: r 
+Top five: r, d, n, h, e 
+
+a good joke deserv
+Found: v 
+Top five: v, r, q, p, n 
+
+a good joke deserve
+Found: e 
+Top five: e, u, c 
+
+a good joke deserves
+Found: s 
+Top five: s, c 
+
+a good joke deserves 
+(Space) 
+
+a good joke deserves a
+Found: a 
+Top five: a, q, u 
+
+a good joke deserves a 
+(Space) 
+
+a good joke deserves a y
+Found: y 
+Top five: y, q, g, f, e 
+
+a good joke deserves a 
+(Backspace) 
+
+a good joke deserves a g
+(Corrected / byClick: ) g 
+
+a good joke deserves a go
+Found: o 
+Top five: o, c 
+
+a good joke deserves a goo
+Found: o 
+Top five: o, c 
+
+a good joke deserves a good
+Found: d 
+Top five: d, x, b, a 
+
+a good joke deserves a good 
+(Space) 
+
+a good joke deserves a good l
+Found: l 
+Top five: l, f, b, a 
+
+a good joke deserves a good la
+Found: a 
+Top five: a, q 
+
+a good joke deserves a good lau
+Found: u 
+Top five: u, g, d, a 
+
+a good joke deserves a good laug
+(Corrected / byClick: ) g 
+
+a good joke deserves a good laugh
+Found: h 
+Top five: h, k, a 
+

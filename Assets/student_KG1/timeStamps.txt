@@ -1,0 +1,165 @@
+hello world
+No Text correct: False
+start: 110.8426, firstLetter: 0, endTime: 113.0305
+phrase time: 113.0305
+WPM: 0.636995980935447
+ER: 50% with |T| = 2, INF =1
+KSPC: 0 
+EKS ER: 9.090909% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 11
+#Transcribed Length: 2
+
+Start Evaluation
+No Text correct: False
+start: 113.0305, firstLetter: 0, endTime: 114.1954
+phrase time: 114.1954
+WPM: 0.630498102496268
+ER: 250% with |T| = 2, INF =5
+KSPC: 0 
+EKS ER: 31.25% 
+Total ER: 83.33334% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 16
+#Transcribed Length: 2
+
+never mix religion and politics
+Text:never mix religion and politics correct: True
+start: 114.1954, firstLetter: 117.2734, endTime: 210.0978
+phrase time: 92.82437
+WPM: 4.52467378929134
+ER: 0% with |T| = 31, INF =0
+KSPC: 1.193548 
+EKS ER: 9.67742% 
+Total ER: 8.823529% 
+#Space: 4, #Backspace: 3
+#ByClick: 3, #RecChars: 27
+#InputStream: 37
+#Display Length: 31
+#Transcribed Length: 31
+
+Pause
+No Text correct: False
+start: 210.0978, firstLetter: 0, endTime: 212.7186
+phrase time: 212.7186
+WPM: 0.338475293399312
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+i do not care if you do that
+Text:i do not care if you do that correct: True
+start: 212.7186, firstLetter: 218.4607, endTime: 308.2648
+phrase time: 89.80411
+WPM: 4.27597367180696
+ER: 0% with |T| = 28, INF =0
+KSPC: 1.5 
+EKS ER: 25% 
+Total ER: 20% 
+#Space: 10, #Backspace: 7
+#ByClick: 4, #RecChars: 21
+#InputStream: 42
+#Display Length: 28
+#Transcribed Length: 28
+
+Pause
+No Text correct: False
+start: 308.2648, firstLetter: 0, endTime: 312.4184
+phrase time: 312.4184
+WPM: 0.230460203226917
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+everyone wants to win the lottery
+Text:everyone wants to win the lottery correct: True
+start: 312.4184, firstLetter: 318.6264, endTime: 406.7661
+phrase time: 88.13968
+WPM: 5.03745878432677
+ER: 0% with |T| = 33, INF =0
+KSPC: 1.181818 
+EKS ER: 9.090909% 
+Total ER: 8.333333% 
+#Space: 5, #Backspace: 3
+#ByClick: 2, #RecChars: 29
+#InputStream: 39
+#Display Length: 33
+#Transcribed Length: 33
+
+Pause
+No Text correct: False
+start: 406.7661, firstLetter: 0, endTime: 415.1495
+phrase time: 415.1495
+WPM: 0.173431483678609
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+an offer you cannot refuse
+Text:an offer you cannot refuse correct: True
+start: 415.1495, firstLetter: 417.9593, endTime: 497.6161
+phrase time: 79.65677
+WPM: 4.51938994549445
+ER: 0% with |T| = 26, INF =0
+KSPC: 1.461538 
+EKS ER: 23.07692% 
+Total ER: 18.75% 
+#Space: 4, #Backspace: 6
+#ByClick: 6, #RecChars: 22
+#InputStream: 38
+#Display Length: 26
+#Transcribed Length: 26
+
+Pause
+No Text correct: False
+start: 497.6161, firstLetter: 0, endTime: 499.6114
+phrase time: 499.6114
+WPM: 0.144112015778866
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+a good joke deserves a good laugh
+Text:a good joke deserves a good laugh correct: True
+start: 499.6114, firstLetter: 501.9992, endTime: 609.7986
+phrase time: 107.7994
+WPM: 4.11876219082373
+ER: 0% with |T| = 33, INF =0
+KSPC: 1.363636 
+EKS ER: 18.18182% 
+Total ER: 15.38461% 
+#Space: 6, #Backspace: 6
+#ByClick: 4, #RecChars: 29
+#InputStream: 45
+#Display Length: 33
+#Transcribed Length: 33
+

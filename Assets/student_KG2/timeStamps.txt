@@ -1,10 +1,10 @@
 hello world
 No Text correct: False
-start: 79.9762, firstLetter: 0, endTime: 80.53174
-phrase time: 80.53174
-WPM: 0.894057442899672
+start: 16.52524, firstLetter: 0, endTime: 17.19199
+phrase time: 17.19199
+WPM: 4.18799780597039
 ER: 50% with |T| = 2, INF =1
-KSPC: 0% 
+KSPC: 0 
 EKS ER: 9.090909% 
 Total ER: 100% 
 #Space: 0, #Backspace: 0
@@ -15,11 +15,11 @@ Total ER: 100%
 
 Start Evaluation
 No Text correct: False
-start: 80.53174, firstLetter: 0, endTime: 81.74203
-phrase time: 81.74203
-WPM: 0.880819765221355
+start: 17.19199, firstLetter: 0, endTime: 18.66936
+phrase time: 18.66936
+WPM: 3.8565861765924
 ER: 250% with |T| = 2, INF =5
-KSPC: 0% 
+KSPC: 0 
 EKS ER: 31.25% 
 Total ER: 83.33334% 
 #Space: 0, #Backspace: 0
@@ -28,88 +28,118 @@ Total ER: 83.33334%
 #Display Length: 16
 #Transcribed Length: 2
 
-thank you for your help
-Text:thank you for your help correct: True
-start: 81.74203, firstLetter: 88.28366, endTime: 161.7466
-phrase time: 73.46294
-WPM: 4.41038727651472
-ER: 0% with |T| = 23, INF =0
-KSPC: 1.347826% 
-EKS ER: 17.3913% 
-Total ER: 14.81481% 
-#Space: 4, #Backspace: 4
-#ByClick: 6, #RecChars: 17
-#InputStream: 31
-#Display Length: 23
-#Transcribed Length: 23
-
-Pause
-No Text correct: False
-start: 161.7466, firstLetter: 0, endTime: 164.8267
-phrase time: 164.8267
-WPM: 0.436822457004122
-ER: -250% with |T| = 2, INF =-5
-KSPC: 0% 
-EKS ER: -100% 
-Total ER: 100% 
-#Space: 0, #Backspace: 0
-#ByClick: 0, #RecChars: 0
-#InputStream: 0
-#Display Length: 5
-#Transcribed Length: 2
-
-knee bone is connected to the thigh bone
-Text:knee bone is connected to the thigh bone correct: True
-start: 164.8267, firstLetter: 169.28, endTime: 324.9628
-phrase time: 155.6829
-WPM: 3.3915097894869
-ER: 0% with |T| = 40, INF =0
-KSPC: 1.6% 
-EKS ER: 30% 
-Total ER: 23.07692% 
-#Space: 7, #Backspace: 12
-#ByClick: 12, #RecChars: 33
-#InputStream: 64
-#Display Length: 40
-#Transcribed Length: 40
-
-Pause
-No Text correct: False
-start: 324.9628, firstLetter: 0, endTime: 327.9531
-phrase time: 327.9531
-WPM: 0.219543611300788
-ER: -250% with |T| = 2, INF =-5
-KSPC: 0% 
-EKS ER: -100% 
-Total ER: 100% 
-#Space: 0, #Backspace: 0
-#ByClick: 0, #RecChars: 0
-#InputStream: 0
-#Display Length: 5
-#Transcribed Length: 2
-
-universally understood to be wrong
-Text:universally understood to be wrong correct: True
-start: 327.9531, firstLetter: 334.5166, endTime: 440.5577
-phrase time: 106.0411
-WPM: 4.30021915214166
-ER: 0% with |T| = 34, INF =0
-KSPC: 1.352941% 
-EKS ER: 17.64706% 
-Total ER: 15% 
+peering through a small hole
+Text:peering through a small hole correct: True
+start: 18.66936, firstLetter: 22.13368, endTime: 104.2994
+phrase time: 82.16573
+WPM: 4.67348118633731
+ER: 0% with |T| = 28, INF =0
+KSPC: 1.428571 
+EKS ER: 21.42857% 
+Total ER: 17.64706% 
 #Space: 4, #Backspace: 6
-#ByClick: 7, #RecChars: 29
-#InputStream: 46
+#ByClick: 8, #RecChars: 22
+#InputStream: 40
+#Display Length: 28
+#Transcribed Length: 28
+
+Pause
+No Text correct: False
+start: 104.2994, firstLetter: 0, endTime: 106.1289
+phrase time: 106.1289
+WPM: 0.678420355923277
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+dolphins leap high out of the water
+Text:dolphins leap high out of the water correct: True
+start: 106.1289, firstLetter: 111.5379, endTime: 226.6203
+phrase time: 115.0825
+WPM: 4.0666493062093
+ER: 0% with |T| = 35, INF =0
+KSPC: 1.285714 
+EKS ER: 14.28571% 
+Total ER: 12.5% 
+#Space: 6, #Backspace: 5
+#ByClick: 3, #RecChars: 31
+#InputStream: 45
+#Display Length: 35
+#Transcribed Length: 35
+
+Pause
+No Text correct: False
+start: 226.6203, firstLetter: 0, endTime: 229.6958
+phrase time: 229.6958
+WPM: 0.313458080374572
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+shivering is one way to keep warm
+Text:shivering is one way to keep warm correct: True
+start: 229.6958, firstLetter: 233.9156, endTime: 331.3023
+phrase time: 97.38666
+WPM: 4.55914609268211
+ER: 0% with |T| = 33, INF =0
+KSPC: 1.30303 
+EKS ER: 15.15152% 
+Total ER: 13.1579% 
+#Space: 6, #Backspace: 5
+#ByClick: 4, #RecChars: 28
+#InputStream: 43
+#Display Length: 33
+#Transcribed Length: 33
+
+Pause
+No Text correct: False
+start: 331.3023, firstLetter: 0, endTime: 333.5261
+phrase time: 333.5261
+WPM: 0.215875144478206
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+taking the train is usually faster
+Text:taking the train is usually faster correct: True
+start: 333.5261, firstLetter: 339.2234, endTime: 456.6004
+phrase time: 117.377
+WPM: 3.88491938033513
+ER: 0% with |T| = 34, INF =0
+KSPC: 1.647059 
+EKS ER: 32.35294% 
+Total ER: 24.44444% 
+#Space: 5, #Backspace: 11
+#ByClick: 9, #RecChars: 31
+#InputStream: 56
 #Display Length: 34
 #Transcribed Length: 34
 
 Pause
 No Text correct: False
-start: 440.5577, firstLetter: 0, endTime: 442.8234
-phrase time: 442.8234
-WPM: 0.162593035619809
+start: 456.6004, firstLetter: 0, endTime: 495.0084
+phrase time: 495.0084
+WPM: 0.145452070462224
 ER: -250% with |T| = 2, INF =-5
-KSPC: 0% 
+KSPC: 0 
 EKS ER: -100% 
 Total ER: 100% 
 #Space: 0, #Backspace: 0
@@ -118,48 +148,18 @@ Total ER: 100%
 #Display Length: 5
 #Transcribed Length: 2
 
-not quite so smart as you think
-Text:not quite so smart as you think correct: True
-start: 442.8234, firstLetter: 448.8657, endTime: 536.4116
-phrase time: 87.54584
-WPM: 4.7974868076224
-ER: 0% with |T| = 31, INF =0
-KSPC: 1.322581% 
-EKS ER: 16.12903% 
-Total ER: 13.88889% 
-#Space: 6, #Backspace: 5
-#ByClick: 5, #RecChars: 25
-#InputStream: 41
-#Display Length: 31
-#Transcribed Length: 31
-
-Pause
-No Text correct: False
-start: 536.4116, firstLetter: 0, endTime: 539.2909
-phrase time: 539.2909
-WPM: 0.133508651565426
-ER: -250% with |T| = 2, INF =-5
-KSPC: 0% 
-EKS ER: -100% 
-Total ER: 100% 
-#Space: 0, #Backspace: 0
-#ByClick: 0, #RecChars: 0
-#InputStream: 0
-#Display Length: 5
-#Transcribed Length: 2
-
-do not lie in court or else
-Text:do not lie in court or else correct: True
-start: 539.2909, firstLetter: 544.2666, endTime: 662.2592
-phrase time: 117.9926
-WPM: 3.15274132392574
-ER: 0% with |T| = 27, INF =0
-KSPC: 1.740741% 
-EKS ER: 37.03704% 
-Total ER: 27.02703% 
-#Space: 6, #Backspace: 10
-#ByClick: 2, #RecChars: 29
-#InputStream: 47
-#Display Length: 27
-#Transcribed Length: 27
+you should visit to a doctor
+Text:you should visit to a doctor correct: True
+start: 495.0084, firstLetter: 498.9737, endTime: 587.375
+phrase time: 88.40131
+WPM: 4.34382722058705
+ER: 0% with |T| = 28, INF =0
+KSPC: 1.428571 
+EKS ER: 21.42857% 
+Total ER: 17.64706% 
+#Space: 5, #Backspace: 6
+#ByClick: 7, #RecChars: 22
+#InputStream: 40
+#Display Length: 28
+#Transcribed Length: 28
 
