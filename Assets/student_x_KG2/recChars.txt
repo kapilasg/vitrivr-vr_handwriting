@@ -1,0 +1,856 @@
+m
+Found: m 
+Top five: m, e, z, w 
+
+
+(Backspace) 
+
+t
+Found: t 
+Top five: t, f, d, b, a 
+
+th
+Found: h 
+Top five: h, b, a 
+
+tha
+Found: a 
+Top five: a 
+
+thap
+Found: p 
+Top five: p, n, d, h, e 
+
+tha
+(Backspace) 
+
+than
+(Corrected / byClick: ) n 
+
+thank
+Found: k 
+Top five: k, a 
+
+thank 
+(Space) 
+
+thank y
+Found: y 
+Top five: y, g, e, a 
+
+thank yo
+Found: o 
+Top five: o, c 
+
+thank yod
+Found: d 
+Top five: d, u, a, t, b 
+
+thank yo
+(Backspace) 
+
+thank you
+(Corrected / byClick: ) u 
+
+thank you 
+(Space) 
+
+thank you f
+Found: f 
+Top five: f, a, k 
+
+thank you fo
+Found: o 
+Top five: o, c 
+
+thank you for
+Found: r 
+Top five: r, l, d, b, a 
+
+thank you for 
+(Space) 
+
+thank you for y
+Found: y 
+Top five: y, x, e, b, a 
+
+thank you for ye
+Found: e 
+Top five: e, o, c 
+
+thank you for y
+(Backspace) 
+
+thank you for yo
+(Corrected / byClick: ) o 
+
+thank you for you
+Found: u 
+Top five: u, d, a 
+
+thank you for your
+Found: r 
+Top five: r, l, h, e, b 
+
+thank you for your 
+(Space) 
+
+thank you for your h
+(Corrected / byClick: ) h 
+
+thank you for your he
+(Corrected / byClick: ) e 
+
+thank you for your hel
+(Corrected / byClick: ) l 
+
+thank you for your help
+Found: p 
+Top five: p, h, b, a 
+
+k
+Found: k 
+Top five: k, a 
+
+kk
+Found: k 
+Top five: k, r, d, n, h 
+
+k
+(Backspace) 
+
+kn
+(Corrected / byClick: ) n 
+
+kne
+Found: e 
+Top five: e, y, b, a 
+
+knee
+Found: e 
+Top five: e, b, a 
+
+knee 
+(Space) 
+
+knee b
+Found: b 
+Top five: b, p, h, a 
+
+knee bo
+Found: o 
+Top five: o, c 
+
+knee boh
+Found: h 
+Top five: h, e, b, a 
+
+knee bo
+(Backspace) 
+
+knee bod
+Found: d 
+Top five: d, n, h, e, a 
+
+knee bo
+(Backspace) 
+
+knee bon
+(Corrected / byClick: ) n 
+
+knee bone
+(Corrected / byClick: ) e 
+
+knee bone 
+(Space) 
+
+knee bone i
+Found: i 
+Top five: i, t, b, a 
+
+knee bone is
+Found: s 
+Top five: s, c, u 
+
+knee bone is 
+(Space) 
+
+knee bone is s
+Found: s 
+Top five: s, e, c 
+
+knee bone is 
+(Backspace) 
+
+knee bone is c
+(Corrected / byClick: ) c 
+
+knee bone is co
+Found: o 
+Top five: o, c 
+
+knee bone is con
+Found: n 
+Top five: n, h, r, l, e 
+
+knee bone is conn
+(Corrected / byClick: ) n 
+
+knee bone is conne
+Found: e 
+Top five: e, o, c 
+
+knee bone is connec
+(Corrected / byClick: ) c 
+
+knee bone is connect
+Found: t 
+Top five: t, f, e, a 
+
+knee bone is connecte
+(Corrected / byClick: ) e 
+
+knee bone is connectea
+Found: a 
+Top five: a 
+
+knee bone is connecte
+(Backspace) 
+
+knee bone is connectea
+Found: a 
+Top five: a 
+
+knee bone is connectead
+Found: d 
+Top five: d, a 
+
+knee bone is connectea
+(Backspace) 
+
+knee bone is connecte
+(Backspace) 
+
+knee bone is connected
+(Corrected / byClick: ) d 
+
+knee bone is connected 
+(Space) 
+
+knee bone is connected x
+Found: x 
+Top five: x, t, p, e, b 
+
+knee bone is connected 
+(Backspace) 
+
+knee bone is connected t
+(Corrected / byClick: ) t 
+
+knee bone is connected to
+Found: o 
+Top five: o, c 
+
+knee bone is connected to 
+(Space) 
+
+knee bone is connected to t
+Found: t 
+Top five: t, f, b, a 
+
+knee bone is connected to th
+Found: h 
+Top five: h, r, b, a 
+
+knee bone is connected to the
+Found: e 
+Top five: e, o, c 
+
+knee bone is connected to the 
+(Space) 
+
+knee bone is connected to the t
+Found: t 
+Top five: t, h, f, e, b 
+
+knee bone is connected to the th
+Found: h 
+Top five: h, u, n, a, k 
+
+knee bone is connected to the thk
+Found: k 
+Top five: k, h, f, m, a 
+
+knee bone is connected to the th
+(Backspace) 
+
+knee bone is connected to the thi
+Found: i 
+Top five: i, e, d, b, a 
+
+knee bone is connected to the thij
+Found: j 
+Top five: j, d, y, g, e 
+
+knee bone is connected to the thi
+(Backspace) 
+
+knee bone is connected to the thig
+(Corrected / byClick: ) g 
+
+knee bone is connected to the thigh
+Found: h 
+Top five: h, y, k, i, f 
+
+knee bone is connected to the thigh 
+(Space) 
+
+knee bone is connected to the thigh p
+Found: p 
+Top five: p, l, h, b, a 
+
+knee bone is connected to the thigh 
+(Backspace) 
+
+knee bone is connected to the thigh b
+(Corrected / byClick: ) b 
+
+knee bone is connected to the thigh bo
+Found: o 
+Top five: o, c 
+
+knee bone is connected to the thigh boh
+Found: h 
+Top five: h, p, n, e, a 
+
+knee bone is connected to the thigh bo
+(Backspace) 
+
+knee bone is connected to the thigh bon
+(Corrected / byClick: ) n 
+
+knee bone is connected to the thigh bone
+Found: e 
+Top five: e, u, c 
+
+u
+Found: u 
+Top five: u, n, h, k, a 
+
+un
+(Corrected / byClick: ) n 
+
+uni
+Found: i 
+Top five: i, t, e, b, a 
+
+univ
+Found: v 
+Top five: v, r, d, b, a 
+
+unive
+Found: e 
+Top five: e, o, c 
+
+univer
+Found: r 
+Top five: r, d, n, h, e 
+
+univeru
+Found: u 
+Top five: u, s, c 
+
+univer
+(Backspace) 
+
+univers
+(Corrected / byClick: ) s 
+
+universa
+Found: a 
+Top five: a, u 
+
+universal
+Found: l 
+Top five: l, t, r, f, d 
+
+universall
+Found: l 
+Top five: l, t, e, b, a 
+
+universally
+Found: y 
+Top five: y, x, e, d, b 
+
+universally 
+(Space) 
+
+universally a
+Found: a 
+Top five: a, u 
+
+universally 
+(Backspace) 
+
+universally u
+(Corrected / byClick: ) u 
+
+universally un
+Found: n 
+Top five: n, r, h, e, b 
+
+universally und
+Found: d 
+Top five: d, a, v, x, u 
+
+universally unde
+Found: e 
+Top five: e, d, b, a 
+
+universally under
+Found: r 
+Top five: r, d, n, h, b 
+
+universally unders
+Found: s 
+Top five: s, n, g, e, a 
+
+universally underst
+Found: t 
+Top five: t, l, h, f, e 
+
+universally understa
+Found: a 
+Top five: a, u 
+
+universally underst
+(Backspace) 
+
+universally understo
+Found: o 
+Top five: o, c 
+
+universally understoo
+(Corrected / byClick: ) o 
+
+universally understoou
+Found: u 
+Top five: u, d, a 
+
+universally understoo
+(Backspace) 
+
+universally understood
+(Corrected / byClick: ) d 
+
+universally understoodt
+Found: t 
+Top five: t, f, e, a 
+
+universally understood
+(Backspace) 
+
+universally understood 
+(Space) 
+
+universally understood t
+(Corrected / byClick: ) t 
+
+universally understood to
+Found: o 
+Top five: o, c 
+
+universally understood to 
+(Space) 
+
+universally understood to b
+Found: b 
+Top five: b, p, n, a 
+
+universally understood to be
+Found: e 
+Top five: e, c, u, s 
+
+universally understood to be 
+(Space) 
+
+universally understood to be w
+Found: w 
+Top five: w 
+
+universally understood to be wr
+Found: r 
+Top five: r, n, l, h, e 
+
+universally understood to be wro
+Found: o 
+Top five: o, c 
+
+universally understood to be wron
+Found: n 
+Top five: n, h, l, r, e 
+
+universally understood to be wronq
+Found: q 
+Top five: q, g, a 
+
+universally understood to be wron
+(Backspace) 
+
+universally understood to be wrong
+(Corrected / byClick: ) g 
+
+n
+Found: n 
+Top five: n, l, d, p, e 
+
+no
+Found: o 
+Top five: o, c 
+
+not
+Found: t 
+Top five: t, f, b, a 
+
+not 
+(Space) 
+
+not h
+Found: h 
+Top five: h, k, g, f, a 
+
+not 
+(Backspace) 
+
+not q
+Found: q 
+Top five: q, y, g, a 
+
+not qu
+Found: u 
+Top five: u, a, d 
+
+not qui
+Found: i 
+Top five: i, e, a 
+
+not quit
+Found: t 
+Top five: t, f, b, a 
+
+not quitx
+Found: x 
+Top five: x, y, r, l, e 
+
+not quit
+(Backspace) 
+
+not quite
+Found: e 
+Top five: e, o, u, s, c 
+
+not quite 
+(Space) 
+
+not quite s
+(Corrected / byClick: ) s 
+
+not quite so
+(Corrected / byClick: ) o 
+
+not quite so 
+(Space) 
+
+not quite so s
+(Corrected / byClick: ) s 
+
+not quite so sm
+Found: m 
+Top five: m, w 
+
+not quite so smx
+Found: x 
+Top five: x, q, t, a 
+
+not quite so sm
+(Backspace) 
+
+not quite so sma
+(Corrected / byClick: ) a 
+
+not quite so smar
+Found: r 
+Top five: r, n, l, h, e 
+
+not quite so smart
+Found: t 
+Top five: t, l, f, e, b 
+
+not quite so smart 
+(Space) 
+
+not quite so smart a
+Found: a 
+Top five: a, u 
+
+not quite so smart ae
+Found: e 
+Top five: e, j, d, g, a 
+
+not quite so smart a
+(Backspace) 
+
+not quite so smart as
+Found: s 
+Top five: s, c, o 
+
+not quite so smart asy
+Found: y 
+Top five: y, r, q, g, b 
+
+not quite so smart as
+(Backspace) 
+
+not quite so smart as 
+(Space) 
+
+not quite so smart as y
+(Corrected / byClick: ) y 
+
+not quite so smart as yo
+Found: o 
+Top five: o, c 
+
+not quite so smart as you
+Found: u 
+Top five: u, d, a 
+
+not quite so smart as you 
+(Space) 
+
+not quite so smart as you t
+Found: t 
+Top five: t, f, e, b, a 
+
+not quite so smart as you th
+Found: h 
+Top five: h, k, f, a 
+
+not quite so smart as you thi
+Found: i 
+Top five: i, e, b, a 
+
+not quite so smart as you thin
+Found: n 
+Top five: n, k, r, h, e 
+
+not quite so smart as you think
+Found: k 
+Top five: k, a 
+
+n
+Found: n 
+Top five: n, e, a, k 
+
+
+(Backspace) 
+
+d
+Found: d 
+Top five: d, a 
+
+do
+Found: o 
+Top five: o, c 
+
+do 
+(Space) 
+
+do n
+Found: n 
+Top five: n, f, k, a 
+
+do no
+Found: o 
+Top five: o, c 
+
+do nop
+Found: p 
+Top five: p, f, e, b, a 
+
+do no
+(Backspace) 
+
+do not
+Found: t 
+Top five: t, p, h, f, e 
+
+do not 
+(Space) 
+
+do not l
+Found: l 
+Top five: l, f, b, a 
+
+do not li
+Found: i 
+Top five: i, y, x, e, b 
+
+do not lie
+Found: e 
+Top five: e, c, u 
+
+do not liei
+Found: i 
+Top five: i, l, f, e, d 
+
+do not lie
+(Backspace) 
+
+do not lie 
+(Space) 
+
+do not lie i
+(Corrected / byClick: ) i 
+
+do not lie in
+Found: n 
+Top five: n, h, r, l, d 
+
+do not lie in 
+(Space) 
+
+do not lie in c
+Found: c 
+Top five: c 
+
+do not lie in co
+Found: o 
+Top five: o, c 
+
+do not lie in cou
+Found: u 
+Top five: u, d, b, a 
+
+do not lie in cour
+Found: r 
+Top five: r, n, h, e, d 
+
+do not lie in coura
+Found: a 
+Top five: a, k 
+
+do not lie in cour
+(Backspace) 
+
+do not lie in courf
+Found: f 
+Top five: f, a, k 
+
+do not lie in cour
+(Backspace) 
+
+do not lie in court
+Found: t 
+Top five: t, f, d, b, a 
+
+do not lie in court 
+(Space) 
+
+do not lie in court e
+Found: e 
+Top five: e, o, c, s 
+
+do not lie in court 
+(Backspace) 
+
+do not lie in court o
+(Corrected / byClick: ) o 
+
+do not lie in court on
+Found: n 
+Top five: n, k, h, a 
+
+do not lie in court o
+(Backspace) 
+
+do not lie in court or
+Found: r 
+Top five: r, l, n, h, f 
+
+do not lie in court or 
+(Space) 
+
+do not lie in court or o
+Found: o 
+Top five: o, c 
+
+do not lie in court or 
+(Backspace) 
+
+do not lie in court or u
+Found: u 
+Top five: u, o, s, c 
+
+do not lie in court or 
+(Backspace) 
+
+do not lie in court or s
+Found: s 
+Top five: s, c 
+
+do not lie in court or 
+(Backspace) 
+
+do not lie in court or e
+Found: e 
+Top five: e, d, b, a 
+
+do not lie in court or el
+Found: l 
+Top five: l, b, a 
+
+do not lie in court or els
+Found: s 
+Top five: s, u, e, c 
+
+do not lie in court or else
+Found: e 
+Top five: e, n, o, c 
+
+t
+Found: t 
+Top five: t, x, g, b, a 
+
+tq
+Found: q 
+Top five: q, a, t, g 
+
+tqy
+Found: y 
+Top five: y, x, r, e, d 
+
+tqyt
+Found: t 
+Top five: t, l, x, f, e 
+
+tqytz
+Found: z 
+Top five: z, a, k 
+
+tqytzx
+Found: x 
+Top five: x, t, l, h, f 
+
+tqytzxd
+Found: d 
+Top five: d, b, a 
+
+tqytzxdi
+Found: i 
+Top five: i, l, r, d, b 
+
+tqytzxdid
+Found: d 
+Top five: d, m, e, z, w 
+
