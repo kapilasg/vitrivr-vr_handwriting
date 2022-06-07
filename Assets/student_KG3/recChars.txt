@@ -1,0 +1,660 @@
+f
+Found: f 
+Top five: f, t, a 
+
+
+(Backspace) 
+
+t
+(Corrected / byClick: ) t 
+
+th
+Found: h 
+Top five: h, b, a 
+
+the
+Found: e 
+Top five: e, o, c 
+
+they
+Found: y 
+Top five: y, r, b, a 
+
+they 
+(Space) 
+
+they m
+Found: m 
+Top five: m, e, w 
+
+they mi
+Found: i 
+Top five: i, e, b, a 
+
+they miy
+Found: y 
+Top five: y, q, g, e, a 
+
+they mi
+(Backspace) 
+
+they mig
+(Corrected / byClick: ) g 
+
+they migh
+Found: h 
+Top five: h, l, f, b, a 
+
+they might
+Found: t 
+Top five: t, f, a 
+
+they might 
+(Space) 
+
+they might f
+(Corrected / byClick: ) f 
+
+they might fi
+Found: i 
+Top five: i, y, v, r, l 
+
+they might fin
+Found: n 
+Top five: n, r, d, x, h 
+
+they might find
+Found: d 
+Top five: d, u, x, b, a 
+
+they might find 
+(Space) 
+
+they might find y
+Found: y 
+Top five: y, v, q, g, e 
+
+they might find yo
+Found: o 
+Top five: o, c 
+
+they might find you
+Found: u 
+Top five: u, d, n, f, a 
+
+they might find your
+Found: r 
+Top five: r, d, n, b, a 
+
+they might find your 
+(Space) 
+
+they might find your s
+Found: s 
+Top five: s, c, u 
+
+they might find your 
+(Backspace) 
+
+they might find your c
+(Corrected / byClick: ) c 
+
+they might find your co
+Found: o 
+Top five: o, c 
+
+they might find your com
+Found: m 
+Top five: m, w, e 
+
+they might find your comm
+Found: m 
+Top five: m 
+
+they might find your comme
+Found: e 
+Top five: e, o, u, s, c 
+
+they might find your commer
+Found: r 
+Top five: r, d, n, h, f 
+
+they might find your comme
+(Backspace) 
+
+they might find your commen
+(Corrected / byClick: ) n 
+
+they might find your comment
+Found: t 
+Top five: t, l, f, e, b 
+
+they might find your comment 
+(Space) 
+
+they might find your comment o
+Found: o 
+Top five: o, c 
+
+they might find your comment of
+Found: f 
+Top five: f, b, a 
+
+they might find your comment off
+Found: f 
+Top five: f, d, b, a 
+
+they might find your comment offk
+Found: k 
+Top five: k, a 
+
+they might find your comment off
+(Backspace) 
+
+they might find your comment offe
+Found: e 
+Top five: e, o, c 
+
+they might find your comment offen
+Found: n 
+Top five: n, h, m, b, a 
+
+they might find your comment offens
+Found: s 
+Top five: s, c 
+
+they might find your comment offensi
+Found: i 
+Top five: i, e, b, a 
+
+they might find your comment offensiv
+Found: v 
+Top five: v, r, q, n, d 
+
+they might find your comment offensive
+Found: e 
+Top five: e, u, c 
+
+t
+Found: t 
+Top five: t, q, p, f, d 
+
+to
+Found: o 
+Top five: o, c 
+
+tos
+Found: s 
+Top five: s, c 
+
+tosu
+Found: u 
+Top five: u, s, c 
+
+tos
+(Backspace) 
+
+toss
+(Corrected / byClick: ) s 
+
+toss 
+(Space) 
+
+toss t
+Found: t 
+Top five: t, f, a 
+
+toss tn
+Found: n 
+Top five: n, h, k, a 
+
+toss t
+(Backspace) 
+
+toss th
+(Corrected / byClick: ) h 
+
+toss the
+Found: e 
+Top five: e, c 
+
+toss the 
+(Space) 
+
+toss the k
+Found: k 
+Top five: k, b, p, a 
+
+toss the 
+(Backspace) 
+
+toss the b
+(Corrected / byClick: ) b 
+
+toss the ba
+(Corrected / byClick: ) a 
+
+toss the bal
+Found: l 
+Top five: l, p, f, b, a 
+
+toss the ball
+(Corrected / byClick: ) l 
+
+toss the ball 
+(Space) 
+
+toss the ball a
+Found: a 
+Top five: a, u, q 
+
+toss the ball ar
+Found: r 
+Top five: r, l, e, b, a 
+
+toss the ball aro
+Found: o 
+Top five: o, c 
+
+toss the ball aron
+Found: n 
+Top five: n, y, k, a 
+
+toss the ball aro
+(Backspace) 
+
+toss the ball arou
+Found: u 
+Top five: u, n, h, f, k 
+
+toss the ball aroun
+(Corrected / byClick: ) n 
+
+toss the ball around
+Found: d 
+Top five: d, u, a, x 
+
+t
+Found: t 
+Top five: t, f, e, b, a 
+
+ti
+Found: i 
+Top five: i, e, b, a 
+
+tim
+Found: m 
+Top five: m 
+
+time
+Found: e 
+Top five: e, u, c 
+
+time 
+(Space) 
+
+time t
+Found: t 
+Top five: t, f, a 
+
+time to
+Found: o 
+Top five: o, c 
+
+time to 
+(Space) 
+
+time to g
+Found: g 
+Top five: g, d, n, j, y 
+
+time to go
+Found: o 
+Top five: o, c 
+
+time to go 
+(Space) 
+
+time to go s
+Found: s 
+Top five: s, u, e, c 
+
+time to go sh
+Found: h 
+Top five: h, n, k, a 
+
+time to go she
+Found: e 
+Top five: e, o, c 
+
+time to go sh
+(Backspace) 
+
+time to go sho
+(Corrected / byClick: ) o 
+
+time to go shop
+Found: p 
+Top five: p, h, b, a 
+
+time to go shopp
+(Corrected / byClick: ) p 
+
+time to go shoppl
+Found: l 
+Top five: l, i, h, e, b 
+
+time to go shopp
+(Backspace) 
+
+time to go shoppi
+(Corrected / byClick: ) i 
+
+time to go shoppin
+Found: n 
+Top five: n, m, h, a, k 
+
+time to go shoppinq
+Found: q 
+Top five: q, g, a 
+
+time to go shoppin
+(Backspace) 
+
+time to go shopping
+(Corrected / byClick: ) g 
+
+t
+Found: t 
+Top five: t, f, a 
+
+th
+Found: h 
+Top five: h, k, a 
+
+thi
+Found: i 
+Top five: i, l, t, h, f 
+
+this
+Found: s 
+Top five: s, c, u, o 
+
+this 
+(Space) 
+
+this w
+Found: w 
+Top five: w 
+
+this wa
+Found: a 
+Top five: a, u 
+
+this wat
+Found: t 
+Top five: t, f, e, b, a 
+
+this watc
+Found: c 
+Top five: c 
+
+this watch
+Found: h 
+Top five: h, k, a 
+
+this watch 
+(Space) 
+
+this watch i
+Found: i 
+Top five: i, u, a 
+
+this watch is
+Found: s 
+Top five: s, c, o 
+
+this watch is 
+(Space) 
+
+this watch is t
+Found: t 
+Top five: t, f, a 
+
+this watch is to
+Found: o 
+Top five: o, c 
+
+this watch is too
+Found: o 
+Top five: o, c 
+
+this watch is too 
+(Space) 
+
+this watch is too e
+Found: e 
+Top five: e, y, a 
+
+this watch is too ex
+Found: x 
+Top five: x, p, e, a 
+
+this watch is too exb
+Found: b 
+Top five: b, h, k, a 
+
+this watch is too ex
+(Backspace) 
+
+this watch is too exk
+Found: k 
+Top five: k, b, p, h, e 
+
+this watch is too ex
+(Backspace) 
+
+this watch is too exp
+(Corrected / byClick: ) p 
+
+this watch is too expe
+Found: e 
+Top five: e, u, c 
+
+this watch is too expep
+Found: p 
+Top five: p, n, d, h, b 
+
+this watch is too expe
+(Backspace) 
+
+this watch is too expen
+(Corrected / byClick: ) n 
+
+this watch is too expenc
+Found: c 
+Top five: c, u 
+
+this watch is too expen
+(Backspace) 
+
+this watch is too expens
+Found: s 
+Top five: s, c, o 
+
+this watch is too expensi
+Found: i 
+Top five: i, b, a 
+
+this watch is too expensiv
+Found: v 
+Top five: v, r, q, n, l 
+
+this watch is too expensivn
+Found: n 
+Top five: n, k, d, h, e 
+
+this watch is too expensiv
+(Backspace) 
+
+this watch is too expensive
+Found: e 
+Top five: e, c, u, s 
+
+m
+Found: m 
+Top five: m, z, w 
+
+my
+Found: y 
+Top five: y, e, b, a 
+
+my 
+(Space) 
+
+my p
+Found: p 
+Top five: p, d, l, h, b 
+
+my pr
+Found: r 
+Top five: r, n, h, e, b 
+
+my pre
+Found: e 
+Top five: e, x, j, y, g 
+
+my preh
+Found: h 
+Top five: h, f, a, k 
+
+my pre
+(Backspace) 
+
+my pref
+(Corrected / byClick: ) f 
+
+my prefe
+Found: e 
+Top five: e, u, c 
+
+my prefer
+Found: r 
+Top five: r, l, h, b, a 
+
+my preferr
+(Corrected / byClick: ) r 
+
+my preferre
+Found: e 
+Top five: e, d, a 
+
+my preferren
+Found: n 
+Top five: n, e, k, a 
+
+my preferre
+(Backspace) 
+
+my preferred
+Found: d 
+Top five: d, a, u 
+
+my preferred 
+(Space) 
+
+my preferred f
+Found: f 
+Top five: f, t, d, b, a 
+
+my preferred 
+(Backspace) 
+
+my preferred t
+(Corrected / byClick: ) t 
+
+my preferred tr
+Found: r 
+Top five: r, n, h, e, d 
+
+my preferred tre
+Found: e 
+Top five: e, d, a 
+
+my preferred trea
+Found: a 
+Top five: a, u 
+
+my preferred treat
+Found: t 
+Top five: t, f, e, b, a 
+
+my preferred treat 
+(Space) 
+
+my preferred treat i
+Found: i 
+Top five: i, b, a 
+
+my preferred treat is
+Found: s 
+Top five: s, u, e, c 
+
+my preferred treat is 
+(Space) 
+
+my preferred treat is c
+(Corrected / byClick: ) c 
+
+my preferred treat is ch
+Found: h 
+Top five: h, f, k, a 
+
+my preferred treat is cho
+Found: o 
+Top five: o, c 
+
+my preferred treat is choe
+Found: e 
+Top five: e, c, s 
+
+my preferred treat is cho
+(Backspace) 
+
+my preferred treat is choc
+(Corrected / byClick: ) c 
+
+my preferred treat is choco
+Found: o 
+Top five: o, c 
+
+my preferred treat is chocol
+Found: l 
+Top five: l, h, f, b, a 
+
+my preferred treat is chocola
+Found: a 
+Top five: a, u 
+
+my preferred treat is chocolan
+Found: n 
+Top five: n, a, k 
+
+my preferred treat is chocola
+(Backspace) 
+
+my preferred treat is chocolai
+Found: i 
+Top five: i, f, a, k 
+
+my preferred treat is chocola
+(Backspace) 
+
+my preferred treat is chocolat
+Found: t 
+Top five: t, f, e, b, a 
+
+my preferred treat is chocolate
+Found: e 
+Top five: e, b, a 
+

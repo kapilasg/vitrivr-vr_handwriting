@@ -1,0 +1,165 @@
+hello world
+No Text correct: False
+start: 87.80695, firstLetter: 0, endTime: 88.52913
+phrase time: 88.52913
+WPM: 0.813291633954371
+ER: 50% with |T| = 2, INF =1
+KSPC: 0 
+EKS ER: 9.090909% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 11
+#Transcribed Length: 2
+
+Start Evaluation
+No Text correct: False
+start: 88.52913, firstLetter: 0, endTime: 89.43998
+phrase time: 89.43998
+WPM: 0.805009128576056
+ER: 250% with |T| = 2, INF =5
+KSPC: 0 
+EKS ER: 31.25% 
+Total ER: 83.33334% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 16
+#Transcribed Length: 2
+
+they might find your comment offensive
+Text:they might find your comment offensive correct: True
+start: 89.43998, firstLetter: 95.68167, endTime: 222.998
+phrase time: 127.3163
+WPM: 3.9586437982776
+ER: 0% with |T| = 38, INF =0
+KSPC: 1.263158 
+EKS ER: 13.1579% 
+Total ER: 11.62791% 
+#Space: 5, #Backspace: 5
+#ByClick: 5, #RecChars: 33
+#InputStream: 48
+#Display Length: 38
+#Transcribed Length: 38
+
+Pause
+No Text correct: False
+start: 222.998, firstLetter: 0, endTime: 225.0891
+phrase time: 225.0891
+WPM: 0.319873357431323
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+toss the ball around
+Text:toss the ball around correct: True
+start: 225.0891, firstLetter: 228.9989, endTime: 295.1886
+phrase time: 66.18964
+WPM: 4.35113435277389
+ER: 0% with |T| = 20, INF =0
+KSPC: 1.4 
+EKS ER: 20% 
+Total ER: 16.66667% 
+#Space: 3, #Backspace: 4
+#ByClick: 6, #RecChars: 15
+#InputStream: 28
+#Display Length: 20
+#Transcribed Length: 20
+
+Pause
+No Text correct: False
+start: 295.1886, firstLetter: 0, endTime: 298.6559
+phrase time: 298.6559
+WPM: 0.241080157014537
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+time to go shopping
+Text:time to go shopping correct: True
+start: 298.6559, firstLetter: 303.6098, endTime: 361.4056
+phrase time: 57.79587
+WPM: 4.77542789706709
+ER: 0% with |T| = 19, INF =0
+KSPC: 1.315789 
+EKS ER: 15.78947% 
+Total ER: 13.63636% 
+#Space: 3, #Backspace: 3
+#ByClick: 4, #RecChars: 15
+#InputStream: 25
+#Display Length: 19
+#Transcribed Length: 19
+
+Pause
+No Text correct: False
+start: 361.4056, firstLetter: 0, endTime: 364.1385
+phrase time: 364.1385
+WPM: 0.197726953306005
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+this watch is too expensive
+Text:this watch is too expensive correct: True
+start: 364.1385, firstLetter: 370.5453, endTime: 467.7073
+phrase time: 97.16199
+WPM: 3.82865779426121
+ER: 0% with |T| = 27, INF =0
+KSPC: 1.37037 
+EKS ER: 18.51852% 
+Total ER: 15.625% 
+#Space: 4, #Backspace: 5
+#ByClick: 2, #RecChars: 26
+#InputStream: 37
+#Display Length: 27
+#Transcribed Length: 27
+
+Pause
+No Text correct: False
+start: 467.7073, firstLetter: 0, endTime: 469.5997
+phrase time: 469.5997
+WPM: 0.153322073795528
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+my preferred treat is chocolate
+Text:my preferred treat is chocolate correct: True
+start: 469.5997, firstLetter: 477.119, endTime: 582.9979
+phrase time: 105.8789
+WPM: 3.96679465078092
+ER: 0% with |T| = 31, INF =0
+KSPC: 1.387097 
+EKS ER: 19.35484% 
+Total ER: 16.21622% 
+#Space: 4, #Backspace: 6
+#ByClick: 5, #RecChars: 28
+#InputStream: 43
+#Display Length: 31
+#Transcribed Length: 31
+
