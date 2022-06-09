@@ -1,0 +1,165 @@
+hello world
+No Text correct: False
+start: 37.48637, firstLetter: 0, endTime: 37.71957
+phrase time: 37.71957
+WPM: 1.90882344880273
+ER: 50% with |T| = 2, INF =1
+KSPC: 0 
+EKS ER: 9.090909% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 11
+#Transcribed Length: 2
+
+Start Evaluation
+No Text correct: False
+start: 37.71957, firstLetter: 0, endTime: 38.68579
+phrase time: 38.68579
+WPM: 1.86114826684563
+ER: 250% with |T| = 2, INF =5
+KSPC: 0 
+EKS ER: 31.25% 
+Total ER: 83.33334% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 16
+#Transcribed Length: 2
+
+these cookies are so amazing
+Text:these cookies are so amazing correct: True
+start: 38.68579, firstLetter: 42.50251, endTime: 143.3825
+phrase time: 100.8799
+WPM: 3.80650475043121
+ER: 0% with |T| = 28, INF =0
+KSPC: 1.571429 
+EKS ER: 28.57143% 
+Total ER: 22.22222% 
+#Space: 4, #Backspace: 8
+#ByClick: 4, #RecChars: 28
+#InputStream: 44
+#Display Length: 28
+#Transcribed Length: 28
+
+Pause
+No Text correct: False
+start: 143.3825, firstLetter: 0, endTime: 158.8976
+phrase time: 158.8976
+WPM: 0.453122015596466
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+life is but a dream
+Text:life is but a dream correct: True
+start: 158.8976, firstLetter: 163.7733, endTime: 242.749
+phrase time: 78.97577
+WPM: 3.49474279699429
+ER: 0% with |T| = 19, INF =0
+KSPC: 1.631579 
+EKS ER: 31.57895% 
+Total ER: 24% 
+#Space: 4, #Backspace: 6
+#ByClick: 1, #RecChars: 20
+#InputStream: 31
+#Display Length: 19
+#Transcribed Length: 19
+
+Pause
+No Text correct: False
+start: 242.749, firstLetter: 0, endTime: 256.5304
+phrase time: 256.5304
+WPM: 0.280668461498106
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+no kissing in the library
+Text:no kissing in the library correct: True
+start: 256.5304, firstLetter: 259.6623, endTime: 326.8481
+phrase time: 67.18582
+WPM: 5.17966428122069
+ER: 0% with |T| = 25, INF =0
+KSPC: 1.24 
+EKS ER: 12% 
+Total ER: 10.71429% 
+#Space: 4, #Backspace: 3
+#ByClick: 2, #RecChars: 22
+#InputStream: 31
+#Display Length: 25
+#Transcribed Length: 25
+
+Pause
+No Text correct: False
+start: 326.8481, firstLetter: 0, endTime: 346.7892
+phrase time: 346.7892
+WPM: 0.207618931626173
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+a psychiatrist will help you
+Text:a psychiatrist will help you correct: True
+start: 346.7892, firstLetter: 355.5632, endTime: 445.3069
+phrase time: 89.74371
+WPM: 4.27885124809486
+ER: 0% with |T| = 28, INF =0
+KSPC: 1.285714 
+EKS ER: 14.28571% 
+Total ER: 12.5% 
+#Space: 4, #Backspace: 4
+#ByClick: 2, #RecChars: 26
+#InputStream: 36
+#Display Length: 28
+#Transcribed Length: 28
+
+Pause
+No Text correct: False
+start: 445.3069, firstLetter: 0, endTime: 450.7649
+phrase time: 450.7649
+WPM: 0.159728488866277
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+double double toil and trouble
+Text:double double toil and trouble correct: True
+start: 450.7649, firstLetter: 456.9175, endTime: 559.9191
+phrase time: 103.0016
+WPM: 3.96110284647499
+ER: 0% with |T| = 30, INF =0
+KSPC: 1.5 
+EKS ER: 23.33333% 
+Total ER: 18.91892% 
+#Space: 4, #Backspace: 7
+#ByClick: 3, #RecChars: 31
+#InputStream: 45
+#Display Length: 30
+#Transcribed Length: 30
+

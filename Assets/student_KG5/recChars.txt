@@ -1,0 +1,688 @@
+t
+Found: t 
+Top five: t, f, a 
+
+th
+Found: h 
+Top five: h, k, r, a 
+
+thk
+Found: k 
+Top five: k, a 
+
+th
+(Backspace) 
+
+the
+Found: e 
+Top five: e, a 
+
+theu
+Found: u 
+Top five: u, s, c 
+
+the
+(Backspace) 
+
+thes
+(Corrected / byClick: ) s 
+
+these
+Found: e 
+Top five: e, b, a 
+
+these 
+(Space) 
+
+these c
+Found: c 
+Top five: c 
+
+these co
+Found: o 
+Top five: o, c 
+
+these coe
+Found: e 
+Top five: e, o, c 
+
+these co
+(Backspace) 
+
+these coo
+(Corrected / byClick: ) o 
+
+these cook
+Found: k 
+Top five: k, f, a 
+
+these cooki
+Found: i 
+Top five: i, t, b, a 
+
+these cookie
+Found: e 
+Top five: e, u, c 
+
+these cookies
+Found: s 
+Top five: s, c 
+
+these cookies 
+(Space) 
+
+these cookies a
+Found: a 
+Top five: a, q, u 
+
+these cookies ar
+Found: r 
+Top five: r, d, n, h, e 
+
+these cookies are
+Found: e 
+Top five: e, c, u 
+
+these cookies are 
+(Space) 
+
+these cookies are e
+Found: e 
+Top five: e, p, y, d, a 
+
+these cookies are 
+(Backspace) 
+
+these cookies are s
+Found: s 
+Top five: s, c, u 
+
+these cookies are so
+Found: o 
+Top five: o, c 
+
+these cookies are so 
+(Space) 
+
+these cookies are so k
+Found: k 
+Top five: k, a 
+
+these cookies are so 
+(Backspace) 
+
+these cookies are so a
+(Corrected / byClick: ) a 
+
+these cookies are so am
+Found: m 
+Top five: m 
+
+these cookies are so ama
+Found: a 
+Top five: a 
+
+these cookies are so amas
+Found: s 
+Top five: s, f, a 
+
+these cookies are so ama
+(Backspace) 
+
+these cookies are so amaz
+Found: z 
+Top five: z, f, k, a 
+
+these cookies are so amazi
+Found: i 
+Top five: i, t, h, e, b 
+
+these cookies are so amazin
+Found: n 
+Top five: n, h, k, f, a 
+
+these cookies are so amazinm
+Found: m 
+Top five: m, z, e, w 
+
+these cookies are so amazin
+(Backspace) 
+
+these cookies are so amazinp
+Found: p 
+Top five: p, g, b, a 
+
+these cookies are so amazin
+(Backspace) 
+
+these cookies are so amazing
+(Corrected / byClick: ) g 
+
+y
+Found: y 
+Top five: y, g, f, k, a 
+
+
+(Backspace) 
+
+l
+Found: l 
+Top five: l, b, a 
+
+li
+Found: i 
+Top five: i, e, b, a 
+
+lif
+Found: f 
+Top five: f, d, b, a 
+
+life
+Found: e 
+Top five: e, o, c 
+
+life 
+(Space) 
+
+life i
+Found: i 
+Top five: i, x, e, b, a 
+
+life is
+Found: s 
+Top five: s, z, j, d, x 
+
+life is 
+(Space) 
+
+life is p
+Found: p 
+Top five: p, l, h, e, b 
+
+life is 
+(Backspace) 
+
+life is b
+Found: b 
+Top five: b, h, a 
+
+life is bu
+Found: u 
+Top five: u, a, d, b 
+
+life is buf
+Found: f 
+Top five: f, a, k 
+
+life is bu
+(Backspace) 
+
+life is buy
+Found: y 
+Top five: y, t, r, f, b 
+
+life is bu
+(Backspace) 
+
+life is but
+(Corrected / byClick: ) t 
+
+life is but 
+(Space) 
+
+life is but a
+Found: a 
+Top five: a, q, u 
+
+life is but a 
+(Space) 
+
+life is but a n
+Found: n 
+Top five: n, e, a 
+
+life is but a 
+(Backspace) 
+
+life is but a n
+Found: n 
+Top five: n, h, a, k 
+
+life is but a 
+(Backspace) 
+
+life is but a d
+Found: d 
+Top five: d, a 
+
+life is but a dr
+Found: r 
+Top five: r, n, h, e, d 
+
+life is but a dre
+Found: e 
+Top five: e, b, a 
+
+life is but a drea
+Found: a 
+Top five: a, q, u 
+
+life is but a dream
+Found: m 
+Top five: m, w, e 
+
+n
+Found: n 
+Top five: n, m, k, h, a 
+
+no
+Found: o 
+Top five: o, c 
+
+no 
+(Space) 
+
+no k
+Found: k 
+Top five: k, a 
+
+no ki
+Found: i 
+Top five: i, v, g, e, a 
+
+no kie
+Found: e 
+Top five: e, d, b, a 
+
+no ki
+(Backspace) 
+
+no kis
+Found: s 
+Top five: s, c 
+
+no kiss
+Found: s 
+Top five: s, c 
+
+no kissi
+Found: i 
+Top five: i, y, t, r, e 
+
+no kissin
+Found: n 
+Top five: n, k, h, g, e 
+
+no kissing
+Found: g 
+Top five: g, d, j, y, q 
+
+no kissing 
+(Space) 
+
+no kissing l
+Found: l 
+Top five: l, i, y, t, f 
+
+no kissing 
+(Backspace) 
+
+no kissing i
+(Corrected / byClick: ) i 
+
+no kissing in
+Found: n 
+Top five: n, k, h, e, b 
+
+no kissing in 
+(Space) 
+
+no kissing in t
+Found: t 
+Top five: t, f, b, a 
+
+no kissing in th
+Found: h 
+Top five: h, k, i, a 
+
+no kissing in the
+Found: e 
+Top five: e, b, a 
+
+no kissing in the 
+(Space) 
+
+no kissing in the l
+Found: l 
+Top five: l, h, f, b, a 
+
+no kissing in the li
+Found: i 
+Top five: i, y, t, r, g 
+
+no kissing in the lib
+Found: b 
+Top five: b, p, h, a 
+
+no kissing in the libl
+Found: l 
+Top five: l, r, f, b, a 
+
+no kissing in the lib
+(Backspace) 
+
+no kissing in the libr
+(Corrected / byClick: ) r 
+
+no kissing in the libra
+Found: a 
+Top five: a, u 
+
+no kissing in the librar
+Found: r 
+Top five: r, d, n, h, e 
+
+no kissing in the library
+Found: y 
+Top five: y, v, r, q, g 
+
+a
+Found: a 
+Top five: a, f, u, d 
+
+a 
+(Space) 
+
+a p
+Found: p 
+Top five: p, h, b, a 
+
+a ps
+Found: s 
+Top five: s, z, d, f, a 
+
+a psy
+Found: y 
+Top five: y, r, e, b, a 
+
+a psys
+Found: s 
+Top five: s, c 
+
+a psy
+(Backspace) 
+
+a psyc
+(Corrected / byClick: ) c 
+
+a psych
+Found: h 
+Top five: h, k, b, a 
+
+a psychi
+Found: i 
+Top five: i, t, l, e, b 
+
+a psychia
+Found: a 
+Top five: a, u 
+
+a psychiat
+Found: t 
+Top five: t, f, d, a 
+
+a psychiatr
+Found: r 
+Top five: r, n, h, e, b 
+
+a psychiatri
+Found: i 
+Top five: i, y, e, b, a 
+
+a psychiatrij
+Found: j 
+Top five: j, g, e, a 
+
+a psychiatri
+(Backspace) 
+
+a psychiatrij
+Found: j 
+Top five: j, e, a 
+
+a psychiatri
+(Backspace) 
+
+a psychiatris
+Found: s 
+Top five: s, c, u 
+
+a psychiatrist
+Found: t 
+Top five: t, f, a 
+
+a psychiatrist 
+(Space) 
+
+a psychiatrist w
+Found: w 
+Top five: w 
+
+a psychiatrist wi
+Found: i 
+Top five: i, t, r, p, a 
+
+a psychiatrist wil
+Found: l 
+Top five: l, t, h, b, a 
+
+a psychiatrist wilr
+Found: r 
+Top five: r, l, v, b, a 
+
+a psychiatrist wil
+(Backspace) 
+
+a psychiatrist will
+(Corrected / byClick: ) l 
+
+a psychiatrist will 
+(Space) 
+
+a psychiatrist will h
+Found: h 
+Top five: h, k, a 
+
+a psychiatrist will he
+Found: e 
+Top five: e, o, s, c 
+
+a psychiatrist will hel
+Found: l 
+Top five: l, t, h, e, b 
+
+a psychiatrist will help
+Found: p 
+Top five: p, d, h, b, a 
+
+a psychiatrist will help 
+(Space) 
+
+a psychiatrist will help y
+Found: y 
+Top five: y, r, q, g, e 
+
+a psychiatrist will help yo
+Found: o 
+Top five: o, c 
+
+a psychiatrist will help you
+Found: u 
+Top five: u, a 
+
+d
+Found: d 
+Top five: d, h, f, a, m 
+
+do
+Found: o 
+Top five: o, c 
+
+dou
+Found: u 
+Top five: u, a, d 
+
+doup
+Found: p 
+Top five: p, h, b, a 
+
+dou
+(Backspace) 
+
+doub
+(Corrected / byClick: ) b 
+
+doubr
+Found: r 
+Top five: r, l, b, a 
+
+doub
+(Backspace) 
+
+doubl
+(Corrected / byClick: ) l 
+
+double
+Found: e 
+Top five: e, b, a 
+
+double 
+(Space) 
+
+double n
+Found: n 
+Top five: n, a 
+
+double 
+(Backspace) 
+
+double 
+Found:   
+Top five:  
+
+double d
+Found: d 
+Top five: d, a 
+
+double ds
+Found: s 
+Top five: s, o, c 
+
+double d
+(Backspace) 
+
+double do
+(Corrected / byClick: ) o 
+
+double dou
+Found: u 
+Top five: u, d, a 
+
+double doub
+Found: b 
+Top five: b, h, a 
+
+double doubl
+Found: l 
+Top five: l, h, b, a 
+
+double double
+Found: e 
+Top five: e, d, b, a 
+
+double double 
+(Space) 
+
+double double t
+Found: t 
+Top five: t, f, e, d, a 
+
+double double to
+Found: o 
+Top five: o, c 
+
+double double toi
+Found: i 
+Top five: i, l, e, d, b 
+
+double double toil
+Found: l 
+Top five: l, t, d, b, a 
+
+double double toil 
+(Space) 
+
+double double toil a
+Found: a 
+Top five: a 
+
+double double toil an
+Found: n 
+Top five: n, h, k, b, a 
+
+double double toil ann
+Found: n 
+Top five: n, f, b, k, a 
+
+double double toil an
+(Backspace) 
+
+double double toil anx
+Found: x 
+Top five: x, q, l, u, t 
+
+double double toil an
+(Backspace) 
+
+double double toil and
+Found: d 
+Top five: d, u, v, a, x 
+
+double double toil and 
+(Space) 
+
+double double toil and t
+Found: t 
+Top five: t, f, b, a 
+
+double double toil and tg
+Found: g 
+Top five: g, n, k, i, f 
+
+double double toil and t
+(Backspace) 
+
+double double toil and tr
+Found: r 
+Top five: r, n, h, e, b 
+
+double double toil and tro
+Found: o 
+Top five: o, s, c 
+
+double double toil and trou
+Found: u 
+Top five: u, a, d 
+
+double double toil and troub
+Found: b 
+Top five: b, p, h, a 
+
+double double toil and troubl
+Found: l 
+Top five: l, h, f, b, a 
+
+double double toil and trouble
+Found: e 
+Top five: e, y, g, a 
+

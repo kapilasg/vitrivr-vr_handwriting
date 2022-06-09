@@ -1,0 +1,683 @@
+t
+Found: t 
+Top five: t, f, b, a 
+
+th
+Found: h 
+Top five: h, k, a 
+
+the
+Found: e 
+Top five: e, u, c 
+
+the 
+(Space) 
+
+the y
+Found: y 
+Top five: y, q, g, e, a 
+
+the 
+(Backspace) 
+
+the g
+(Corrected / byClick: ) g 
+
+the ge
+(Corrected / byClick: ) e 
+
+the gek
+Found: k 
+Top five: k, n, h, e, b 
+
+the ge
+(Backspace) 
+
+the gen
+(Corrected / byClick: ) n 
+
+the gene
+(Corrected / byClick: ) e 
+
+the gener
+Found: r 
+Top five: r, n, h, g, e 
+
+the generm
+Found: m 
+Top five: m, g, a 
+
+the gener
+(Backspace) 
+
+the genera
+(Corrected / byClick: ) a 
+
+the generaf
+Found: f 
+Top five: f, d, b, a 
+
+the genera
+(Backspace) 
+
+the generat
+Found: t 
+Top five: t, f, e, a 
+
+the generati
+Found: i 
+Top five: i, v, y, l, e 
+
+the generatio
+Found: o 
+Top five: o, c 
+
+the generation
+Found: n 
+Top five: n, r, h, e, d 
+
+the generation 
+(Space) 
+
+the generation q
+Found: q 
+Top five: q, g, e, a 
+
+the generation 
+(Backspace) 
+
+the generation g
+(Corrected / byClick: ) g 
+
+the generation ga
+(Corrected / byClick: ) a 
+
+the generation gab
+Found: b 
+Top five: b, a 
+
+the generation ga
+(Backspace) 
+
+the generation gap
+Found: p 
+Top five: p, k, h, b, a 
+
+the generation gap 
+(Space) 
+
+the generation gap q
+Found: q 
+Top five: q, g, a 
+
+the generation gap 
+(Backspace) 
+
+the generation gap g
+(Corrected / byClick: ) g 
+
+the generation gap ge
+Found: e 
+Top five: e, u, c 
+
+the generation gap get
+Found: t 
+Top five: t, f, a 
+
+the generation gap gets
+Found: s 
+Top five: s, u, e, c 
+
+the generation gap gets 
+(Space) 
+
+the generation gap gets n
+Found: n 
+Top five: n, k, a 
+
+the generation gap gets 
+(Backspace) 
+
+the generation gap gets w
+Found: w 
+Top five: w 
+
+the generation gap gets wj
+Found: j 
+Top five: j, i, t, v, l 
+
+the generation gap gets w
+(Backspace) 
+
+the generation gap gets wi
+(Corrected / byClick: ) i 
+
+the generation gap gets win
+Found: n 
+Top five: n, a 
+
+the generation gap gets wi
+(Backspace) 
+
+the generation gap gets wid
+Found: d 
+Top five: d, b, a 
+
+the generation gap gets wide
+Found: e 
+Top five: e, u, c, s 
+
+the generation gap gets wider
+Found: r 
+Top five: r, x, v, d, y 
+
+o
+Found: o 
+Top five: o, c 
+
+on
+Found: n 
+Top five: n, k, r, b, a 
+
+on 
+(Space) 
+
+on t
+Found: t 
+Top five: t, f, a 
+
+on th
+Found: h 
+Top five: h, k, a 
+
+on the
+Found: e 
+Top five: e, d, b, a 
+
+on the 
+(Space) 
+
+on the w
+Found: w 
+Top five: w 
+
+on the wq
+Found: q 
+Top five: q, a 
+
+on the w
+(Backspace) 
+
+on the wa
+(Corrected / byClick: ) a 
+
+on the way
+Found: y 
+Top five: y, e, b, a 
+
+on the way 
+(Space) 
+
+on the way t
+Found: t 
+Top five: t, f, d, b, a 
+
+on the way to
+Found: o 
+Top five: o, c 
+
+on the way to 
+(Space) 
+
+on the way to t
+Found: t 
+Top five: t, f, b, a 
+
+on the way to th
+Found: h 
+Top five: h, l, v, b, a 
+
+on the way to the
+Found: e 
+Top five: e, b, a 
+
+on the way to the 
+(Space) 
+
+on the way to the c
+Found: c 
+Top five: c 
+
+on the way to the co
+Found: o 
+Top five: o, c 
+
+on the way to the cot
+Found: t 
+Top five: t, f, a 
+
+on the way to the cotf
+Found: f 
+Top five: f, d, b, a 
+
+on the way to the cot
+(Backspace) 
+
+on the way to the cott
+Found: t 
+Top five: t, f, d, b, a 
+
+on the way to the cotta
+Found: a 
+Top five: a 
+
+on the way to the cottay
+Found: y 
+Top five: y, b, a 
+
+on the way to the cotta
+(Backspace) 
+
+on the way to the cottaq
+Found: q 
+Top five: q, g, a 
+
+on the way to the cottaqg
+(Corrected / byClick: ) g 
+
+on the way to the cottaq
+(Backspace) 
+
+on the way to the cotta
+(Backspace) 
+
+on the way to the cottag
+(Corrected / byClick: ) g 
+
+on the way to the cottage
+Found: e 
+Top five: e, a 
+
+g
+Found: g 
+Top five: g, d, f, a, k 
+
+
+(Backspace) 
+
+a
+(Corrected / byClick: ) a 
+
+a 
+(Space) 
+
+a i
+Found: i 
+Top five: i, g, e, a, k 
+
+a 
+(Backspace) 
+
+a g
+Found: g 
+Top five: g, f, b, k, a 
+
+a 
+(Backspace) 
+
+a q
+Found: q 
+Top five: q, d, a, g 
+
+a qu
+Found: u 
+Top five: u, m, n, a, k 
+
+a qus
+Found: s 
+Top five: s, g, d, y, k 
+
+a qu
+(Backspace) 
+
+a qua
+Found: a 
+Top five: a 
+
+a quar
+Found: r 
+Top five: r, n, h, e, d 
+
+a quart
+Found: t 
+Top five: t, f, a 
+
+a quarte
+Found: e 
+Top five: e, o, c 
+
+a quarter
+Found: r 
+Top five: r, d, n, h, e 
+
+a quarter 
+(Space) 
+
+a quarter o
+Found: o 
+Top five: o, c 
+
+a quarter of
+Found: f 
+Top five: f, a, k 
+
+a quarter of 
+(Space) 
+
+a quarter of a
+(Corrected / byClick: ) a 
+
+a quarter of a 
+(Space) 
+
+a quarter of a c
+Found: c 
+Top five: c 
+
+a quarter of a ce
+Found: e 
+Top five: e, d, b, a 
+
+a quarter of a cev
+Found: v 
+Top five: v, n, l, h, b 
+
+a quarter of a ce
+(Backspace) 
+
+a quarter of a cen
+(Corrected / byClick: ) n 
+
+a quarter of a cenf
+Found: f 
+Top five: f, a, k 
+
+a quarter of a cen
+(Backspace) 
+
+a quarter of a cent
+Found: t 
+Top five: t, f, b, a 
+
+a quarter of a centu
+Found: u 
+Top five: u, n, k, a 
+
+a quarter of a centur
+Found: r 
+Top five: r, n, h, e, b 
+
+a quarter of a century
+Found: y 
+Top five: y, e, b, a 
+
+i
+Found: i 
+Top five: i, v, t, g, b 
+
+i 
+(Space) 
+
+i c
+Found: c 
+Top five: c 
+
+i ca
+Found: a 
+Top five: a, u 
+
+i can
+Found: n 
+Top five: n, h, k, e, b 
+
+i can 
+(Space) 
+
+i can p
+Found: p 
+Top five: p, b, a 
+
+i can pl
+Found: l 
+Top five: l, p, h, f, b 
+
+i can pla
+Found: a 
+Top five: a, e 
+
+i can play
+Found: y 
+Top five: y, x, e, d, b 
+
+i can play 
+(Space) 
+
+i can play m
+Found: m 
+Top five: m 
+
+i can play mu
+Found: u 
+Top five: u, d, a 
+
+i can play muc
+Found: c 
+Top five: c 
+
+i can play much
+Found: h 
+Top five: h, b, a 
+
+i can play much 
+(Space) 
+
+i can play much b
+(Corrected / byClick: ) b 
+
+i can play much be
+Found: e 
+Top five: e, u, c 
+
+i can play much bet
+Found: t 
+Top five: t, f, a 
+
+i can play much bett
+(Corrected / byClick: ) t 
+
+i can play much bette
+Found: e 
+Top five: e, c, u, s 
+
+i can play much better
+Found: r 
+Top five: r, n, h, b, a 
+
+i can play much better 
+(Space) 
+
+i can play much better n
+(Corrected / byClick: ) n 
+
+i can play much better no
+Found: o 
+Top five: o, c 
+
+i can play much better now
+Found: w 
+Top five: w 
+
+h
+Found: h 
+Top five: h, k, i, a 
+
+he
+Found: e 
+Top five: e, b, a 
+
+her
+Found: r 
+Top five: r, l, h, b, a 
+
+her 
+(Space) 
+
+her m
+Found: m 
+Top five: m 
+
+her md
+Found: d 
+Top five: d, h, g, a 
+
+her m
+(Backspace) 
+
+her ma
+(Corrected / byClick: ) a 
+
+her maj
+Found: j 
+Top five: j, i, f, t, l 
+
+her maje
+Found: e 
+Top five: e, o, c, u, s 
+
+her majeu
+Found: u 
+Top five: u, s, c 
+
+her maje
+(Backspace) 
+
+her majes
+(Corrected / byClick: ) s 
+
+her majest
+Found: t 
+Top five: t, f, e, a 
+
+her majesty
+Found: y 
+Top five: y, g, e, a 
+
+her majesty 
+(Space) 
+
+her majesty v
+Found: v 
+Top five: v, r, n, l, d 
+
+her majesty vi
+Found: i 
+Top five: i, y, t, e, b 
+
+her majesty viu
+Found: u 
+Top five: u, s, c 
+
+her majesty vi
+(Backspace) 
+
+her majesty vis
+(Corrected / byClick: ) s 
+
+her majesty visi
+Found: i 
+Top five: i, y, v, r, b 
+
+her majesty visif
+Found: f 
+Top five: f, t, d, b, a 
+
+her majesty visi
+(Backspace) 
+
+her majesty visit
+(Corrected / byClick: ) t 
+
+her majesty visite
+Found: e 
+Top five: e, n, o, c 
+
+her majesty visitew
+Found: w 
+Top five: w, m 
+
+her majesty visite
+(Backspace) 
+
+her majesty visited
+Found: d 
+Top five: d, b, a 
+
+her majesty visited 
+(Space) 
+
+her majesty visited o
+Found: o 
+Top five: o, c 
+
+her majesty visited ou
+Found: u 
+Top five: u, d, a 
+
+her majesty visited our
+Found: r 
+Top five: r, n, h, e, d 
+
+her majesty visited our 
+(Space) 
+
+her majesty visited our s
+Found: s 
+Top five: s, c 
+
+her majesty visited our 
+(Backspace) 
+
+her majesty visited our c
+(Corrected / byClick: ) c 
+
+her majesty visited our co
+Found: o 
+Top five: o, c 
+
+her majesty visited our com
+Found: m 
+Top five: m, w 
+
+her majesty visited our co
+(Backspace) 
+
+her majesty visited our cou
+Found: u 
+Top five: u, a 
+
+her majesty visited our coun
+Found: n 
+Top five: n, y, e, b, a 
+
+her majesty visited our count
+Found: t 
+Top five: t, f, a 
+
+her majesty visited our countr
+Found: r 
+Top five: r, n, h, d, b 
+
+her majesty visited our country
+Found: y 
+Top five: y, r, q, g, e 
+

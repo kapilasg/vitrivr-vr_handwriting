@@ -1,0 +1,165 @@
+hello world
+No Text correct: False
+start: 49.61142, firstLetter: 0, endTime: 50.99007
+phrase time: 50.99007
+WPM: 1.41203973444535
+ER: 50% with |T| = 2, INF =1
+KSPC: 0 
+EKS ER: 9.090909% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 11
+#Transcribed Length: 2
+
+Start Evaluation
+No Text correct: False
+start: 50.99007, firstLetter: 0, endTime: 54.94052
+phrase time: 54.94052
+WPM: 1.31050822551106
+ER: 250% with |T| = 2, INF =5
+KSPC: 0 
+EKS ER: 31.25% 
+Total ER: 83.33334% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 16
+#Transcribed Length: 2
+
+the generation gap gets wider
+Text:the generation gap gets wider correct: True
+start: 54.94052, firstLetter: 60.23471, endTime: 180.9218
+phrase time: 120.6871
+WPM: 3.28121233986397
+ER: 0% with |T| = 29, INF =0
+KSPC: 1.689655 
+EKS ER: 34.48276% 
+Total ER: 25.64103% 
+#Space: 4, #Backspace: 10
+#ByClick: 9, #RecChars: 26
+#InputStream: 49
+#Display Length: 29
+#Transcribed Length: 29
+
+Pause
+No Text correct: False
+start: 180.9218, firstLetter: 0, endTime: 196.4993
+phrase time: 196.4993
+WPM: 0.366413522581302
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+on the way to the cottage
+Text:on the way to the cottage correct: True
+start: 196.4993, firstLetter: 202.0876, endTime: 285.6406
+phrase time: 83.55299
+WPM: 4.16502131497012
+ER: 0% with |T| = 25, INF =0
+KSPC: 1.4 
+EKS ER: 20% 
+Total ER: 16.66667% 
+#Space: 5, #Backspace: 5
+#ByClick: 3, #RecChars: 22
+#InputStream: 35
+#Display Length: 25
+#Transcribed Length: 25
+
+Pause
+No Text correct: False
+start: 285.6406, firstLetter: 0, endTime: 302.8535
+phrase time: 302.8535
+WPM: 0.237738696384004
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+a quarter of a century
+Text:a quarter of a century correct: True
+start: 302.8535, firstLetter: 308.6373, endTime: 392.9013
+phrase time: 84.26398
+WPM: 3.70264982641366
+ER: 0% with |T| = 22, INF =0
+KSPC: 1.545455 
+EKS ER: 27.27273% 
+Total ER: 21.42857% 
+#Space: 4, #Backspace: 6
+#ByClick: 3, #RecChars: 21
+#InputStream: 34
+#Display Length: 22
+#Transcribed Length: 22
+
+Pause
+No Text correct: False
+start: 392.9013, firstLetter: 0, endTime: 399.5618
+phrase time: 399.5618
+WPM: 0.180197393354323
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+i can play much better now
+Text:i can play much better now correct: True
+start: 399.5618, firstLetter: 404.3639, endTime: 464.8918
+phrase time: 60.52786
+WPM: 5.94767409322585
+ER: 0% with |T| = 26, INF =0
+KSPC: 1 
+EKS ER: 0% 
+Total ER: 0% 
+#Space: 5, #Backspace: 0
+#ByClick: 3, #RecChars: 18
+#InputStream: 26
+#Display Length: 26
+#Transcribed Length: 26
+
+Pause
+No Text correct: False
+start: 464.8918, firstLetter: 0, endTime: 473.9989
+phrase time: 473.9989
+WPM: 0.151899076467759
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+her majesty visited our country
+Text:her majesty visited our country correct: True
+start: 473.9989, firstLetter: 479.0244, endTime: 584.0883
+phrase time: 105.0639
+WPM: 3.99756588874834
+ER: 0% with |T| = 31, INF =0
+KSPC: 1.451613 
+EKS ER: 22.58064% 
+Total ER: 18.42105% 
+#Space: 4, #Backspace: 7
+#ByClick: 5, #RecChars: 29
+#InputStream: 45
+#Display Length: 31
+#Transcribed Length: 31
+

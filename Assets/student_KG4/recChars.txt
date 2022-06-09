@@ -1,0 +1,650 @@
+i
+Found: i 
+Top five: i, e, b, a 
+
+i 
+(Space) 
+
+i p
+Found: p 
+Top five: p, h, e, b, a 
+
+i 
+(Backspace) 
+
+i h
+(Corrected / byClick: ) h 
+
+i ha
+Found: a 
+Top five: a 
+
+i hat
+Found: t 
+Top five: t, f, a 
+
+i hate
+Found: e 
+Top five: e, o, c, u, s 
+
+i hate 
+(Space) 
+
+i hate b
+Found: b 
+Top five: b, p, a 
+
+i hate ba
+Found: a 
+Top five: a, u 
+
+i hate bau
+Found: u 
+Top five: u, d, a, q, n 
+
+i hate ba
+(Backspace) 
+
+i hate bak
+Found: k 
+Top five: k, i, h, a 
+
+i hate bakl
+Found: l 
+Top five: l, i, r, f, e 
+
+i hate bak
+(Backspace) 
+
+i hate baki
+(Corrected / byClick: ) i 
+
+i hate bakin
+Found: n 
+Top five: n, h, g, e, b 
+
+i hate baking
+(Corrected / byClick: ) g 
+
+i hate baking 
+(Space) 
+
+i hate baking p
+Found: p 
+Top five: p, h, b, a 
+
+i hate baking pi
+Found: i 
+Top five: i, x, p, e, a 
+
+i hate baking pie
+Found: e 
+Top five: e, c, u 
+
+i hate baking pies
+Found: s 
+Top five: s, c 
+
+h
+Found: h 
+Top five: h, l, b, a 
+
+he
+Found: e 
+Top five: e, o, c 
+
+h
+(Backspace) 
+
+ho
+(Corrected / byClick: ) o 
+
+hou
+Found: u 
+Top five: u, d, a 
+
+hous
+Found: s 
+Top five: s, n, c 
+
+house
+Found: e 
+Top five: e, n, o, c 
+
+house 
+(Space) 
+
+house w
+Found: w 
+Top five: w 
+
+house wi
+Found: i 
+Top five: i, v, t, r, l 
+
+house wit
+Found: t 
+Top five: t, f, e, a 
+
+house with
+Found: h 
+Top five: h, l, p, b, a 
+
+house with 
+(Space) 
+
+house with k
+Found: k 
+Top five: k, r, h, e, b 
+
+house with 
+(Backspace) 
+
+house with n
+Found: n 
+Top five: n, k, h, a 
+
+house with ne
+Found: e 
+Top five: e, d, b, a 
+
+house with new
+Found: w 
+Top five: w 
+
+house with new 
+(Space) 
+
+house with new e
+Found: e 
+Top five: e, u, c 
+
+house with new el
+Found: l 
+Top five: l, b, a 
+
+house with new ele
+Found: e 
+Top five: e, u, o, c 
+
+house with new elev
+Found: v 
+Top five: v, u, l, x, q 
+
+house with new ele
+(Backspace) 
+
+house with new eles
+Found: s 
+Top five: s, c 
+
+house with new ele
+(Backspace) 
+
+house with new elec
+(Corrected / byClick: ) c 
+
+house with new elect
+Found: t 
+Top five: t, f, b, a 
+
+house with new electr
+Found: r 
+Top five: r, n, h, e, d 
+
+house with new electri
+Found: i 
+Top five: i, e, b, a 
+
+house with new electrie
+Found: e 
+Top five: e, c, u 
+
+house with new electri
+(Backspace) 
+
+house with new electric
+(Corrected / byClick: ) c 
+
+house with new electrica
+Found: a 
+Top five: a 
+
+house with new electrical
+Found: l 
+Top five: l, b, a 
+
+house with new electrical 
+(Space) 
+
+house with new electrical k
+Found: k 
+Top five: k, b, m, a 
+
+house with new electrical 
+(Backspace) 
+
+house with new electrical p
+Found: p 
+Top five: p, h, b, a 
+
+house with new electrical pa
+(Corrected / byClick: ) a 
+
+house with new electrical pan
+Found: n 
+Top five: n, a, k 
+
+house with new electrical pane
+Found: e 
+Top five: e, o, c, u, s 
+
+house with new electrical panev
+Found: v 
+Top five: v, l, b, a 
+
+house with new electrical pane
+(Backspace) 
+
+house with new electrical panel
+(Corrected / byClick: ) l 
+
+i
+Found: i 
+Top five: i, d, y, x, r 
+
+ih
+Found: h 
+Top five: h, f, a, k 
+
+i
+(Backspace) 
+
+if
+(Corrected / byClick: ) f 
+
+if 
+(Space) 
+
+if m
+Found: m 
+Top five: m, w 
+
+if 
+(Backspace) 
+
+if d
+Found: d 
+Top five: d, v, a 
+
+if di
+Found: i 
+Top five: i, v, x, p, e 
+
+if dip
+Found: p 
+Top five: p, h, b, a 
+
+if dipl
+Found: l 
+Top five: l, b, a 
+
+if diplo
+Found: o 
+Top five: o, c 
+
+if diplom
+Found: m 
+Top five: m 
+
+if diploma
+Found: a 
+Top five: a, d 
+
+if diplomas
+Found: s 
+Top five: s, c 
+
+if diploma
+(Backspace) 
+
+if diplomac
+(Corrected / byClick: ) c 
+
+if diplomacy
+Found: y 
+Top five: y, x, v, r, b 
+
+if diplomacy 
+(Space) 
+
+if diplomacy n
+Found: n 
+Top five: n, e, a, k 
+
+if diplomacy 
+(Backspace) 
+
+if diplomacy d
+Found: d 
+Top five: d, a, k 
+
+if diplomacy do
+Found: o 
+Top five: o, c 
+
+if diplomacy dou
+Found: u 
+Top five: u, o, s, c 
+
+if diplomacy do
+(Backspace) 
+
+if diplomacy doe
+Found: e 
+Top five: e, b, a 
+
+if diplomacy does
+Found: s 
+Top five: s, c, o 
+
+if diplomacy does 
+(Space) 
+
+if diplomacy does n
+Found: n 
+Top five: n, h, b, m, k 
+
+if diplomacy does no
+Found: o 
+Top five: o, c 
+
+if diplomacy does not
+Found: t 
+Top five: t, f, b, a 
+
+if diplomacy does not 
+(Space) 
+
+if diplomacy does not w
+Found: w 
+Top five: w 
+
+if diplomacy does not wo
+Found: o 
+Top five: o, c 
+
+if diplomacy does not wor
+Found: r 
+Top five: r, n, h, e, d 
+
+if diplomacy does not work
+Found: k 
+Top five: k, a 
+
+y
+Found: y 
+Top five: y, x, t, r, f 
+
+
+(Backspace) 
+
+t
+(Corrected / byClick: ) t 
+
+th
+Found: h 
+Top five: h, k, i, a 
+
+the
+Found: e 
+Top five: e, y, a 
+
+the 
+(Space) 
+
+the q
+Found: q 
+Top five: q, g, d, a 
+
+the 
+(Backspace) 
+
+the g
+(Corrected / byClick: ) g 
+
+the gh
+Found: h 
+Top five: h, u, n, k, a 
+
+the g
+(Backspace) 
+
+the gu
+(Corrected / byClick: ) u 
+
+the gun
+(Corrected / byClick: ) n 
+
+the gun 
+(Space) 
+
+the gun d
+Found: d 
+Top five: d, u, a 
+
+the gun dt
+Found: t 
+Top five: t, l, y, e, b 
+
+the gun d
+(Backspace) 
+
+the gun di
+Found: i 
+Top five: i, t, l, e, b 
+
+the gun dis
+Found: s 
+Top five: s, c 
+
+the gun disc
+Found: c 
+Top five: c, s, o 
+
+the gun disca
+Found: a 
+Top five: a, u 
+
+the gun disc
+(Backspace) 
+
+the gun disch
+Found: h 
+Top five: h, k, a 
+
+the gun discha
+Found: a 
+Top five: a, u, q 
+
+the gun dischar
+Found: r 
+Top five: r, n, h, d, b 
+
+the gun dischary
+Found: y 
+Top five: y, u, a 
+
+the gun dischar
+(Backspace) 
+
+the gun discharq
+Found: q 
+Top five: q, g, a 
+
+the gun dischar
+(Backspace) 
+
+the gun discharg
+(Corrected / byClick: ) g 
+
+the gun discharge
+Found: e 
+Top five: e, u, c, s 
+
+the gun discharged
+Found: d 
+Top five: d, a, u 
+
+the gun discharged 
+(Space) 
+
+the gun discharged p
+Found: p 
+Top five: p, k, i, f, a 
+
+the gun discharged 
+(Backspace) 
+
+the gun discharged k
+Found: k 
+Top five: k, b, a 
+
+the gun discharged 
+(Backspace) 
+
+the gun discharged b
+(Corrected / byClick: ) b 
+
+the gun discharged by
+Found: y 
+Top five: y, r, e, b, a 
+
+the gun discharged by 
+(Space) 
+
+the gun discharged by a
+Found: a 
+Top five: a, u 
+
+the gun discharged by ac
+Found: c 
+Top five: c 
+
+the gun discharged by acs
+Found: s 
+Top five: s, c 
+
+the gun discharged by ac
+(Backspace) 
+
+the gun discharged by acc
+(Corrected / byClick: ) c 
+
+the gun discharged by acci
+Found: i 
+Top five: i, t, e, b, a 
+
+the gun discharged by accid
+Found: d 
+Top five: d, x, u, a 
+
+the gun discharged by accide
+Found: e 
+Top five: e, u, c 
+
+the gun discharged by acciden
+Found: n 
+Top five: n, h, m, b, k 
+
+the gun discharged by accidenx
+Found: x 
+Top five: x, f, e, a 
+
+the gun discharged by acciden
+(Backspace) 
+
+the gun discharged by accident
+Found: t 
+Top five: t, f, a 
+
+i
+Found: i 
+Top five: i, t, e, b, a 
+
+i 
+(Space) 
+
+i a
+Found: a 
+Top five: a, u 
+
+i aq
+Found: q 
+Top five: q, g, a 
+
+i a
+(Backspace) 
+
+i ag
+(Corrected / byClick: ) g 
+
+i agr
+Found: r 
+Top five: r, n, l, h, e 
+
+i agre
+Found: e 
+Top five: e, u, c 
+
+i agreg
+Found: g 
+Top five: g, a 
+
+i agre
+(Backspace) 
+
+i agree
+Found: e 
+Top five: e, a 
+
+i agree 
+(Space) 
+
+i agree w
+Found: w 
+Top five: w 
+
+i agree wi
+Found: i 
+Top five: i, v, a 
+
+i agree wit
+Found: t 
+Top five: t, f, a 
+
+i agree witd
+Found: d 
+Top five: d, h, k, r, b 
+
+i agree wit
+(Backspace) 
+
+i agree with
+(Corrected / byClick: ) h 
+
+i agree with 
+(Space) 
+
+i agree with y
+Found: y 
+Top five: y, v, q, g, e 
+
+i agree with yo
+Found: o 
+Top five: o, c 
+
+i agree with you
+Found: u 
+Top five: u, d, a 
+

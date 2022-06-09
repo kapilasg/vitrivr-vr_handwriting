@@ -1,0 +1,658 @@
+f
+Found: f 
+Top five: f, t, a 
+
+ft
+(Corrected / byClick: ) t 
+
+f
+(Backspace) 
+
+
+(Backspace) 
+
+t
+(Corrected / byClick: ) t 
+
+tk
+Found: k 
+Top five: k, h, a 
+
+t
+(Backspace) 
+
+th
+(Corrected / byClick: ) h 
+
+the
+Found: e 
+Top five: e, a 
+
+the 
+(Space) 
+
+the f
+Found: f 
+Top five: f, a 
+
+the fa
+Found: a 
+Top five: a, u 
+
+the fay
+Found: y 
+Top five: y, b, a 
+
+the fa
+(Backspace) 
+
+the fac
+Found: c 
+Top five: c 
+
+the fact
+Found: t 
+Top five: t, f, d, b, a 
+
+the facty
+Found: y 
+Top five: y, r, p, n, g 
+
+the fact
+(Backspace) 
+
+the facts
+Found: s 
+Top five: s, e, c 
+
+the facts 
+(Space) 
+
+the facts g
+Found: g 
+Top five: g, q, a 
+
+the facts ge
+Found: e 
+Top five: e, u, c 
+
+the facts get
+Found: t 
+Top five: t, p, f, e, d 
+
+the facts get 
+(Space) 
+
+the facts get i
+Found: i 
+Top five: i, t, e, b, a 
+
+the facts get in
+Found: n 
+Top five: n, h, e, b, a 
+
+the facts get in 
+(Space) 
+
+the facts get in t
+Found: t 
+Top five: t, f, d, b, a 
+
+the facts get in tk
+Found: k 
+Top five: k, i, a 
+
+the facts get in t
+(Backspace) 
+
+the facts get in th
+Found: h 
+Top five: h, n, k, i, a 
+
+the facts get in the
+Found: e 
+Top five: e, c, u 
+
+the facts get in the 
+(Space) 
+
+the facts get in the u
+Found: u 
+Top five: u, m, k, a 
+
+the facts get in the 
+(Backspace) 
+
+the facts get in the w
+Found: w 
+Top five: w 
+
+the facts get in the wa
+Found: a 
+Top five: a, u 
+
+the facts get in the way
+Found: y 
+Top five: y, r, e, b, a 
+
+o
+Found: o 
+Top five: o, c 
+
+on
+Found: n 
+Top five: n, k, h, a 
+
+one
+Found: e 
+Top five: e, s, d, b, a 
+
+one 
+(Space) 
+
+one h
+Found: h 
+Top five: h, k, a 
+
+one he
+Found: e 
+Top five: e, b, a 
+
+one hec
+Found: c 
+Top five: c 
+
+one heck
+Found: k 
+Top five: k, a 
+
+one heck 
+(Space) 
+
+one heck o
+Found: o 
+Top five: o, c 
+
+one heck oh
+Found: h 
+Top five: h, f, a, k 
+
+one heck o
+(Backspace) 
+
+one heck of
+(Corrected / byClick: ) f 
+
+one heck of 
+(Space) 
+
+one heck of a
+(Corrected / byClick: ) a 
+
+one heck of a 
+(Space) 
+
+one heck of a q
+Found: q 
+Top five: q, y, g, a 
+
+one heck of a qa
+Found: a 
+Top five: a, u, d 
+
+one heck of a q
+(Backspace) 
+
+one heck of a qu
+(Corrected / byClick: ) u 
+
+one heck of a qus
+Found: s 
+Top five: s, z, i, h, g 
+
+one heck of a qu
+(Backspace) 
+
+one heck of a que
+Found: e 
+Top five: e, u, s, c 
+
+one heck of a ques
+(Corrected / byClick: ) s 
+
+one heck of a quest
+Found: t 
+Top five: t, f, a 
+
+one heck of a questl
+Found: l 
+Top five: l, i, r, e, b 
+
+one heck of a quest
+(Backspace) 
+
+one heck of a questi
+(Corrected / byClick: ) i 
+
+one heck of a questio
+Found: o 
+Top five: o, c 
+
+one heck of a question
+Found: n 
+Top five: n, h, a, m, k 
+
+s
+Found: s 
+Top five: s, c 
+
+su
+Found: u 
+Top five: u, d, a, k 
+
+suk
+Found: k 
+Top five: k, b, p, h, a 
+
+su
+(Backspace) 
+
+sub
+(Corrected / byClick: ) b 
+
+subu
+Found: u 
+Top five: u, n, k, h, m 
+
+subur
+Found: r 
+Top five: r, b, a 
+
+suburh
+Found: h 
+Top five: h, b, p, a 
+
+subur
+(Backspace) 
+
+suburb
+(Corrected / byClick: ) b 
+
+suburbs
+Found: s 
+Top five: s, c 
+
+suburbs 
+(Space) 
+
+suburbs a
+Found: a 
+Top five: a, u 
+
+suburbs ar
+Found: r 
+Top five: r, b, a 
+
+suburbs are
+Found: e 
+Top five: e, c, u 
+
+suburbs are 
+(Space) 
+
+suburbs are s
+Found: s 
+Top five: s, c 
+
+suburbs are sp
+Found: p 
+Top five: p, l, b, a 
+
+suburbs are spr
+Found: r 
+Top five: r, n, b, a 
+
+suburbs are sprr
+Found: r 
+Top five: r, k, a, m 
+
+suburbs are spr
+(Backspace) 
+
+suburbs are spra
+(Corrected / byClick: ) a 
+
+suburbs are spraw
+Found: w 
+Top five: w 
+
+suburbs are sprawl
+Found: l 
+Top five: l, b, a 
+
+suburbs are sprawli
+Found: i 
+Top five: i, t, b, a 
+
+suburbs are sprawlir
+Found: r 
+Top five: r, k, d, n, h 
+
+suburbs are sprawli
+(Backspace) 
+
+suburbs are sprawlin
+(Corrected / byClick: ) n 
+
+suburbs are sprawlinq
+Found: q 
+Top five: q, g, e, a 
+
+suburbs are sprawlin
+(Backspace) 
+
+suburbs are sprawling
+(Corrected / byClick: ) g 
+
+suburbs are sprawling 
+(Space) 
+
+suburbs are sprawling u
+Found: u 
+Top five: u, d, a 
+
+suburbs are sprawling up
+Found: p 
+Top five: p, h, b, a 
+
+suburbs are sprawling up 
+(Space) 
+
+suburbs are sprawling up e
+Found: e 
+Top five: e, o, u, s, c 
+
+suburbs are sprawling up ev
+Found: v 
+Top five: v, r, n, l, f 
+
+suburbs are sprawling up eve
+Found: e 
+Top five: e, b, a 
+
+suburbs are sprawling up ever
+Found: r 
+Top five: r, d, n, b, a 
+
+suburbs are sprawling up every
+Found: y 
+Top five: y, v, r, q, g 
+
+suburbs are sprawling up everyw
+Found: w 
+Top five: w 
+
+suburbs are sprawling up everywh
+Found: h 
+Top five: h, k, r, a 
+
+suburbs are sprawling up everywhs
+Found: s 
+Top five: s, o, c 
+
+suburbs are sprawling up everywh
+(Backspace) 
+
+suburbs are sprawling up everywhe
+Found: e 
+Top five: e, u, c 
+
+suburbs are sprawling up everywher
+Found: r 
+Top five: r, d, n, h, e 
+
+suburbs are sprawling up everywhere
+Found: e 
+Top five: e, u, c, s 
+
+t
+Found: t 
+Top five: t, f, b, a 
+
+th
+Found: h 
+Top five: h, k, a 
+
+the
+Found: e 
+Top five: e, d, b, a 
+
+the 
+(Space) 
+
+the a
+(Corrected / byClick: ) a 
+
+the as
+Found: s 
+Top five: s, c 
+
+the asp
+Found: p 
+Top five: p, h, b, a 
+
+the aspi
+Found: i 
+Top five: i, e, b, a 
+
+the aspir
+Found: r 
+Top five: r, d, n, h, e 
+
+the aspird
+Found: d 
+Top five: d, n, a 
+
+the aspirda
+(Corrected / byClick: ) a 
+
+the aspirdax
+Found: x 
+Top five: x, t, p, f, e 
+
+the aspirda
+(Backspace) 
+
+the aspirdat
+(Corrected / byClick: ) t 
+
+the aspirdati
+Found: i 
+Top five: i, v, t, l, h 
+
+the aspirdatio
+Found: o 
+Top five: o, c 
+
+the aspirdation
+Found: n 
+Top five: n, k, h, a 
+
+the aspirdations
+Found: s 
+Top five: s, c 
+
+the aspirdations 
+(Space) 
+
+the aspirdations o
+Found: o 
+Top five: o, c 
+
+the aspirdations of
+Found: f 
+Top five: f, t, e, d, b 
+
+the aspirdations of 
+(Space) 
+
+the aspirdations of a
+Found: a 
+Top five: a 
+
+the aspirdations of a 
+(Space) 
+
+the aspirdations of a d
+Found: d 
+Top five: d, n, h, b, a 
+
+the aspirdations of a 
+(Backspace) 
+
+the aspirdations of a n
+(Corrected / byClick: ) n 
+
+the aspirdations of a na
+Found: a 
+Top five: a, q 
+
+the aspirdations of a nat
+Found: t 
+Top five: t, f, a 
+
+the aspirdations of a nati
+Found: i 
+Top five: i, t, b, a 
+
+the aspirdations of a natio
+Found: o 
+Top five: o, c 
+
+the aspirdations of a nation
+Found: n 
+Top five: n, k, h, a 
+
+t
+Found: t 
+Top five: t, f, a 
+
+th
+Found: h 
+Top five: h, l, b, a 
+
+thi
+Found: i 
+Top five: i, y, t, g, e 
+
+this
+Found: s 
+Top five: s, c 
+
+this 
+(Space) 
+
+this w
+Found: w 
+Top five: w 
+
+this wm
+Found: m 
+Top five: m, d, a, k, g 
+
+this w
+(Backspace) 
+
+this wa
+(Corrected / byClick: ) a 
+
+this wat
+Found: t 
+Top five: t, f, d, b, a 
+
+this watc
+Found: c 
+Top five: c 
+
+this watch
+Found: h 
+Top five: h, k, b, a 
+
+this watch 
+(Space) 
+
+this watch i
+Found: i 
+Top five: i, h, r, v, l 
+
+this watch is
+Found: s 
+Top five: s, c 
+
+this watch is 
+(Space) 
+
+this watch is t
+Found: t 
+Top five: t, f, a 
+
+this watch is to
+Found: o 
+Top five: o, s, c 
+
+this watch is too
+Found: o 
+Top five: o, c 
+
+this watch is too 
+(Space) 
+
+this watch is too e
+Found: e 
+Top five: e, s, o, c 
+
+this watch is too ex
+Found: x 
+Top five: x, y, t, r, e 
+
+this watch is too exr
+Found: r 
+Top five: r, k, h, b, a 
+
+this watch is too ex
+(Backspace) 
+
+this watch is too exp
+Found: p 
+Top five: p, h, b, a 
+
+this watch is too expe
+Found: e 
+Top five: e, p, y, a 
+
+this watch is too expeh
+Found: h 
+Top five: h, e, b, a 
+
+this watch is too expe
+(Backspace) 
+
+this watch is too expen
+Found: n 
+Top five: n, h, a, k 
+
+this watch is too expens
+Found: s 
+Top five: s, g, j, n, e 
+
+this watch is too expensi
+Found: i 
+Top five: i, y, x, v, p 
+
+this watch is too expensiv
+(Corrected / byClick: ) v 
+
+this watch is too expensive
+Found: e 
+Top five: e, u, c 
+

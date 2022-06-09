@@ -1,0 +1,165 @@
+hello world
+No Text correct: False
+start: 57.57957, firstLetter: 0, endTime: 58.53469
+phrase time: 58.53469
+WPM: 1.23003972949559
+ER: 50% with |T| = 2, INF =1
+KSPC: 0 
+EKS ER: 9.090909% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 11
+#Transcribed Length: 2
+
+Start Evaluation
+No Text correct: False
+start: 58.53469, firstLetter: 0, endTime: 60.27825
+phrase time: 60.27825
+WPM: 1.19446073149263
+ER: 250% with |T| = 2, INF =5
+KSPC: 0 
+EKS ER: 31.25% 
+Total ER: 83.33334% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 16
+#Transcribed Length: 2
+
+i hate baking pies
+Text:i hate baking pies correct: True
+start: 60.27825, firstLetter: 63.5991, endTime: 128.4394
+phrase time: 64.84031
+WPM: 4.07154135273321
+ER: 0% with |T| = 18, INF =0
+KSPC: 1.333333 
+EKS ER: 16.66667% 
+Total ER: 14.28571% 
+#Space: 3, #Backspace: 3
+#ByClick: 3, #RecChars: 15
+#InputStream: 24
+#Display Length: 18
+#Transcribed Length: 18
+
+Pause
+No Text correct: False
+start: 128.4394, firstLetter: 0, endTime: 133.0011
+phrase time: 133.0011
+WPM: 0.54134872538007
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+house with new electrical panel
+Text:house with new electrical panel correct: True
+start: 133.0011, firstLetter: 135.6775, endTime: 236.7429
+phrase time: 101.0654
+WPM: 4.15572494097462
+ER: 0% with |T| = 31, INF =0
+KSPC: 1.451613 
+EKS ER: 22.58064% 
+Total ER: 18.42105% 
+#Space: 4, #Backspace: 7
+#ByClick: 5, #RecChars: 29
+#InputStream: 45
+#Display Length: 31
+#Transcribed Length: 31
+
+Pause
+No Text correct: False
+start: 236.7429, firstLetter: 0, endTime: 245.2947
+phrase time: 245.2947
+WPM: 0.293524454866013
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+if diplomacy does not work
+Text:if diplomacy does not work correct: True
+start: 245.2947, firstLetter: 250.5147, endTime: 334.4326
+phrase time: 83.91789
+WPM: 4.28990754490791
+ER: 0% with |T| = 26, INF =0
+KSPC: 1.384615 
+EKS ER: 19.23077% 
+Total ER: 16.12903% 
+#Space: 4, #Backspace: 5
+#ByClick: 2, #RecChars: 25
+#InputStream: 36
+#Display Length: 26
+#Transcribed Length: 26
+
+Pause
+No Text correct: False
+start: 334.4326, firstLetter: 0, endTime: 338.7856
+phrase time: 338.7856
+WPM: 0.212523762922778
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+the gun discharged by accident
+Text:the gun discharged by accident correct: True
+start: 338.7856, firstLetter: 344.1279, endTime: 467.4855
+phrase time: 123.3576
+WPM: 3.30745720999203
+ER: 0% with |T| = 30, INF =0
+KSPC: 1.733333 
+EKS ER: 36.66667% 
+Total ER: 26.82927% 
+#Space: 4, #Backspace: 11
+#ByClick: 7, #RecChars: 30
+#InputStream: 52
+#Display Length: 30
+#Transcribed Length: 30
+
+Pause
+No Text correct: False
+start: 467.4855, firstLetter: 0, endTime: 481.8654
+phrase time: 481.8654
+WPM: 0.149419323213487
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+i agree with you
+Text:i agree with you correct: True
+start: 481.8654, firstLetter: 486.5525, endTime: 528.4894
+phrase time: 41.93695
+WPM: 5.72287674921226
+ER: 0% with |T| = 16, INF =0
+KSPC: 1.375 
+EKS ER: 18.75% 
+Total ER: 15.78947% 
+#Space: 3, #Backspace: 3
+#ByClick: 2, #RecChars: 14
+#InputStream: 22
+#Display Length: 16
+#Transcribed Length: 16
+

@@ -1,0 +1,165 @@
+hello world
+No Text correct: False
+start: 33.65952, firstLetter: 0, endTime: 33.95885
+phrase time: 33.95885
+WPM: 2.12021284841459
+ER: 50% with |T| = 2, INF =1
+KSPC: 0 
+EKS ER: 9.090909% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 11
+#Transcribed Length: 2
+
+Start Evaluation
+No Text correct: False
+start: 33.95885, firstLetter: 0, endTime: 52.39206
+phrase time: 52.39206
+WPM: 1.37425395534453
+ER: 250% with |T| = 2, INF =5
+KSPC: 0 
+EKS ER: 31.25% 
+Total ER: 83.33334% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 16
+#Transcribed Length: 2
+
+the facts get in the way
+Text:the facts get in the way correct: True
+start: 52.39206, firstLetter: 58.02367, endTime: 148.0149
+phrase time: 89.99126
+WPM: 3.7336960530325
+ER: 0% with |T| = 24, INF =0
+KSPC: 1.583333 
+EKS ER: 29.16667% 
+Total ER: 22.58064% 
+#Space: 5, #Backspace: 7
+#ByClick: 3, #RecChars: 23
+#InputStream: 38
+#Display Length: 24
+#Transcribed Length: 24
+
+Pause
+No Text correct: False
+start: 148.0149, firstLetter: 0, endTime: 154.3727
+phrase time: 154.3727
+WPM: 0.466403860604059
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+one heck of a question
+Text:one heck of a question correct: True
+start: 154.3727, firstLetter: 158.2208, endTime: 216.6752
+phrase time: 58.45438
+WPM: 5.33749601265093
+ER: 0% with |T| = 22, INF =0
+KSPC: 1.363636 
+EKS ER: 18.18182% 
+Total ER: 15.38461% 
+#Space: 4, #Backspace: 4
+#ByClick: 5, #RecChars: 17
+#InputStream: 30
+#Display Length: 22
+#Transcribed Length: 22
+
+Pause
+No Text correct: False
+start: 216.6752, firstLetter: 0, endTime: 235.2209
+phrase time: 235.2209
+WPM: 0.306095306820424
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+suburbs are sprawling up everywhere
+Text:suburbs are sprawling up everywhere correct: True
+start: 235.2209, firstLetter: 242.7081, endTime: 367.4196
+phrase time: 124.7115
+WPM: 3.75266062032322
+ER: 0% with |T| = 35, INF =0
+KSPC: 1.342857 
+EKS ER: 17.14286% 
+Total ER: 14.63415% 
+#Space: 4, #Backspace: 6
+#ByClick: 5, #RecChars: 32
+#InputStream: 47
+#Display Length: 35
+#Transcribed Length: 35
+
+Pause
+No Text correct: False
+start: 367.4196, firstLetter: 0, endTime: 382.0979
+phrase time: 382.0979
+WPM: 0.188433398029469
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+the aspirations of a nation
+Text:the aspirdations of a nation correct: False
+start: 382.0979, firstLetter: 390.9459, endTime: 477.7244
+phrase time: 86.77847
+WPM: 4.42506058433153
+ER:  with |T| = 28, INF =1
+KSPC: 1.142857 
+EKS ER:  
+Total ER:  
+#Space: 4, #Backspace: 2
+#ByClick: 4, #RecChars: 22
+#InputStream: 32
+#Display Length: 27
+#Transcribed Length: 28
+
+Pause
+No Text correct: False
+start: 477.7244, firstLetter: 0, endTime: 490.4295
+phrase time: 490.4295
+WPM: 0.146810099790341
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+this watch is too expensive
+Text:this watch is too expensive correct: True
+start: 490.4295, firstLetter: 494.6903, endTime: 575.131
+phrase time: 80.44067
+WPM: 4.62452615445316
+ER: 0% with |T| = 27, INF =0
+KSPC: 1.222222 
+EKS ER: 11.11111% 
+Total ER: 10% 
+#Space: 4, #Backspace: 3
+#ByClick: 2, #RecChars: 24
+#InputStream: 33
+#Display Length: 27
+#Transcribed Length: 27
+

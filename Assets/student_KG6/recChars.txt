@@ -1,0 +1,885 @@
+m
+Found: m 
+Top five: m, w, e 
+
+my
+Found: y 
+Top five: y, r, q, g, d 
+
+my 
+(Space) 
+
+my s
+Found: s 
+Top five: s, c 
+
+my 
+(Backspace) 
+
+my c
+(Corrected / byClick: ) c 
+
+my ca
+Found: a 
+Top five: a 
+
+my car
+Found: r 
+Top five: r, n, h, e, d 
+
+my car 
+(Space) 
+
+my car a
+Found: a 
+Top five: a 
+
+my car av
+Found: v 
+Top five: v, l, b, a 
+
+my car a
+(Backspace) 
+
+my car al
+(Corrected / byClick: ) l 
+
+my car alw
+Found: w 
+Top five: w 
+
+my car alwa
+Found: a 
+Top five: a, q 
+
+my car alway
+Found: y 
+Top five: y, r, e, b, a 
+
+my car alwayd
+Found: d 
+Top five: d, y, p, e, b 
+
+my car alway
+(Backspace) 
+
+my car always
+Found: s 
+Top five: s, c 
+
+my car always 
+(Space) 
+
+my car always l
+Found: l 
+Top five: l, b, p, a 
+
+my car always 
+(Backspace) 
+
+my car always b
+(Corrected / byClick: ) b 
+
+my car always bl
+Found: l 
+Top five: l, h, b, a 
+
+my car always b
+(Backspace) 
+
+my car always br
+Found: r 
+Top five: r, n, h, e, d 
+
+my car always bre
+Found: e 
+Top five: e, o, c, u, s 
+
+my car always breu
+Found: u 
+Top five: u, a 
+
+my car always bre
+(Backspace) 
+
+my car always brea
+(Corrected / byClick: ) a 
+
+my car always break
+Found: k 
+Top five: k, a 
+
+my car always breaks
+Found: s 
+Top five: s, z, j, q, n 
+
+my car always breaks 
+(Space) 
+
+my car always breaks i
+Found: i 
+Top five: i, t, b, a 
+
+my car always breaks id
+Found: d 
+Top five: d, n, h, e, b 
+
+my car always breaks i
+(Backspace) 
+
+my car always breaks in
+(Corrected / byClick: ) n 
+
+my car always breaks in 
+(Space) 
+
+my car always breaks in f
+Found: f 
+Top five: f, d, a 
+
+my car always breaks in 
+(Backspace) 
+
+my car always breaks in t
+Found: t 
+Top five: t, f, e, d, b 
+
+my car always breaks in th
+Found: h 
+Top five: h, k, a 
+
+my car always breaks in thy
+Found: y 
+Top five: y, i, h, b, a 
+
+my car always breaks in th
+(Backspace) 
+
+my car always breaks in the
+Found: e 
+Top five: e, u, c 
+
+my car always breaks in the 
+(Space) 
+
+my car always breaks in the w
+Found: w 
+Top five: w 
+
+my car always breaks in the wi
+Found: i 
+Top five: i, x, e, b, a 
+
+my car always breaks in the wir
+Found: r 
+Top five: r, d, e, b, a 
+
+my car always breaks in the wi
+(Backspace) 
+
+my car always breaks in the wip
+Found: p 
+Top five: p, n, h, e, b 
+
+my car always breaks in the wi
+(Backspace) 
+
+my car always breaks in the win
+(Corrected / byClick: ) n 
+
+my car always breaks in the wint
+Found: t 
+Top five: t, f, a 
+
+my car always breaks in the winto
+Found: o 
+Top five: o, c 
+
+my car always breaks in the wint
+(Backspace) 
+
+my car always breaks in the winte
+Found: e 
+Top five: e, d, b, a 
+
+my car always breaks in the winter
+Found: r 
+Top five: r, l, b, a 
+
+t
+Found: t 
+Top five: t, f, b, a 
+
+th
+Found: h 
+Top five: h, k, p, l, b 
+
+the
+Found: e 
+Top five: e, a 
+
+the 
+(Space) 
+
+the p
+Found: p 
+Top five: p, r, h, b, a 
+
+the pr
+Found: r 
+Top five: r, l, d, b, a 
+
+the pro
+Found: o 
+Top five: o, c 
+
+the prot
+Found: t 
+Top five: t, f, a 
+
+the prote
+Found: e 
+Top five: e, o, c, u, s 
+
+the protes
+Found: s 
+Top five: s, c 
+
+the protest
+Found: t 
+Top five: t, f, b, a 
+
+the proteste
+Found: e 
+Top five: e, u, c 
+
+the protester
+Found: r 
+Top five: r, b, h, f, d 
+
+the protesters
+Found: s 
+Top five: s, c 
+
+the protesters 
+(Space) 
+
+the protesters p
+Found: p 
+Top five: p, b, n, h, a 
+
+the protesters 
+(Backspace) 
+
+the protesters b
+(Corrected / byClick: ) b 
+
+the protesters bl
+Found: l 
+Top five: l, r, h, f, b 
+
+the protesters blo
+Found: o 
+Top five: o, c 
+
+the protesters bloc
+Found: c 
+Top five: c 
+
+the protesters block
+Found: k 
+Top five: k, a 
+
+the protesters blocke
+Found: e 
+Top five: e, y, a 
+
+the protesters blocked
+Found: d 
+Top five: d, v, a 
+
+the protesters blocked 
+(Space) 
+
+the protesters blocked a
+(Corrected / byClick: ) a 
+
+the protesters blocked al
+Found: l 
+Top five: l, r, p, h, b 
+
+the protesters blocked all
+(Corrected / byClick: ) l 
+
+the protesters blocked all 
+(Space) 
+
+the protesters blocked all t
+Found: t 
+Top five: t, f, b, a 
+
+the protesters blocked all tr
+Found: r 
+Top five: r, n, l, h, e 
+
+the protesters blocked all tra
+Found: a 
+Top five: a, u 
+
+the protesters blocked all trad
+Found: d 
+Top five: d, h, f, a, k 
+
+the protesters blocked all tra
+(Backspace) 
+
+the protesters blocked all traf
+(Corrected / byClick: ) f 
+
+the protesters blocked all traff
+(Corrected / byClick: ) f 
+
+the protesters blocked all traffi
+Found: i 
+Top five: i, b, a 
+
+the protesters blocked all traffie
+Found: e 
+Top five: e, y, d, p, g 
+
+the protesters blocked all traffi
+(Backspace) 
+
+the protesters blocked all traffic
+Found: c 
+Top five: c 
+
+t
+Found: t 
+Top five: t, f, e, a 
+
+th
+Found: h 
+Top five: h, p, d, r, k 
+
+the
+Found: e 
+Top five: e, c, u, s 
+
+the 
+(Space) 
+
+the c
+(Corrected / byClick: ) c 
+
+the co
+Found: o 
+Top five: o, c 
+
+the cor
+Found: r 
+Top five: r, n, d, b, a 
+
+the coro
+Found: o 
+Top five: o, c 
+
+the corod
+Found: d 
+Top five: d, n, h, e, b 
+
+the coro
+(Backspace) 
+
+the coron
+(Corrected / byClick: ) n 
+
+the corona
+Found: a 
+Top five: a, u 
+
+the coronat
+Found: t 
+Top five: t, f, d, a 
+
+the coronati
+Found: i 
+Top five: i, u, r, p, a 
+
+the coronatio
+Found: o 
+Top five: o, c 
+
+the coronation
+Found: n 
+Top five: n, e, b, a 
+
+the coronation 
+(Space) 
+
+the coronation w
+Found: w 
+Top five: w 
+
+the coronation wa
+Found: a 
+Top five: a, u 
+
+the coronation wae
+Found: e 
+Top five: e, s, j, b, a 
+
+the coronation wa
+(Backspace) 
+
+the coronation was
+(Corrected / byClick: ) s 
+
+the coronation was 
+(Space) 
+
+the coronation was v
+Found: v 
+Top five: v, t, r, q, l 
+
+the coronation was ve
+Found: e 
+Top five: e, y, a 
+
+the coronation was ver
+Found: r 
+Top five: r, n, b, a 
+
+the coronation was very
+Found: y 
+Top five: y, r, q, g, e 
+
+the coronation was very 
+(Space) 
+
+the coronation was very e
+Found: e 
+Top five: e, o, u, s, c 
+
+the coronation was very ex
+Found: x 
+Top five: x, e, d, a 
+
+the coronation was very exs
+Found: s 
+Top five: s, c 
+
+the coronation was very ex
+(Backspace) 
+
+the coronation was very exc
+(Corrected / byClick: ) c 
+
+the coronation was very exci
+Found: i 
+Top five: i, y, v, p, g 
+
+the coronation was very excih
+Found: h 
+Top five: h, f, k, a 
+
+the coronation was very exci
+(Backspace) 
+
+the coronation was very excif
+Found: f 
+Top five: f, d, b, a 
+
+the coronation was very exci
+(Backspace) 
+
+the coronation was very excif
+Found: f 
+Top five: f, t, d, b, a 
+
+the coronation was very exci
+(Backspace) 
+
+the coronation was very excit
+(Corrected / byClick: ) t 
+
+the coronation was very exciti
+Found: i 
+Top five: i, y, r, l, f 
+
+the coronation was very excitin
+Found: n 
+Top five: n, e, b, a 
+
+the coronation was very excitinq
+Found: q 
+Top five: q, g, a 
+
+the coronation was very excitin
+(Backspace) 
+
+the coronation was very exciting
+(Corrected / byClick: ) g 
+
+i
+Found: i 
+Top five: i, x, e, a 
+
+i 
+(Space) 
+
+i a
+(Corrected / byClick: ) a 
+
+i am
+Found: m 
+Top five: m 
+
+i am 
+(Space) 
+
+i am a
+Found: a 
+Top five: a, u, g 
+
+i am al
+Found: l 
+Top five: l, h, f, b, a 
+
+i am all
+Found: l 
+Top five: l, v, b, a 
+
+i am alle
+Found: e 
+Top five: e, s, o, c 
+
+i am aller
+Found: r 
+Top five: r, b, a 
+
+i am allerq
+Found: q 
+Top five: q, g, a 
+
+i am aller
+(Backspace) 
+
+i am allerg
+(Corrected / byClick: ) g 
+
+i am allergi
+Found: i 
+Top five: i, v, e, b, a 
+
+i am allergic
+Found: c 
+Top five: c 
+
+i am allergic 
+(Space) 
+
+i am allergic t
+Found: t 
+Top five: t, h, f, e, b 
+
+i am allergic to
+Found: o 
+Top five: o, c 
+
+i am allergic to 
+(Space) 
+
+i am allergic to p
+Found: p 
+Top five: p, n, h, e, b 
+
+i am allergic to 
+(Backspace) 
+
+i am allergic to b
+Found: b 
+Top five: b, h, a 
+
+i am allergic to bd
+Found: d 
+Top five: d, z, m, w, e 
+
+i am allergic to b
+(Backspace) 
+
+i am allergic to be
+Found: e 
+Top five: e, d, b, a 
+
+i am allergic to bee
+Found: e 
+Top five: e, u, c, s 
+
+i am allergic to bees
+Found: s 
+Top five: s, c 
+
+i am allergic to bees 
+(Space) 
+
+i am allergic to bees d
+Found: d 
+Top five: d, f, a 
+
+i am allergic to bees 
+(Backspace) 
+
+i am allergic to bees a
+(Corrected / byClick: ) a 
+
+i am allergic to bees an
+Found: n 
+Top five: n, h, e, b, a 
+
+i am allergic to bees and
+Found: d 
+Top five: d, a, k 
+
+i am allergic to bees and 
+(Space) 
+
+i am allergic to bees and p
+Found: p 
+Top five: p, h, e, b, a 
+
+i am allergic to bees and pe
+Found: e 
+Top five: e, y, a 
+
+i am allergic to bees and pea
+Found: a 
+Top five: a 
+
+i am allergic to bees and pean
+Found: n 
+Top five: n, h, m, k, a 
+
+i am allergic to bees and peanw
+Found: w 
+Top five: w, e 
+
+i am allergic to bees and pean
+(Backspace) 
+
+i am allergic to bees and peand
+Found: d 
+Top five: d, h, g, a, k 
+
+i am allergic to bees and pean
+(Backspace) 
+
+i am allergic to bees and peand
+Found: d 
+Top five: d, m, e, w 
+
+i am allergic to bees and pean
+(Backspace) 
+
+i am allergic to bees and peana
+Found: a 
+Top five: a, q, u, t, d 
+
+i am allergic to bees and pean
+(Backspace) 
+
+i am allergic to bees and peanu
+(Corrected / byClick: ) u 
+
+i am allergic to bees and peanut
+(Corrected / byClick: ) t 
+
+i am allergic to bees and peanuts
+Found: s 
+Top five: s, c 
+
+a
+Found: a 
+Top five: a 
+
+a 
+(Space) 
+
+a g
+Found: g 
+Top five: g, a 
+
+a go
+Found: o 
+Top five: o, c 
+
+a goo
+Found: o 
+Top five: o, c 
+
+a goox
+Found: x 
+Top five: x, v, u, d, a 
+
+a goo
+(Backspace) 
+
+a good
+(Corrected / byClick: ) d 
+
+a good 
+(Space) 
+
+a good s
+Found: s 
+Top five: s, c 
+
+a good sf
+Found: f 
+Top five: f, a, k 
+
+a good s
+(Backspace) 
+
+a good st
+Found: t 
+Top five: t, f, e, a 
+
+a good sth
+Found: h 
+Top five: h, l, i, a 
+
+a good st
+(Backspace) 
+
+a good sti
+(Corrected / byClick: ) i 
+
+a good stim
+Found: m 
+Top five: m, e, w 
+
+a good stimn
+Found: n 
+Top five: n, k, h, m, a 
+
+a good stim
+(Backspace) 
+
+a good stimu
+Found: u 
+Top five: u, d, a 
+
+a good stimul
+Found: l 
+Top five: l, r, v, b, a 
+
+a good stimulu
+Found: u 
+Top five: u, d, a 
+
+a good stimulus
+Found: s 
+Top five: s, c, o 
+
+a good stimulus 
+(Space) 
+
+a good stimulus u
+Found: u 
+Top five: u, d, a 
+
+a good stimulus 
+(Backspace) 
+
+a good stimulus d
+(Corrected / byClick: ) d 
+
+a good stimulus de
+Found: e 
+Top five: e, o, u, s, c 
+
+a good stimulus des
+Found: s 
+Top five: s, c 
+
+a good stimulus dese
+Found: e 
+Top five: e, b, a 
+
+a good stimulus deser
+Found: r 
+Top five: r, l, h, b, a 
+
+a good stimulus deserv
+Found: v 
+Top five: v, r, d, b, a 
+
+a good stimulus deserve
+Found: e 
+Top five: e, c, u 
+
+a good stimulus deserves
+Found: s 
+Top five: s, c 
+
+a good stimulus deserves 
+(Space) 
+
+a good stimulus deserves a
+Found: a 
+Top five: a 
+
+a good stimulus deserves a 
+(Space) 
+
+a good stimulus deserves a g
+Found: g 
+Top five: g, a 
+
+a good stimulus deserves a go
+Found: o 
+Top five: o, c 
+
+a good stimulus deserves a goo
+(Corrected / byClick: ) o 
+
+a good stimulus deserves a good
+Found: d 
+Top five: d, b, a 
+
+a good stimulus deserves a good 
+(Space) 
+
+a good stimulus deserves a good r
+Found: r 
+Top five: r, d, n, h, e 
+
+a good stimulus deserves a good re
+Found: e 
+Top five: e, u, c 
+
+a good stimulus deserves a good res
+Found: s 
+Top five: s, c 
+
+a good stimulus deserves a good resp
+Found: p 
+Top five: p, k, f, b, m 
+
+a good stimulus deserves a good respo
+Found: o 
+Top five: o, c 
+
+a good stimulus deserves a good respon
+Found: n 
+Top five: n, k, h, b, a 
+
+a good stimulus deserves a good respons
+Found: s 
+Top five: s, c 
+
+a good stimulus deserves a good response
+Found: e 
+Top five: e, u, c 
+

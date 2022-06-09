@@ -1,0 +1,165 @@
+hello world
+No Text correct: False
+start: 24.74547, firstLetter: 0, endTime: 26.43957
+phrase time: 26.43957
+WPM: 2.72319089305617
+ER: 50% with |T| = 2, INF =1
+KSPC: 0 
+EKS ER: 9.090909% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 11
+#Transcribed Length: 2
+
+Start Evaluation
+No Text correct: False
+start: 26.43957, firstLetter: 0, endTime: 28.22517
+phrase time: 28.22517
+WPM: 2.55091499485475
+ER: 250% with |T| = 2, INF =5
+KSPC: 0 
+EKS ER: 31.25% 
+Total ER: 83.33334% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 16
+#Transcribed Length: 2
+
+my car always breaks in the winter
+Text:my car always breaks in the winter correct: True
+start: 28.22517, firstLetter: 33.44654, endTime: 156.1331
+phrase time: 122.6866
+WPM: 3.71678710341085
+ER: 0% with |T| = 34, INF =0
+KSPC: 1.705882 
+EKS ER: 35.29412% 
+Total ER: 26.08696% 
+#Space: 6, #Backspace: 12
+#ByClick: 6, #RecChars: 34
+#InputStream: 58
+#Display Length: 34
+#Transcribed Length: 34
+
+Pause
+No Text correct: False
+start: 156.1331, firstLetter: 0, endTime: 183.7763
+phrase time: 183.7763
+WPM: 0.391780613776277
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+the protesters blocked all traffic
+Text:the protesters blocked all traffic correct: True
+start: 183.7763, firstLetter: 188.9609, endTime: 291.6687
+phrase time: 102.7078
+WPM: 4.4397779191126
+ER: 0% with |T| = 34, INF =0
+KSPC: 1.176471 
+EKS ER: 8.823529% 
+Total ER: 8.108109% 
+#Space: 4, #Backspace: 3
+#ByClick: 5, #RecChars: 28
+#InputStream: 40
+#Display Length: 34
+#Transcribed Length: 34
+
+Pause
+No Text correct: False
+start: 291.6687, firstLetter: 0, endTime: 302.0909
+phrase time: 302.0909
+WPM: 0.23833889640206
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+the coronation was very exciting
+Text:the coronation was very exciting correct: True
+start: 302.0909, firstLetter: 309.142, endTime: 416.1006
+phrase time: 106.9586
+WPM: 4.03894637640346
+ER: 0% with |T| = 32, INF =0
+KSPC: 1.4375 
+EKS ER: 21.875% 
+Total ER: 17.94872% 
+#Space: 4, #Backspace: 7
+#ByClick: 6, #RecChars: 29
+#InputStream: 46
+#Display Length: 32
+#Transcribed Length: 32
+
+Pause
+No Text correct: False
+start: 416.1006, firstLetter: 0, endTime: 430.7882
+phrase time: 430.7882
+WPM: 0.167135494105016
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+i am allergic to bees and peanuts
+Text:i am allergic to bees and peanuts correct: True
+start: 430.7882, firstLetter: 438.3309, endTime: 559.4272
+phrase time: 121.0963
+WPM: 3.66650395165625
+ER: 0% with |T| = 33, INF =0
+KSPC: 1.484848 
+EKS ER: 24.24242% 
+Total ER: 19.5122% 
+#Space: 6, #Backspace: 8
+#ByClick: 5, #RecChars: 30
+#InputStream: 49
+#Display Length: 33
+#Transcribed Length: 33
+
+Pause
+No Text correct: False
+start: 559.4272, firstLetter: 0, endTime: 576.8194
+phrase time: 576.8194
+WPM: 0.124822432078187
+ER: -250% with |T| = 2, INF =-5
+KSPC: 0 
+EKS ER: -100% 
+Total ER: 100% 
+#Space: 0, #Backspace: 0
+#ByClick: 0, #RecChars: 0
+#InputStream: 0
+#Display Length: 5
+#Transcribed Length: 2
+
+a good stimulus deserves a good response
+Text:a good stimulus deserves a good response correct: True
+start: 576.8194, firstLetter: 582.4327, endTime: 714.3636
+phrase time: 131.931
+WPM: 4.00209293578656
+ER: 0% with |T| = 40, INF =0
+KSPC: 1.25 
+EKS ER: 12.5% 
+Total ER: 11.11111% 
+#Space: 6, #Backspace: 5
+#ByClick: 4, #RecChars: 35
+#InputStream: 50
+#Display Length: 40
+#Transcribed Length: 40
+
