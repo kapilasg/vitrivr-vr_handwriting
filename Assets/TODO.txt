@@ -1,0 +1,6 @@
+1. Add Comments
+2. Remove Debug statements
+3. Folder for Evaluation classes, DataManagement, Drawing classes, Character/Segment
+4. Create Index.html
+5. Extend ReadMe.md
+6. Make zip with package_Code, vitrivr-VR_Code, Report, Presentation_Slides, DemoVideo, index.html
